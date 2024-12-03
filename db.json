@@ -1,0 +1,2918 @@
+{
+  "blogs": [
+    {
+      "id": "d2168e7b-262d-4c49-a1ba-3222d794fa00",
+      "created_at": "02 December, 2022",
+      "base": "87209e45-2923-4187-9095-27e4e87ac888 \n 45771843-01b9-4cb8-8dc2-e3fc7cdbacfa \n 4a2498a1-3462-4e5a-8690-51f8a660b9f1 \n 781f97b7-8f26-4cb4-9e41-c48c0f7d09b0 \n e008264d-4e61-4daf-b85e-fa9eb6ebebea \n 961a7930-3afa-4209-bf71-fed9ada4bc86 \n 533ff3f4-e3f9-4a9a-b8b7-64b21130aa20 \n 83f0f343-9826-4acf-9976-44e052f17486",
+      "current_titles": [
+        {
+          "value": "5x Menejerimdan Mukofot Oldim",
+          "style": ""
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "87209e45-2923-4187-9095-27e4e87ac888",
+          "type": "p",
+          "value": "Amazondagi menejerimning > menejerining  > menejerining     > menejerining      > menejeri menga yo'llagan savoliga 2 soat-u, 15 daqiqa o'ylanib javob berdim. Natijada qiziq voqea bo'ldi."
+        },
+        {
+          "id": "45771843-01b9-4cb8-8dc2-e3fc7cdbacfa",
+          "type": "p",
+          "value": "Har oy organizatsiyamizda 1-2 kishi Amazonning liderlik prinsiplarni ko’rsatganligi uchun “Just do it” degan mukofot bilan taqdirlanarkan."
+        },
+        {
+          "id": "4a2498a1-3462-4e5a-8690-51f8a660b9f1",
+          "type": "p",
+          "value": "Noyabr oyi uchun meni tanlashibdi. 2 hafta oldin ishdan haydalsam kerak deb turgandim - syurpriz bo’ldi.  "
+        },
+        {
+          "id": "781f97b7-8f26-4cb4-9e41-c48c0f7d09b0",
+          "type": "p",
+          "value": "Ho’sh, mukofotning siri nimada?"
+        },
+        {
+          "id": "e008264d-4e61-4daf-b85e-fa9eb6ebebea",
+          "type": "p",
+          "value": "Siri shundaki - sizga berilgan vazifalardan tashqariga chiqishingiz kerak."
+        },
+        {
+          "id": "961a7930-3afa-4209-bf71-fed9ada4bc86",
+          "type": "p",
+          "value": "Amazonda 1-oy faqat o’rganib - “onboarding” qilishim kerak edi. Men esa darrov ishni boshlab yubordim. Qiyin bo’lgandi lekin yaxshi natija berdi. Qilgan ishim “<i>Bias for Action</i>” degan prinsipiga to’g’ri kelarkan."
+        },
+        {
+          "id": "533ff3f4-e3f9-4a9a-b8b7-64b21130aa20",
+          "type": "p",
+          "value": "Super Dispatchda ham huddi shu sabab bilan bir necha bor lavozimim ko’tarilgan, maoshim ham. Hech kim aytmagan bo’lsa ham, o’zimdan bilib menga tegishli bo’lmagan qismlarda ishlardim - kandidatlarni suhbat qilish, yangi kelganlarni o’rgatadigan video kurs tayyorlash va h.k. Bu Super Dispatchning “<i>Be Proactive</i>” degan prinsipiga to’g’ri keladi."
+        },
+        {
+          "id": "83f0f343-9826-4acf-9976-44e052f17486",
+          "type": "p",
+          "value": "Bollar, biz yutamiz!"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "lists": [],
+      "quotes": []
+    },
+    {
+      "id": "97312dec-3074-4394-9378-e65a2b15e05b",
+      "created_at": "01 August, 2022",
+      "base": "",
+      "current_titles": [
+        {
+          "value": "Amazon'dan Offer Oldim",
+          "style": ""
+        }
+      ],
+      "subtitles": [
+        {
+          "id": "c64f0ceb-83e6-4e2d-94df-504c3f29d4c1",
+          "value": "Bosqich #1: Online Assesment",
+          "style": ""
+        },
+        {
+          "id": "287702df-31bf-458d-956b-66b9d2b6555d",
+          "value": "Bosqich #2: Texnik Suhbat",
+          "style": ""
+        },
+        {
+          "id": "cce17609-c04e-4e49-bcc8-4c7ec323fcd5",
+          "value": "Texnik Suhbat Natijasi",
+          "style": ""
+        },
+        {
+          "id": "0521f087-9260-4e40-8955-b423a20c8832",
+          "value": "Asosiy Bosqichga Tayyorlanish",
+          "style": ""
+        },
+        {
+          "id": "0664d7ca-90ba-4043-a877-2e1db58c5c04",
+          "value": "Bosqich #3: Onsayt, Ketma-Ket Suhbatlar",
+          "style": ""
+        },
+        {
+          "id": "e86b6859-583b-41f6-bb43-b351a406f8f5",
+          "value": "So'ngi Bosqich #4: Jamoa Tanlash",
+          "style": ""
+        },
+        {
+          "id": "b0c0dd9c-c292-493f-8172-c1c2037e9cff",
+          "value": "Xulosa",
+          "style": ""
+        }
+      ],
+      "texts": [
+        {
+          "id": "da7ed2f5-58b5-4df0-b256-a75cdc856a42",
+          "type": "p",
+          "value": "Kuni kecha Amazon kompaniyasidan SDE II uchun ishga taklif oldim. Ushbu maqolada suhbat va tayyorgarlik jarayoni bilan bo'lishaman."
+        },
+        {
+          "id": "9245a2f1-c9f6-429c-9ee0-bf42ce8653b9",
+          "type": "p",
+          "value": "Quyida men Linkedin rekruterdan olgan ilk xabarni ko'rishingiz mumkin."
+        },
+        {
+          "id": "e27a93f2-b1b1-4c28-b82b-c066ac8f4398",
+          "type": "p",
+          "value": "Rekruter uyga vazifa qilib dc2b7f84-064a-4ad0-8102-d734f9477918 dan 2ta masala yubordi. Ikkisini ham yecha oldim. So'ng, keyingi bosqich – injiner bilan texnik suhbatga taklif oldim."
+        },
+        {
+          "id": "d660c976-c263-4f36-b4bf-d4ba0279540d",
+          "type": "p",
+          "value": "Bu bosqich 3c157b40-9669-430c-b191-7395166cef92 intervyularimdan biroz farq qildi. Boshida 20-25 daqiqa o'tmishdagi tajribalarim va ishda bo'lgan vaziyatlar haqida to'xtaldik. Jamoamda kimnidir ishontirishim kerak bo'lgan vaziyat haqida gapirib berishni so'radi."
+        },
+        {
+          "id": "8b2f80c4-6ff4-474d-9161-d8213e59acf3",
+          "type": "p",
+          "value": "Savollarga \"STAR\" freymvorkidan foydalanib javob berib o'tdim:"
+        },
+        {
+          "id": "56c89e4b-80a0-495f-9f7f-b2844970e7fe",
+          "type": "p",
+          "value": "Keyin esa algoritmik savolga o'tdik. Omadni qarang: o'zim Super Dispatchda kandidatlardan ko'p so'raydigan savol tushdi. Bir emas, ikki emas, uchta optimal yechim berdim. Kodni yozib, test qilib, yana qanday qilib rivojlantirish mumkinligi haqida aytib o'tdim."
+        },
+        {
+          "id": "2f3dfade-9aa2-4cda-bb7c-6c19da1d1f2e",
+          "type": "p",
+          "value": "Shu kunni o'zidayoq javob oldim. Javobdagi \"but\" degan joyini o'qib, kichik yurak hurujini o'tkazdim. Odatda, \"<i>but</i>\" yoki \"<i>unfortunately</i>\" so'zlari rad javobidan darak beradi. Lekin bu safar emas!"
+        },
+        {
+          "id": "7c6f33c7-e134-4444-af55-a07be774204b",
+          "type": "p",
+          "value": "Emailda, SDE II - ya'ni yuqoriroq pozitsiyaga mos kelishimni aytib o'tibdi."
+        },
+        {
+          "id": "ed3eed6f-b135-4023-b625-3cb720c55a04",
+          "type": "p",
+          "value": "Meta va Bloomberg internshiplarini olishda algoritmlar bo'yicha bilimlar yordam bergan bo'lsa, endi Amazon full-time ish uchun \"System Design\" va \"Behavioural\" bilimlarimni kuchaytirishim kerak bo'ldi."
+        },
+        {
+          "id": "94f9f884-b3e6-49fb-b9b7-7a833d80da66",
+          "type": "p",
+          "value": "Ilgari 4fae7e2e-21ac-43d4-bb3c-c2e4dd6c475f design bo'yicha tayyorlangan edim, bilimlarni takrorlab, yana d3585a87-e558-4bf0-be3e-4c08477a4adc qayta o'qishni boshladim. id aka qimmatli vaqtlarini ayamay system design bo'yicha foydali mok intervyu tashkillashtirib berdilar."
+        },
+        {
+          "id": "c3a1457d-3f7c-42b6-8893-776fed280fae",
+          "type": "p",
+          "value": "Katta intervyu kuni yetib keldi, birin-ketin 4ta intervyu bo'lib o'tdi: 2ta dasturlash, 1ta OOP dizayn va 1ta sistem dizayn. Har bir boshida suhbat bb1f66a1-5373-474b-b5e0-62d1959036d1 bo'yicha gaplashdik, ish faoliyatimdan misollar keltirdim. Erkin suhbatlashdik – hayajon bo'lmadi. Har bir suhbat oluvchi bilan ijobiy muomalada bo'lib, suhbat so'ngida ajratgan vaqtlari va so'ragan savollari uchun rahmat aytib yakunladim (edfb4ca1-6721-4b39-837f-e2591ed349ef)."
+        },
+        {
+          "id": "a0ba8d2b-40aa-4a50-bcd9-03e574ad450f",
+          "type": "p",
+          "value": "3 kundan so'ng rekruter aloqaga chiqib natija ijobiy ekanligi aytdi. Tanlash uchun ikki jamoa borligi va loyihalar haqida menejerlari bilan gaplashib olish imkoniyatim borligi haqida aytib o'tdi."
+        },
+        {
+          "id": "0d5ff6db-7992-478f-a407-f1a6a20a5678",
+          "type": "p",
+          "value": "Amazonni boshqa FAANG kompaniyalaridan ajratib turadigan taraflaridan biri – oldindan jamoani bilib ishga topshirasiz."
+        },
+        {
+          "id": "37f73fb0-985d-4ca6-850c-6b5588615437",
+          "type": "p",
+          "value": "Men ilk bor \"<s>SDE I, Alexa AI - Analytics</s>\" pozitsiyasiga topshirgan edim, darajam \"SDE II\"ga oshirilgandan so'ng, ikki jamoadan biriga qo'shilish imkoniyati paydo bo'ldi. Machine Learning texnologiyalari bilan ishlash imkoniyati bo'lganligi uchun \"<s>Alexa AI - Natural Understanding</s>\" jamoasi ko'proq yoqdi. Ular bilan davom etishimni aytdim."
+        },
+        {
+          "id": "55639afc-0f32-4d3d-9172-3ac87584eece",
+          "type": "p",
+          "value": "Bundan bir yil oldin meni buncha imkoniyatlar kutib turganligini hayolimga ham keltira olmasdim - Facebook, Bloomberg va endi Amazon. Imkoniyatlar eshik qoqib kelaveradi, siz ularga tayyor turishingiz kerak ekan."
+        },
+        {
+          "id": "30f0ad25-977c-4fc9-8d71-352a27138670",
+          "type": "p",
+          "value": "Bollar, biz yutdik!"
+        }
+      ],
+      "images": [
+        {
+          "id": "f19ddcad-73cc-4071-a5d0-91cf149e53b4",
+          "url": "https://azimjon.com/media/2022/07/26/amazon-website2000amazon-logo-900.png",
+          "alt": "Amazon",
+          "width": "1000px",
+          "height": "500px",
+          "style": "",
+          "title": "Amazon"
+        },
+        {
+          "id": "579ff2d6-a1f7-48f4-824a-ed23f71cc9ab",
+          "url": "https://azimjon.com/media/2022/07/28/Screen_Shot_2022-07-26_at_15.05.44.png",
+          "alt": "image",
+          "width": "1000px",
+          "height": "500px",
+          "style": "",
+          "title": "image"
+        },
+        {
+          "id": "f4be9f95-dc8f-49ca-b36d-18c653aa9425",
+          "url": "https://azimjon.com/media/2022/07/26/Screen_Shot_2022-07-26_at_16.11.06.png",
+          "alt": "image",
+          "width": "1000px",
+          "height": "500px",
+          "style": "",
+          "title": "image"
+        },
+        {
+          "id": "8f4c5863-58d5-4b2c-a313-c3fd98df621d",
+          "url": "https://azimjon.com/media/2022/07/28/IMG_3115.jpg",
+          "alt": "image",
+          "width": "1000px",
+          "height": "500px",
+          "style": "",
+          "title": "image"
+        }
+      ],
+      "links": [
+        {
+          "id": "dc2b7f84-064a-4ad0-8102-d734f9477918",
+          "value": "hackerrank.com ",
+          "link": "https://hackerrank.com/",
+          "style": ""
+        },
+        {
+          "id": "3c157b40-9669-430c-b191-7395166cef92",
+          "value": "boshqa FAANG ",
+          "link": "https://azimjon.com/blog/yozgi-internship-haqida/",
+          "style": ""
+        },
+        {
+          "id": "4fae7e2e-21ac-43d4-bb3c-c2e4dd6c475f",
+          "value": " Bloomberg uchun system",
+          "link": "https://azimjon.com/blog/bloombergdan-offer-oldim/",
+          "style": ""
+        },
+        {
+          "id": "d3585a87-e558-4bf0-be3e-4c08477a4adc",
+          "value": "shu ikki kitobni",
+          "link": "https://t.me/lazyprogrammer/270",
+          "style": ""
+        },
+        {
+          "id": "6b18d3e8-965b-4ed2-9dde-3b54f3d454fc",
+          "value": "Mashhur",
+          "link": "https://www.linkedin.com/in/mashhurs/",
+          "style": ""
+        },
+        {
+          "id": "bb1f66a1-5373-474b-b5e0-62d1959036d1",
+          "value": "Amazon liderlik prinsiplari",
+          "link": "https://www.amazon.jobs/en-gb/principles",
+          "style": ""
+        },
+        {
+          "id": "edfb4ca1-6721-4b39-837f-e2591ed349ef",
+          "value": "qo'shimcha maqola",
+          "link": "https://azimjon.com/blog/100ta-intervyu-nima-orgatdi/",
+          "style": ""
+        }
+      ],
+      "lists": [
+        {
+          "id": "c4b99d75-f49b-4d47-8a12-335710ced918",
+          "type": "ol",
+          "style": "",
+          "start": "1",
+          "items": [
+            {
+              "value": "\"Situation\" - vaziyat qanday edi?",
+              "style": ""
+            },
+            {
+              "value": "\"Task\" - qanday vazifa berilgan edi?",
+              "style": ""
+            },
+            {
+              "value": "\"Action\" - qanday amal, ish bajardim?",
+              "style": ""
+            },
+            {
+              "value": "\"Result\" - qanday natijaga erishdim?",
+              "style": ""
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "id": "b8ce112f-b37c-4963-924b-8ac532451c3f",
+          "value": "Intervyudan bir kun oldin NDA (non-disclosure agreement) shartnoma yuborishdi, imzoladim. Shartnoma shartiga ko'ra, intervyu jarayonidagi detallarga haqida to'xtala olmayman."
+        }
+      ]
+    },
+    {
+      "id": "cbb7831d-ea28-42cc-8625-1f12fa59bb23",
+      "created_at": "09 April, 2022",
+      "base": "",
+      "current_titles": [
+        {
+          "value": "100ta Intervyu Nima O'rgatdi?",
+          "style": ""
+        }
+      ],
+      "subtitles": [
+        {
+          "id": "b40ff52f-1ba6-4574-b7a3-e2e705229390",
+          "value": "1. Yaxshi Nomzodlar Ko'proq Savol So'rashadi",
+          "style": ""
+        },
+        {
+          "id": "79df0d9b-b36e-4a26-b738-f7c17133755e",
+          "value": "2. Yaxshi Nomzodlar Ochiq Fikrlashadi",
+          "style": ""
+        },
+        {
+          "id": "aabc1880-fc74-4e71-9805-ac7d58541620",
+          "value": "3. Ular Fikrlarini Erkin Ifodalashadi",
+          "style": ""
+        },
+        {
+          "id": "79268ced-73ca-4869-a7e2-b7902b7dac6f",
+          "value": "4. Ular Yechimni Rejalashtirishadi",
+          "style": ""
+        },
+        {
+          "id": "f39884a1-4bcb-4f22-823e-a1e2f507b23a",
+          "value": "5. Ular Tanqidni Yaxshi Qabul Qilishadi",
+          "style": ""
+        },
+        {
+          "id": "bad110c5-611e-46b7-85d7-6af1ed3132b1",
+          "value": "6. Ular Kompaniyaga Qiziqish Bildirishadi",
+          "style": ""
+        },
+        {
+          "id": "574f4c9d-73ae-4a1b-9a16-8e8b969631db",
+          "value": "7. Ular Do'stona Munosabatda Bo'lishadi",
+          "style": ""
+        },
+        {
+          "id": "0da2246b-e928-4638-89f0-4f77ddfa4a21",
+          "value": "Xulosa",
+          "style": ""
+        }
+      ],
+      "texts": [
+        {
+          "id": "1194743f-51d4-4cdc-9f0d-0f73ee55eb58",
+          "type": "p",
+          "value": "So'ngi ikki yil ichida Super Dispatch uchun 50dan ortiq nomzodlarni intervyu qilibman. PDPda ham mentorlik uchun bir necha kandidatlarni intervyu qilishda yordam bergan edim. Umumiy hisobda 70dan ortiq texnik intervyu olibman, topshirgan intervyularim soni ham 30dan oshib qoldi. Xo'sh, 100ta intervyu nima o'rgatdi?"
+        },
+        {
+          "id": "7d14b669-dd7c-4f3f-b0bd-02ae46647db2",
+          "type": "p",
+          "value": "Sahnaning ikki tarafida ham ko'p marta bo'lib, intervyu jarayonida qiziqarli kuzatishlarga guvoh bo'ldim. Ushbu maqolada muvaffaqiyatli nomzodlarni ajatib turuvchi hislatlar haqida gaplashamiz."
+        },
+        {
+          "id": "15253847-91e4-499e-bef3-e56675e6cdc3",
+          "type": "p",
+          "value": "Buning aksi to'g'riga o'xshab ko'rinadi, ammo dasturlashda emas. Qanchalik muammo haqida ko'proq ma'lumotga ega bo'lsangiz, yechimga shu qadar yaqin bo'lasiz. Qolaversa, suhbat oluvchi - bu yerda buyurtma beruvchi. Uning xohishlarini inobatga olib yechim yaratishingiz, uning yechimingizdan qoniqishi ehtimolligi oshadi. Qiziqarli savollar so'rash ham mahorat talab qiladi. Darrov yechim taklif qilib, bu imkoniyatni qo'ldan boy bermang."
+        },
+        {
+          "id": "f9de6596-e12f-414a-ae44-4d8b26156c52",
+          "type": "p",
+          "value": "Savol qanchalik oddiy bo'lmasin, unga aniqlik kiriting. Misol uchun - \"Sizga so'z berilgan, uning teskarisini ekranga chiqaring\". Ko'pchilik darrov so'z - \"string\" deb faraz qilib, ko'd yozishni boshlaydi. String esa ko'p tillarda \"immutable\" - o'zgartirib bo'lmaydi, xotirada yangi string yaratishni talab qiladi. Suhbat jarayonida kichik detallarni ham inobatga olsangiz, suhbat oluvchida yaxshi taasurot qoldirasiz."
+        },
+        {
+          "id": "061fa37b-f279-45c6-b449-0a0769bd0f75",
+          "type": "p",
+          "value": "Uzoq sukunat suhbat oluvchini osongina zeriktirib qo'yadi, yechimga kelish jarayonini yoshiradi. Suhbatda natija hamda jarayon muhim. Suhbat oluvchi nafaqat sizning yechimingizga balki yechim topish usulingiz, tushuntirish kabi qobiliyatlaringizga ham baho beradi."
+        },
+        {
+          "id": "4eafa647-f47e-4544-a0a6-bd530f981510",
+          "type": "p",
+          "value": "Ochiq fikrlash - \"debug mode\" degani. Yechim uchun miyyangizdan o'tayotgan fikrlaringizni aytib, yechimga kelishingizda yordam bergan bilimlaringizni aytib o'tasiz. Ochiq fikrlash orqali muammoning qaysi qismida qiynalayotganingizni suhbat oluvchiga ko'rsatasiz, sizga kichik ko'mak berish uchun imkon berasiz."
+        },
+        {
+          "id": "d3195d58-aeab-4804-a9f9-b5c9433f9e6c",
+          "type": "p",
+          "value": "Sizda zo'r g'oya bor, muammo shundaki u sizning miyyangizda. Uni bayon qila olishingiz kerak, faqat ko'd orqali emas, balki inson tushuna oladigan tilda. Yaxshi nomzodlar fikrlarini yaxshi yetkazib bera olishadi. Muloqot - eng muhim hislat."
+        },
+        {
+          "id": "6a571096-aac3-4df6-874f-8ec33b681128",
+          "type": "p",
+          "value": "Fikrlarningizni erkin ifodalashni o'rganishni oson usuli bor - o'rgatish. Atrofingizdagi insonglarga bilimlaringizni ulashish ikki tarafga ham birdek foydali. Bizda ikki xil lug'at boyligi bo'r, biri passiv, biri aktiv. Kitob o'qiganingizda, video darslar ko'rganingizda tilingiz passiv rivojlanadi. O'rgatganingizda, maqola yozganingizda esa aktiv tildan foydalanasiz."
+        },
+        {
+          "id": "236a26a8-a12a-4aa8-8865-9b8427b89d3f",
+          "type": "p",
+          "value": "Eng ko'p qilinadigan xatolardan biri - yechimni tushuntirmasdan ko'd yozishni boshlash. Qancha ko'p dasturchilar bu xatoga yo'l qo'yishini tasavvur qila olmaysiz. Men intervyu olgan senior dasturchilarning 90 foizi ushbu xatoga yo'l qo'yishadi, darrov yechimga talpinishadi. Yechimni rejalashtirishingizni suhbat oluvchiga ko'rsatib berishingiz kerak."
+        },
+        {
+          "id": "5640af39-630e-47f2-9fe2-efdb956c7563",
+          "type": "p",
+          "value": "To'g'ri, intervyudagi yechim 15 daqiqa olishi mumkin, lekin bu degani ishni rejalashtirmaslik kerak degani emas. Faraz qiling ishda sizga 3 oylik loyiha berildi. Siz darrov borib ko'd yozishni boshladingiz. 3 oy o'tib yechimni olib keldingiz. Qarabsizki katta ehtimollik bilan siz taklif qilgan yechimda qancha kamchiliklar borligini aytishadi, siz buni ish so'ngida bilasiz, ancha ertaroq ham bilishingiz mumkin edi. Rejalashtirish muhim."
+        },
+        {
+          "id": "4b2777ad-4cfd-4cc9-b8bd-4498358a224b",
+          "type": "p",
+          "value": "Tanqid rivojlanishning kaliti, lekin hamma ham tanqidni yaxshi qabul qilmaydi. O'zim qatnashgan suhbatlarda yozgan ko'dim uchun ko'p fikr eshitmaganman. Ammo o'zim olgan intervyularning barchasida nomzod yozgan ko'dni har bir qatorini o'qib u yerda nimani yaxshilash mumkinligi haqida aytib o'taman. Ko'pchilik bilmaganlarini o'rganganligi uchun rahmat aytishadi."
+        },
+        {
+          "id": "4d640c5c-465f-4b00-84d8-163e6c401908",
+          "type": "p",
+          "value": "Ba'zilar esa hali fikrni to'liq eshitmasdan darrov munozara qilishni, o'zining yechimini tarafini olishni boshlashadi. Bunday vaziyatlarda tezda rad javobi berishni xulosa qilaman. Sababi bunday nomzodlar ishda ham ko'p munozara yaratishadi, keraksiz muhokamalarga sabab bo'ladi."
+        },
+        {
+          "id": "998c203b-ff8e-479f-adde-d09256e9baa6",
+          "type": "p",
+          "value": "Dastulash ko'p sohalarda ishlatiladi. Qaysidir kompaniya banklar uchun dastur yaratadi, qaysi biridir logistika uchun. Kompaniya mahsulotlari haqida bilmasdan topshirish aslida kulguli, lekin afsuski deyarli hamma nomzodlar mendan, uyalmasdan, kompaniyang nima bilan shug'ullanadi deb so'raydi."
+        },
+        {
+          "id": "4445eb42-47a1-45e7-ad25-1c537d86238b",
+          "type": "p",
+          "value": "Nega \"X\" kompaniya? Topshirayotgan kompaniya madaniyati va qadriyatlari haqida o'rganib ishga topshirishish ikki taraf uchun ham foydali. Kompaniya va nomzod qadriyatlari bir biriga mos tushishi muhim. Ular qadrlaydigan sifatlar borligini payti kelganda aytib o'tish nomzodni tanlanish imkoniyatini oshiradi."
+        },
+        {
+          "id": "f2280846-5c28-4422-95cb-1fef25a64fde",
+          "type": "p",
+          "value": "Oddiy psixologik fakt: boshqa insonning jilmayishini ko'rish, inson miyyasida avtomatik tarzda javoban uning ham jilmayishiga, kayfiyati ko'tarilishiga sabab bo'ladi. Kayfiyati yaxshi bo'lgan insonda esa ijobiy fikrlashga moyillik bo'ladi. Intervyuga jilmayib kirishni, subhat davomida do'stona munosabatda bo'lib, suhbat so'ngida esa ajratgan vaqti uchun rahmat aytishni unutmang!"
+        },
+        {
+          "id": "55c1dea4-5312-4537-9776-daff8fb2468f",
+          "type": "p",
+          "value": "Oddiy psixologik fakt: boshqa insonning jilmayishini ko'rish, inson miyyasida avtomatik tarzda javoban uning ham jilmayishiga, kayfiyati ko'tarilishiga sabab bo'ladi. Kayfiyati yaxshi bo'lgan insonda esa ijobiy fikrlashga moyillik bo'ladi. Intervyuga jilmayib kirishni, subhat davomida do'stona munosabatda bo'lib, suhbat so'ngida esa ajratgan vaqti uchun rahmat aytishni unutmang!"
+        },
+        {
+          "id": "6e45baa9-8860-4dbf-8122-065614f97063",
+          "type": "p",
+          "value": "Yuqorida aytib o'tilgan ko'pchilik hislatlarni o'zlashtirish uchun ko'p vaqt talab qilinmaydi, ammo suhbat jarayonida ular sizni boshqa nomzodlardan yaxshigina ajratib turadi. Ularni keyingi suhbatingizda qo'llab ko'ring va jarayon qanchalik yaxshilanganini ko'ring. Ko'pchilik faqat \"hard\" bilimlar ustida ishlab, \"soft\" hislatlarni esdan chiqarib qo'yishadi. Qolaversa ularning ahamiyati ulkan, nafaqat suhbat yoki ish jarayonida, balki butun hayot davomida."
+        }
+      ],
+      "images": [
+        {
+          "id": "8a5808de-90e4-4fe2-8d7b-8c9340b196d3",
+          "url": "https://azimjon.com/media/2020/04/12/djangogirls.jpg",
+          "alt": "DjangoGirls, Tashkent",
+          "width": "1000px",
+          "height": "500px",
+          "style": "",
+          "title": "DjangoGirls, Tashkent"
+        },
+        {
+          "id": "da0c65b5-98a0-4c8d-923f-5eb1888e1478",
+          "url": "https://azimjon.com/media/2022/04/06/whiteboard.jpg",
+          "alt": "Teach",
+          "width": "1000px",
+          "height": "500px",
+          "style": "",
+          "title": "Teach"
+        }
+      ],
+      "links": [
+        {
+          "id": "28b5b900-784b-4a41-a7d8-27f4bcffc7ac",
+          "value": "here",
+          "link": "https://azimjon.com/blog/birinchi-biznesim/",
+          "style": "color: black;"
+        }
+      ],
+      "lists": [
+        {
+          "id": "44a593ad-6b5a-4a01-89e8-64f6b37d1faa",
+          "type": "ul",
+          "style": "",
+          "start": "1",
+          "items": [
+            {
+              "value": "Kamchilikni aytish qiyin.",
+              "style": "color: green;"
+            },
+            {
+              "value": "Tan olish undanda qiyin.",
+              "style": "color: red;"
+            },
+            {
+              "value": "O’zgarish eng qiyini.",
+              "style": ""
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "id": "a4b4b8b4-4b4b-4b4b-4b4b-4b4b4b4b4b4b",
+          "value": "Azimjon"
+        }
+      ]
+    },
+    {
+      "id": "343be951-3d39-4821-9e7b-fefc0ff2865b",
+      "created_at": "27 August, 2024",
+      "base": "ca51ea9f-cfbb-425b-b7bd-ce83f7e9ef75",
+      "current_titles": [
+        {
+          "value": "Azim",
+          "style": "color: green;"
+        },
+        {
+          "value": "jon",
+          "style": "color: red;"
+        },
+        {
+          "value": " ",
+          "style": ""
+        },
+        {
+          "value": "Pulat",
+          "style": "color: green;"
+        },
+        {
+          "value": "ov",
+          "style": "color: red; text-decoration: line-through;"
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "ca51ea9f-cfbb-425b-b7bd-ce83f7e9ef75",
+          "type": "p",
+          "value": "Nega?"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "lists": [],
+      "quotes": []
+    },
+    {
+      "id": "a89a3c09-d36b-482b-9f5a-72d1f444871c",
+      "created_at": "04 July, 2024",
+      "base": "663e3e11-b493-46bc-9bb9-ea16b7cb113f \n da9df20a-0a9c-4658-92fb-99d883cfd708 \n 2cae1657-0a04-487f-90a8-9fc7c0fd7d9c \n 3b0f6558-de3a-4995-bbb1-3b1ced830717\n 91303362-225e-4c6d-8792-33192b7d4fe0\n 987828d0-8436-452a-bdd4-50c1ecb4382a\n",
+      "current_titles": [
+        {
+          "value": "Tilimiz Qadriyatlarimizni Ko'rastadi ",
+          "style": ""
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "663e3e11-b493-46bc-9bb9-ea16b7cb113f",
+          "type": "p",
+          "value": "Britaniyada juda ko'p yomg'ir yog'adi. Natijada ingliz tilida \"yomg'ir yog'ayapti \" deb 107 xil usulda aytishingiz mumkin."
+        },
+        {
+          "id": "da9df20a-0a9c-4658-92fb-99d883cfd708",
+          "type": "p",
+          "value": "Til rijovlanishiga ko'p yillar kerak, xo'sh tilimiz qayoqqa qarab ketyapti?"
+        },
+        {
+          "id": "2cae1657-0a04-487f-90a8-9fc7c0fd7d9c",
+          "type": "p",
+          "value": "So'zlarimizni og'irligi bor - ularni kimdirni tasvirlashda ishlatsak ularni maqtayotgan yoki kamsitayotgandek tuyuladi, yetmaganiga bu so'zlar ruscha."
+        },
+        {
+          "id": "3b0f6558-de3a-4995-bbb1-3b1ced830717",
+          "type": "p",
+          "value": "Masalan, kimdir navbatni buzib o'tib, ishini tezda hal qilsa uni - shustri (epchil - ijobiy) deymiz. Yoki kimdir kamroq pul sarflasa uni jmot (qurumsoq - salbiy) deymiz. Tejamkor degan so'zimiz bo'lsada, uni hech qachon eshitmaysiz - eslab ko'ring qachon kim uchun ishlatdingiz."
+        },
+        {
+          "id": "91303362-225e-4c6d-8792-33192b7d4fe0",
+          "type": "p",
+          "value": "Bolalikdan bizni tasvirlashda ishlatalidigan so'zlar bizni hayot davomida kim bo'lishimizni belgilaydi. Oddiy shunaqa so'zlarimiz tufayli ko'p katta xarajatlari bilan maqtanadigan maqtanchoqlar, mansabidan foydalanayotgan o'g'ri-shustrilar chiqadi. Moliyaviy savodxonlik, odamiylik dam oladi."
+        },
+        {
+          "id": "987828d0-8436-452a-bdd4-50c1ecb4382a",
+          "type": "span",
+          "value": "Ko'proq tillar o'rganing."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "lists": [],
+      "quotes": []
+    },
+    {
+      "id": "343be951-3d39-4821-9e7b-fefc0ff2865a",
+      "created_at": "22 June, 2024",
+      "base": "d7b5430c-8c40-4609-9bf4-a80e2b7752be \n a5cb231b-70c6-4c92-9581-3aefcfd1d8d0 \n",
+      "current_titles": [
+        {
+          "value": "Demak Re'ja Bunday.",
+          "style": ""
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "d7b5430c-8c40-4609-9bf4-a80e2b7752be",
+          "type": "p",
+          "value": "Keyingi 12 soat ichida https://tirikchilik.uz/azim sahifasida donatlar qabul qilamiz. (Tushgan barcha pulni + o'zimdan yana shuncha qo'shib) keyin uni Google orqali https://www.palestinercs.org/en ga donate qilamiz."
+        },
+        {
+          "id": "a5cb231b-70c6-4c92-9581-3aefcfd1d8d0",
+          "type": "p",
+          "value": "Demak 100 so'm yuborsangiz, men o'zimdan 100 qo'shib Google'ga, Google unga 200 so'm qo'shib Benevityga, Benevity esa 400 so'mni 28b5b900-784b-4a41-a7d8-27f4bcffc7aq tashkilotiga yuboradi va bu tashkilot Falastinga yordam sifatida tibbiy yordam va oziq-ovqat yuboradi, InshaAlloh."
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "id": "70ff92de-74d8-415c-b1b1-e60e7c584137",
+          "value": " palestinercs.org",
+          "link": "https://azimjon.com/blog/birinchi-biznesim/",
+          "style": ""
+        }
+      ],
+      "lists": [],
+      "quotes": []
+    },
+    {
+      "id": "d75a4572-0ba8-48d3-b0c4-bcef6a301004",
+      "created_at": "10 June, 2024",
+      "base": "11093999-55d4-4c72-9dde-c98dc9e883f1 \n 8d60681a-d89d-4256-9c5c-5de6003b7d72",
+      "current_titles": [
+        {
+          "value": "Avtomatlashtiring",
+          "style": ""
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "11093999-55d4-4c72-9dde-c98dc9e883f1",
+          "type": "p",
+          "value": "Hech qachon qo'lda 6 daqiqa qilish mumkin bo'lgan ishni qo'lda qilmang."
+        },
+        {
+          "id": "8d60681a-d89d-4256-9c5c-5de6003b7d72",
+          "type": "p",
+          "value": "O'rniga 5 soat sarflab, uni avtomatlashtirish uchun kod yozing."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "lists": [],
+      "quotes": []
+    },
+    {
+      "id": "a93c5a2b-3756-4d4f-ae82-dd01fdb8d43a",
+      "created_at": "30 March, 2024",
+      "base": "cfafa92e-631e-4663-9a46-369cf5a409a3 \n 8f5203ea-22d8-49f8-97a5-e8bf01fc9299\n 7829eed9-4ab4-44ba-89ae-d053b1b88243 \n 62770261-cded-42ec-8276-6334d56af56f\n 38c430da-56ba-4660-bf71-f7334af97f69\n 37bd433e-1c21-40e2-8894-34f09012dbaa\n",
+      "current_titles": [
+        {
+          "value": "O’zingizni ko’rmagansiz.",
+          "style": ""
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "cfafa92e-631e-4663-9a46-369cf5a409a3",
+          "type": "p",
+          "value": "Faqat aksingizni, rasmingizni, tanangizni ko’rgasiz."
+        },
+        {
+          "id": "8f5203ea-22d8-49f8-97a5-e8bf01fc9299",
+          "type": "p",
+          "value": "Xuddi shunday xarakteringiz, qanday shaxs ekanligingizni ko’rmaysiz. Atrofdagilar esa ko’rgan, ko’rib turibdi."
+        },
+        {
+          "id": "7829eed9-4ab4-44ba-89ae-d053b1b88243",
+          "type": "p",
+          "value": "Shunday ekan kimdir sizga kamchiligingizni aytsa, darrov hafa bo’lib u insonga “bunday emasman, o’zing shunaqasan” deb aytishga shoshilmang."
+        },
+        {
+          "id": "62770261-cded-42ec-8276-6334d56af56f",
+          "type": "p",
+          "value": "Kimdir kuldirib aytadi, kimdir yig’latib aytadi. Ularning ikkisi ham do’stingiz. Do’stingiz bo’lmasa aytmasdi."
+        },
+        {
+          "id": "37bd433e-1c21-40e2-8894-34f09012dbaa",
+          "type": "p",
+          "value": "Qiynang, qiynaling."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "lists": [
+        {
+          "id": "38c430da-56ba-4660-bf71-f7334af97f69",
+          "type": "ul",
+          "style": "",
+          "start": "",
+          "items": [
+            {
+              "value": "Kamchilikni aytish qiyin.",
+              "style": ""
+            },
+            {
+              "value": "Tan olish undanda qiyin.",
+              "style": ""
+            },
+            {
+              "value": "O’zgarish eng qiyini.",
+              "style": ""
+            }
+          ]
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "id": "a09eecdd-993d-4219-a5c1-f2ca78e5d5a7",
+      "created_at": "28 March, 2024",
+      "base": "eab7f674-3190-4fd1-b48d-9a55314adb11\n c26376db-b9ca-4cd8-95f8-f784270734a2\n f020e148-3fb4-4e8f-93b8-8d95917ce4f1\n 6157fde9-cece-4250-80bb-bbca0f43b28f\n d8b9be34-4748-424b-891a-5a7265823a5b\n a781d3bc-110b-4bfd-b304-405c74493cb9\n 5665e3b6-2fd1-4e03-89d7-91f3676a1ab2 \n",
+      "current_titles": [
+        {
+          "value": "Analysis-Paralysis — yoxud ko’p o’ylash shol qiladi.",
+          "style": ""
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "eab7f674-3190-4fd1-b48d-9a55314adb11",
+          "type": "p",
+          "value": "Hayotimiz turli-tuman qarorlardan iborat. Nima o’rgansam ekan, qayerga borsam ekan, nima yesam ekan, nima kiysam ekan…"
+        },
+        {
+          "id": "c26376db-b9ca-4cd8-95f8-f784270734a2",
+          "type": "p",
+          "value": "Qaror qilish ma’lumotsiz qanchalik qiyin bo’lsa, ko’p ma’lumot bilan ham shunchalar qiyin. Hamma savollaringizga javob topishni kutsangiz, hayotdan hech narsa qilmay o’tasiz."
+        },
+        {
+          "id": "f020e148-3fb4-4e8f-93b8-8d95917ce4f1",
+          "type": "p",
+          "value": "Amazon’da ishlaganimda Jeff Bezos’ning gaplarini ko’p eshitardim:"
+        },
+        {
+          "id": "6157fde9-cece-4250-80bb-bbca0f43b28f",
+          "type": "p",
+          "value": "Qarorlar ikki xil bo’ladi: ortga qaytsa bo’ladigan va bo’lmaydigan. Ortga qaytish qiyin bo’lmasa, ma’lumot kutib o’tirma - bor, bajar, o’rgan. Ko’p qarorlar - ortga qaytsa bo’ladigan qarorlar."
+        },
+        {
+          "id": "d8b9be34-4748-424b-891a-5a7265823a5b",
+          "type": "p",
+          "value": "Amazon’ning bias for action - amalga tashna bo’l degan prinspi - mening shaxsiy prinsplarimdan. Hayotni ancha oson qiladi."
+        },
+        {
+          "id": "a781d3bc-110b-4bfd-b304-405c74493cb9",
+          "type": "p",
+          "value": "Ko’p savol so’ramang. "
+        },
+        {
+          "id": "5665e3b6-2fd1-4e03-89d7-91f3676a1ab2",
+          "type": "p",
+          "value": "Borib javob toping!"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "lists": [],
+      "quotes": []
+    },
+    {
+      "id": "49dc6bcd-5c99-4ce7-98ac-9995e527c393",
+      "created_at": "16 March, 2024",
+      "base": "ce428243-36af-450d-b59b-7cef368ca548\n 25e4e1a8-0b2a-4b70-b312-939807973907\n773812d0-0fd4-429c-a3e3-ecd3be2792b2 \n 4e2bc9d3-0e2b-4202-a4cf-0f1e9e31ee56\n 5ed94b89-e0fe-463c-82a2-07ef1bd3b00b\n 57a9c49a-2674-4ee5-bda3-c9d5447244df\n b96e57d5-3c9f-41e7-ba35-717ceb972ed0\n",
+      "current_titles": [
+        {
+          "value": "Nom bering.",
+          "style": ""
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "ce428243-36af-450d-b59b-7cef368ca548",
+          "type": "p",
+          "value": "Loyiha yaratish, unga nom berishdan boshlanadi. Siz ham loyihasiz: ota-onangizning loyihasisiz - tug’ilganingizda nom berishgan, vaqt ajratishgan, mehr berishgan."
+        },
+        {
+          "id": "25e4e1a8-0b2a-4b70-b312-939807973907",
+          "type": "p",
+          "value": "Nom berganda uni qanday eshitilishiga ahamiyat bering. Loyihalar nomiga mos bo’ladi."
+        },
+        {
+          "id": "773812d0-0fd4-429c-a3e3-ecd3be2792b2",
+          "type": "p",
+          "value": "Bir do’stimiz 2017-yil Payme kabi kartadan kartaga pul o’tkazish uchun loyiha boshlagandi. Loyiha boshida “Secure Pass” keyin qisqarib “SPass” bo’ldi - O’zbek tilida “Espas” deb o’qila boshladi. Shu nom bilan $100k investitsiya olgandi. Nomiga mos bo’lib, espaslik ham qilindi - pullarni hammasi hindistonlik sohta dasturchilarga sovirildi."
+        },
+        {
+          "id": "4e2bc9d3-0e2b-4202-a4cf-0f1e9e31ee56",
+          "type": "p",
+          "value": "Jprq loyihasi ham hazilomus nomlarga misol. Ammo uni faqat dasturchilar ishlatganligi uchun bu nom yarashgan nazarimda. Nomiga mos bo’lib, loyihadan ko’p jprqlar foydalandi."
+        },
+        {
+          "id": "5ed94b89-e0fe-463c-82a2-07ef1bd3b00b",
+          "type": "p",
+          "value": "42 loyihasi nomlanishi ham qiziq bo’lgan. Ilgari esingizda bo’lsa “Azimjon Academy” nomi bilan loyiha qilgandim. Nom faqat menga bo’glanib qolganligi va juda uzunligi tufayli uni qisqarib: "
+        },
+        {
+          "id": "57a9c49a-2674-4ee5-bda3-c9d5447244df",
+          "type": "p",
+          "value": " - “AZ” -> “4Z” -> “42” (logotipda yaxshiroq ko’rinadi)."
+        },
+        {
+          "id": "b96e57d5-3c9f-41e7-ba35-717ceb972ed0",
+          "type": "p",
+          "value": "Nom berdingizmi? Endi mehr bering."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "lists": [],
+      "quotes": []
+    },
+    {
+      "id": "e01b945a-540c-4998-aaaf-eb3067ecd884",
+      "created_at": "07 March, 2024",
+      "base": "ce428243-36af-450d-b59b-7cef368ca548\n bbbe3900-fa68-41a5-aca6-a38d9b13dce2 \n21f9aefa-93ac-4178-aff3-583bc13978bc \n2999b96b-7cd2-48d3-983f-7441b4faab3b \n 9276b368-1bb5-4d67-b7ed-f714d1ced27c \na1c0a265-411c-4a73-aa18-08472fe2fa20\n",
+      "current_titles": [
+        {
+          "value": "Sovuq Suv Uyg'otadi, Qiynasa ham",
+          "style": ""
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "ce428243-36af-450d-b59b-7cef368ca548",
+          "type": "p",
+          "value": "Hamkasbim rasm yubordi, uzoqdan ko'rib qolgan ekan (2019-yil iyul)."
+        },
+        {
+          "id": "21f9aefa-93ac-4178-aff3-583bc13978bc",
+          "type": "p",
+          "value": "Ertalab ish boshlashdan oldin Hamid Olimjon metro yaqinidagi favvora yonida 10 daqiqa turib, o'y-hayollarimni bir joyga jamlashga, uzoqroqqa qarashga, rejalar tuzishga harakat qilardim."
+        },
+        {
+          "id": "2999b96b-7cd2-48d3-983f-7441b4faab3b",
+          "type": "p",
+          "value": "9dan 5gacha ishlash orzular, maqsadlaringizni esdan chiqaradi. 1 yil ishlab buni yaxshi his qilgandim. Super Dispatchda ham 1 yil ko'z ochib yumguncha o'tib ketgandi. Nimadir qilmasam hech narsa o’zgarmasligini bilardim."
+        },
+        {
+          "id": "9276b368-1bb5-4d67-b7ed-f714d1ced27c",
+          "type": "p",
+          "value": "Qulay muhitga o’rganib qolish oson. Ertalab issiqina o’rinda yotaverish oson bo’lgani kabi. Ammo sovuq suv sizni uyg’otadi, qiynasa ham. "
+        },
+        {
+          "id": "a1c0a265-411c-4a73-aa18-08472fe2fa20",
+          "type": "p",
+          "value": "Uyg’oning."
+        }
+      ],
+      "images": [
+        {
+          "id": "bbbe3900-fa68-41a5-aca6-a38d9b13dce2",
+          "url": "file:///C:/Users/User/Downloads/Telegram%20Desktop/photo_2024-09-21_21-45-45.jpg",
+          "alt": "img",
+          "width": "1000px",
+          "height": "500px",
+          "style": "",
+          "title": "img"
+        }
+      ],
+      "links": [],
+      "lists": [],
+      "quotes": []
+    },
+    {
+      "id": "e8fc173a-dea0-4b08-93aa-0308cf2dd73a",
+      "created_at": "01 March, 2024",
+      "base": "3c65c242-d7b1-406a-88db-36dada0dcd0d \n 0a225b7d-95f9-4821-983e-0fc95ca861e9\n 0feb6b76-a9d8-445f-8f87-af9480948e77\n b876e4e4-c527-4907-bde7-5daaa6deee77\n 163ccc65-17a2-4b08-8571-0a24575e47fe\n 4724be6c-4858-42e9-8bb7-6ee279b77896\n e836f457-0fea-44cc-8c4c-9b0ed95f2bcf\n f37c9b9c-4c87-4d66-afcf-049595e744d3\n c8d0b70b-41c9-4408-9379-ff2483957312\n e59ef0ef-6076-4573-a9bc-e8ad5244214a\n 8e9bdc43-5ecb-4d0b-be48-1162c17af23d\n d9d3737f-f922-4926-8a97-dc4dca0b6dd6\n 6be07c6b-487b-474b-9362-792505894a62\n 9a7cb92c-87fb-4d4c-8a73-571a2bad761d\n 2b02e949-dcf5-437f-a433-8693e98dde0b\n",
+      "current_titles": [
+        {
+          "value": "Universitetni Bitirdim",
+          "style": ""
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "3c65c242-d7b1-406a-88db-36dada0dcd0d",
+          "type": "p",
+          "value": "Do’stlar,"
+        },
+        {
+          "id": "0a225b7d-95f9-4821-983e-0fc95ca861e9",
+          "type": "p",
+          "value": "Shuni mamnuniyat bilan aytamanki, mening 4 yil Polshadagi musofirchikda o’tkazgan vaqtim besamar ketmadi: "
+        },
+        {
+          "id": "0feb6b76-a9d8-445f-8f87-af9480948e77",
+          "type": "p",
+          "value": "- Bugun universitetni bitirdim, 5ga (with honours)."
+        },
+        {
+          "id": "b876e4e4-c527-4907-bde7-5daaa6deee77",
+          "type": "p",
+          "value": "Universitetni bitirganligim menga boshlagan ishimni tugata olishimga mustahkam ishonch berdi, diplom ham."
+        },
+        {
+          "id": "163ccc65-17a2-4b08-8571-0a24575e47fe",
+          "type": "p",
+          "value": "2017-yilda o’qishni Toshkentdagi Inha universitetida boshlaganman. Afsuski moliyaviy va boshqa sabablarga ko’ra o’qishdan ketdim. Oson qaror bo’lmagan."
+        },
+        {
+          "id": "4724be6c-4858-42e9-8bb7-6ee279b77896",
+          "type": "p",
+          "value": "2018-yil o’qish uchun Rossiyaga yo’l olgandim. Taqdir qilmagan ekan, universitetidan yiqilib, O’zbekistonga qaytgandim. Qaytib kelib birinchi NewMaxda, keyinroq SuperDispatchda ish boshladim."
+        },
+        {
+          "id": "e836f457-0fea-44cc-8c4c-9b0ed95f2bcf",
+          "type": "p",
+          "value": "2019-yil Polshaga o’qishga topshirib kelmoqchi bo’lganimda viza jarayoni cho’zilib, kechroq chiqib, universitet o’qishdan chetlatdi."
+        },
+        {
+          "id": "f37c9b9c-4c87-4d66-afcf-049595e744d3",
+          "type": "p",
+          "value": "2020-yil qayta topshirib, Varshava Texnologiyalar Universitetiga kelgandim. Pandemiya boshlanib qolib, o’qish ham qolib ketgandi, WUT noto’g’ri tanlov bo’lgan ekan."
+        },
+        {
+          "id": "c8d0b70b-41c9-4408-9379-ff2483957312",
+          "type": "p",
+          "value": "Axiri, Polsha-Yaponiya IT akademiyasiga kirib, jprq bo’lmasdan bir joyda tahsil olib, o’sib, rivojlanib, miyyani bir joyga qo’yib:"
+        },
+        {
+          "id": "e59ef0ef-6076-4573-a9bc-e8ad5244214a",
+          "type": "p",
+          "value": "- 2021-yil Facebook"
+        },
+        {
+          "id": "8e9bdc43-5ecb-4d0b-be48-1162c17af23d",
+          "type": "p",
+          "value": " - 2022-yil Amazon"
+        },
+        {
+          "id": "d9d3737f-f922-4926-8a97-dc4dca0b6dd6",
+          "type": "p",
+          "value": " - 2023-yil Google"
+        },
+        {
+          "id": "6be07c6b-487b-474b-9362-792505894a62",
+          "type": "p",
+          "value": "o’qish paytida ishga taklif oldim."
+        },
+        {
+          "id": "9a7cb92c-87fb-4d4c-8a73-571a2bad761d",
+          "type": "p",
+          "value": "6.5 yil deganda boshlagan ishimni - universitetni tamomladim ✊"
+        },
+        {
+          "id": "2b02e949-dcf5-437f-a433-8693e98dde0b",
+          "type": "p",
+          "value": "Aytgancha, Googleda ham bayram: 1-mart butun dunyodagi barcha Googlechilar uchun “Global Reset Day” ekan. Mazza qilib dam dars olamiz."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "lists": [],
+      "quotes": []
+    },
+    {
+      "id": "a6531e8a-e3f4-4ace-b49c-f27668255111",
+      "created_at": "27 February, 2024",
+      "base": "9c121019-5f24-4049-8291-385f89d517f2\n a335e780-a54d-4cad-b8a8-d525778169ge\n fee00785-de54-4662-8b4a-f84ef5b90075\n 1e6e0986-75b9-423f-b6f2-7a39dfd15472\n 5f3f1c8a-bd92-4b48-9a1b-5ddeca637521\n 6642f9d3-72aa-4f87-8521-e142590ccabf\n 5097efed-327b-44c2-a51f-ac5d8169790f\n 4b3b75d4-5dba-4566-8031-24d4c1df6e2d\n 8a1a0e39-6975-4b13-9588-e30bae19ae80\n",
+      "current_titles": [
+        {
+          "value": "Jabrdiydalik mentaliteti (Victim mentality)",
+          "style": ""
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "9c121019-5f24-4049-8291-385f89d517f2",
+          "type": "p",
+          "value": "Hammamiz ham qiyinchilik ko'rganmiz, kammi ko'pmi. Ularni eslaganda o'zimizni jabrdida yoki qaxramon qilib eslaymiz. O'rtasi yo'q. "
+        },
+        {
+          "id": "a335e780-a54d-4cad-b8a8-d525778169ge",
+          "type": "p",
+          "value": "Jabrdiydalik mentalitetidagi insonlarni topish oson: ular har doim kimdur/nimadurni ayblashadi, nolishadi."
+        },
+        {
+          "id": "fee00785-de54-4662-8b4a-f84ef5b90075",
+          "type": "p",
+          "value": "Hayotingiz ham bir hikoya. Nolib hikoyada o'zingizni jabrdiydaga aylantirasiz. Qahramon bo'lish uchun esa to'siqlardan o'ting, hech kimni ayblamang."
+        },
+        {
+          "id": "1e6e0986-75b9-423f-b6f2-7a39dfd15472",
+          "type": "p",
+          "value": "Hayotda qiyin vaziyatlar ko'p bo'ladi. Ularni kulib yoki nolib eslashingiz mumkin."
+        },
+        {
+          "id": "5f3f1c8a-bd92-4b48-9a1b-5ddeca637521",
+          "type": "p",
+          "value": "Masalan menda:"
+        },
+        {
+          "id": "6642f9d3-72aa-4f87-8521-e142590ccabf",
+          "type": "p",
+          "value": "- <s>Ko'chada flayer tarqatganman</s> notanish insonlar bilan gaplashishni o'rganganman."
+        },
+        {
+          "id": "5097efed-327b-44c2-a51f-ac5d8169790f",
+          "type": "p",
+          "value": " - <s>Universitetda o'qishga sponsorim bo'lmagan</s> kasb-hunar o'rganib, kechroq xorijga o'qishga borganman."
+        },
+        {
+          "id": "4b3b75d4-5dba-4566-8031-24d4c1df6e2d",
+          "type": "p",
+          "value": " - <s>Pulim bo'lmagan</s> ingliz tili va dasturlashni mustaqil bepul o'rganganman."
+        },
+        {
+          "id": "8a1a0e39-6975-4b13-9588-e30bae19ae80",
+          "type": "p",
+          "value": "<s>Noling</s> Qaxramonligingizni isbotlang."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "lists": [],
+      "quotes": []
+    },
+    {
+      "id": "d0b9857b-72cf-4fe5-a934-02f65163731d",
+      "created_at": "24 February, 2024",
+      "base": "9c121019-5f24-4049-8291-385f89d517f2\n e29acfb3-9d3a-44c9-b0c3-8a25440bde50\n 286ce1c5-d20e-4186-9fcb-beedbcf1ebf1\n 1fce5b7c-7fa0-4363-9d12-44accaa32d07\n 9774fc15-5165-47ab-b2b5-5b31e9dae8db\n a20b97fb-f42f-4749-9352-b725805a71bc\n 0db62610-6bcc-409e-8a47-37db93f1bbf9\n",
+      "current_titles": [
+        {
+          "value": "Sovuq suv quygandek",
+          "style": ""
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "9c121019-5f24-4049-8291-385f89d517f2",
+          "type": "p",
+          "value": "Esingizda bo'lsa 8ef218a1-a324-41b4-81dc-6776511024fc haqida aytib bergan edim. "
+        },
+        {
+          "id": "e29acfb3-9d3a-44c9-b0c3-8a25440bde50",
+          "type": "p",
+          "value": "Yana bir voqea esimga tushdi: 8-sinfdaligimda maktabimizdan faol o'quvchilarni, xususan meni ham, Chilonzor hokimiyatidagi Kamolot tashkilotiga taklif qilishgan. Boshqa maktablardan ham bir qancha o'quvchilar kelgandi – yakshanba kuni."
+        },
+        {
+          "id": "286ce1c5-d20e-4186-9fcb-beedbcf1ebf1",
+          "type": "p",
+          "value": "Qo'limizga yuzlab flayer berib, odamlar gavjum joyga borib tarqatasizlar deyishgan. Ko'pchilik uyiga qaytib ketgan, men esa guruh bilan avtobusda ippodromga yo'l olganman. "
+        },
+        {
+          "id": "1fce5b7c-7fa0-4363-9d12-44accaa32d07",
+          "type": "p",
+          "value": "Flayer tarqatishni nimasi qiyin, baribir tashlab yuborishadi - bir yo'la o'zimiz tashlab yuborsak bo'ladiku. Yo'q, flayer berish oldidan sharti bor edi. Har bir notanishga \"ustozingizga qo'ng'iroq qilib, flayerdagi tabrikni ayting \" deyish sharti. Juda kam insonlar qo'ng'iroq qilish buyoqda tursin, biz bilan gaplashgan."
+        },
+        {
+          "id": "9774fc15-5165-47ab-b2b5-5b31e9dae8db",
+          "type": "p",
+          "value": "Bugun 42da kurs olgan, ammo dars qilmaganlarga yozib, qo'ng'iroq qilib muammo nimadaligini so'rayapmiz. Tadqiqotda boshqa kattaroq muammo topdik deb o'ylayman - sotsiofobiya."
+        },
+        {
+          "id": "0db62610-6bcc-409e-8a47-37db93f1bbf9",
+          "type": "p",
+          "value": "Chiniqing."
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "id": "8ef218a1-a324-41b4-81dc-6776511024fc",
+          "value": "olcha hikoyasi",
+          "link": "https://azimjon.com/blog/birinchi-biznesim/",
+          "style": ""
+        }
+      ],
+      "lists": [],
+      "quotes": [
+        {
+          "id": "a20b97fb-f42f-4749-9352-b725805a71bc",
+          "value": "Sotsiofobiya - haqiqatdan ham bor bo’lgan potensialini namoyish etishdan cheklab qo’yuvchi ruhiy buzulish."
+        }
+      ]
+    },
+    {
+      "id": "8c427382-0eae-4aa6-8da8-4f1722479d90",
+      "created_at": "18 February, 2024",
+      "base": "9c121019-5f24-4049-8291-385f89d517f2\n e19bba2b-d15f-41f5-8af9-f0ab99fa7245\n 6d9ed250-0693-4efa-b10e-6b95f56946d7\n 3f388d29-bc69-43d2-adda-7ad72865da90\n 37f73c31-dfbb-4c8f-9c86-f8c4b968a473\n dfd0b036-e9fa-4d0b-90a0-fcc91f83b4e7\n",
+      "current_titles": [
+        {
+          "value": "Bumerang",
+          "style": ""
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "9c121019-5f24-4049-8291-385f89d517f2",
+          "type": "p",
+          "value": "abc58423-5b60-4907-b30c-c9df55d149d8 yana aloqaga chiqdi. Ular yaqinda 500 million dollarga baholanib, 25 million investitsiya olishibdi. Ana bo'masam!"
+        },
+        {
+          "id": "e19bba2b-d15f-41f5-8af9-f0ab99fa7245",
+          "type": "p",
+          "value": "O'sha payt 5% egalikni taklif qilgandi. Hozir bu ulush 25ta 🍋 bo'lardi. Ishonavering, zarracha ham afsuslanmayman. Hammasi hikoya asosida."
+        },
+        {
+          "id": "6d9ed250-0693-4efa-b10e-6b95f56946d7",
+          "type": "p",
+          "value": "Xullas, u bu safar men uchun aloqaga chiqmabdi, balki men bilgan va ishongan dasturchilarni ishga olish uchun yordam so'rab aloqaga chiqibdi. Yaxshi dasturchilarni topish qiyin deydi."
+        },
+        {
+          "id": "3f388d29-bc69-43d2-adda-7ad72865da90",
+          "type": "p",
+          "value": "Hozircha YBKYdagi talabalari bog'lab qo'yish niyatidaman. Har bir ishga olingan kandidat uchun 1 oylik maoshini beraman deydi. Yetmaganiga muxtaram prezidentimiz ham har bir talaba uchun 2 ming do'llargacha pul berishi mumkin ekan. Boyib ketamiz shekilli."
+        },
+        {
+          "id": "37f73c31-dfbb-4c8f-9c86-f8c4b968a473",
+          "type": "p",
+          "value": "Uzoqroqqa qaraydigan bo'lsak, 42ni rivojlantirish, eng yaxshi dasturchilarni tayyorlash uchun bel bog'lashning ayni payti ekanligiga amin bo'ldim. "
+        },
+        {
+          "id": "dfd0b036-e9fa-4d0b-90a0-fcc91f83b4e7",
+          "type": "p",
+          "value": "Nuqtalar ulanyapti."
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "id": "abc58423-5b60-4907-b30c-c9df55d149d8",
+          "value": "O'sha startup asoschisi",
+          "link": "https://azimjon.com/blog/million-dollarlik-imkoniyat/",
+          "style": ""
+        }
+      ],
+      "lists": [],
+      "quotes": []
+    },
+    {
+      "id": "99d791a0-2801-4401-81ca-28d6f841ea3e",
+      "created_at": "01 February, 2024",
+      "base": "393b1fc3-ed50-4f2c-b76b-a93c5ac29ba3\n 16a3f66d-d4b3-4479-8dff-9ceea18104d0\n 73ba1c01-d325-4849-b085-e8fd0702ad65\n 10689e06-0dc5-452a-9140-8eacbbe69aca\n ed721c89-838b-4205-81a3-bd560295a37e\n f9b451d4-42c8-4f35-a582-46af931d80d1\n",
+      "current_titles": [
+        {
+          "value": "Ruhiy To'siq (Mental Barrier)",
+          "style": ""
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "393b1fc3-ed50-4f2c-b76b-a93c5ac29ba3",
+          "type": "p",
+          "value": "Hozir blogimni ochib, nimadir yozaman deyman. Shundoq kamerani tayyorlab, video olaman deyman. Loyihani ochib, kod yozaman deyman. Ammo..."
+        },
+        {
+          "id": "16a3f66d-d4b3-4479-8dff-9ceea18104d0",
+          "type": "p",
+          "value": "Nega shunchaki qila olmaymiz? Miyyamizda qanday to'siqlar bor?"
+        },
+        {
+          "id": "73ba1c01-d325-4849-b085-e8fd0702ad65",
+          "type": "p",
+          "value": "Menimcha eng katta to'siq – o'zimizga aytadigan yolg'on:"
+        },
+        {
+          "id": "ed721c89-838b-4205-81a3-bd560295a37e",
+          "type": "p",
+          "value": "Kelajak haqida o'ylash – fantaziya qilish degani. Kelajakda hamma narsa ideal, hamma narsa zo'r. Ammo hozir bu – reallik, hech qachon ideal emas, har doim kamchiliklari bor. Ularga rozi bo'lishimiz kerak."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "lists": [
+        {
+          "id": "f9b451d4-42c8-4f35-a582-46af931d80d1",
+          "type": "ul",
+          "style": "",
+          "start": "1",
+          "items": [
+            {
+              "value": "Eng yaxshi vaqtni kutmang. ",
+              "style": ""
+            },
+            {
+              "value": "Eng yaxshi vaqt o'tgan yili edi.",
+              "style": ""
+            },
+            {
+              "value": "Keyingi eng yaxshi vaqt esa – hozir.",
+              "style": ""
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "id": "10689e06-0dc5-452a-9140-8eacbbe69aca",
+          "value": "Keyinroq \"zo'r\" qilaman."
+        }
+      ]
+    },
+    {
+      "id": "ff49084a-b454-4b98-80a3-29d9ccf227ae",
+      "created_at": "25 January, 2024",
+      "base": "dbc63518-5737-40b7-8fc3-6536a15a6fae\n 44ae75a2-823b-41ce-b4e6-323afd40e3a0\n 31607990-08bc-4802-89aa-fe05ab031d58\n 16c72a0c-eaeb-4de9-be14-8f59cd2115cb\n 754736d9-a21b-4b07-b92d-246687e8d63b\n df7fef61-4410-4b77-96e1-a969bf9829fc\n f81bca82-1cbe-4a6e-821d-d378676c1ad7\n e2eeb1f7-7a3b-4ba3-a43e-e222f8502028\n 942b6628-aa4f-4ec9-8c63-1f1e6c9b5902\n",
+      "current_titles": [
+        {
+          "value": "Server Uyda, Men Sayohatda",
+          "style": ""
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "dbc63518-5737-40b7-8fc3-6536a15a6fae",
+          "type": "p",
+          "value": "Uyda server ko'tarishning yomon tarafi – u sayohat qilganingizda o'chib qoladi."
+        },
+        {
+          "id": "44ae75a2-823b-41ce-b4e6-323afd40e3a0",
+          "type": "p",
+          "value": "Nega uyda server ko'tarishga to'g'ri keldi? "
+        },
+        {
+          "id": "31607990-08bc-4802-89aa-fe05ab031d58",
+          "type": "p",
+          "value": "Axir bulut borku ☁️, yetmaganiga Google Cloudda ishlasam. G'alatimasmi?"
+        },
+        {
+          "id": "16c72a0c-eaeb-4de9-be14-8f59cd2115cb",
+          "type": "p",
+          "value": "Cloud42 loyihasini AWS yoki Google Cloudda yuritganimizda hozirgi yuklanishni ko'tarish uchun oyiga $744.45 to'lagan bo'lardik, atiga 32GB tezkor xotira va 32ta CPU uchun 🤷‍♂️"
+        },
+        {
+          "id": "754736d9-a21b-4b07-b92d-246687e8d63b",
+          "type": "p",
+          "value": "Shunda yechim sifatida anchadan beri ishlatmayotgan yuqori parametrli kompyuterimni jprq orqali serverga aylantirib, unda Cloud42'ni yuritishni boshlagandim. Muhimi Varshavada internet/svet o'chib qolmaydi."
+        },
+        {
+          "id": "df7fef61-4410-4b77-96e1-a969bf9829fc",
+          "type": "p",
+          "value": "Bugungacha yaxshi ishlab turgandi, nima jin urdi – o'chib qoldi."
+        },
+        {
+          "id": "e2eeb1f7-7a3b-4ba3-a43e-e222f8502028",
+          "type": "p",
+          "value": "Server ham shu sayohatga chiqishimni kutgan."
+        },
+        {
+          "id": "942b6628-aa4f-4ec9-8c63-1f1e6c9b5902",
+          "type": "p",
+          "value": "Bunday bo'lishi mumkinligini kutgandim, Google Cloudda uni replikasini yasab, muzlatib qo'ygandim. Hozir uni yuritib qo'ydim – 3 kunda bankrot bo'lmaymiz deb umid qilaman.   "
+        }
+      ],
+      "images": [],
+      "links": [],
+      "lists": [],
+      "quotes": [
+        {
+          "id": "f81bca82-1cbe-4a6e-821d-d378676c1ad7",
+          "value": "Merfi qonuni – \"Anything can go wrong, will go wrong\"."
+        }
+      ]
+    },
+    {
+      "id": "4e79807a-857c-4cda-8867-739786b84911",
+      "created_at": "22 January, 2024",
+      "base": "20c868a0-7997-4f23-ae51-8402f95781ea\n 4e4af17d-278c-464d-b546-0803bfc4d8e2\n 8ef27581-eff8-4c1d-b4fc-55681ecd09b9\n fc549e72-8a58-4c69-b03e-35c268efc54a\n c4bea9d9-49a8-4d1d-9aad-de5102e73d56\n e154004a-6ee0-4fa8-93b5-ea326840b21d\n aef1452e-bb81-430c-b47c-56947c207f41\n",
+      "current_titles": [
+        {
+          "value": "O'qishda Emas, O'qish Uchun Pul Topishda",
+          "style": ""
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "20c868a0-7997-4f23-ae51-8402f95781ea",
+          "type": "p",
+          "value": "Inha kontrakti 2017-yilda 22 million so'm edi."
+        },
+        {
+          "id": "4e4af17d-278c-464d-b546-0803bfc4d8e2",
+          "type": "p",
+          "value": "Inflatsiyani hisobga olsak bu hozirgi 42 million so'mga to'g'ri kelsa kerak."
+        },
+        {
+          "id": "8ef27581-eff8-4c1d-b4fc-55681ecd09b9",
+          "type": "p",
+          "value": "18 yoshda hech qanday qarzlarsiz, hech kimning yordamsiz kontraktda 1 semester o'qiganman. Ammo butun hayolim o'qish uchun pul topishda bo'lgan, o'qishda emas."
+        },
+        {
+          "id": "fc549e72-8a58-4c69-b03e-35c268efc54a",
+          "type": "p",
+          "value": "Buni anglaganimdan so'ng o'qishdan ketishga qaror qilganman. U paytlar o'qishdan ketgan hech kim haqida bilmasdim, o'zim uchun birinchisi bo'lganman. Ko'pchilik maslahatiga kirganimda, hozir Uzmobileda ishlayotgan bo'lardim."
+        },
+        {
+          "id": "c4bea9d9-49a8-4d1d-9aad-de5102e73d56",
+          "type": "p",
+          "value": "Universitetga ishonmang, kurslarga ishonmang, odamlarga ishonmang. 42ga ham ishonmang meni dasturchi qiladi deb. Sizni dasturchi qiladigan yagona odam – o'zingiz."
+        },
+        {
+          "id": "e154004a-6ee0-4fa8-93b5-ea326840b21d",
+          "type": "p",
+          "value": "Universitetga 33 million to'lab qo'yishingiz sizga kasb bermaydi. Minglab soatlar shug'ullanish beradi. Agar u universitet uchun pulni topaman deb, o'qish uchun vaqt topa olmayotgan bo'lsangiz, 2x yutqazyapsiz."
+        },
+        {
+          "id": "aef1452e-bb81-430c-b47c-56947c207f41",
+          "type": "p",
+          "value": "Bollar, biz yutqazyapmiz."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "lists": [],
+      "quotes": []
+    },
+    {
+      "id": "e317c122-fa56-4dd6-a7db-dfe51be2634a",
+      "created_at": "14 January, 2024",
+      "base": "6666b0af-87b7-4f48-a1d3-7ed62c9967ff \n 067b7f80-7902-46e2-9de8-8a5c3d3ec53d\n 4995a600-a776-4e44-91e7-ac2998d614c7\n 56d4fa36-038a-4b68-828c-9f607247ab7e\n e0a92aa9-595b-4504-b194-9b1689fc3940 \n 93d7f7c5-09c2-43ea-925f-82444ddc27f7 \ncf6d2584-11d2-4576-8ccc-c2867f462c5b\n e0a92aa9-595b-4504-b194-9b1689fc3940\n 93d7f7c5-09c2-43ea-925f-82444ddc27f7\n 93794583-c54a-4eab-a855-1a8a2ca1828c\n",
+      "current_titles": [
+        {
+          "value": "20/80 Qoidasi (<s>Pareto Prinsipi</s>)",
+          "style": ""
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "6666b0af-87b7-4f48-a1d3-7ed62c9967ff",
+          "type": "p",
+          "value": "Qolgan 20% natija 80% harakat bilan keladi."
+        },
+        {
+          "id": "067b7f80-7902-46e2-9de8-8a5c3d3ec53d",
+          "type": "p",
+          "value": " (=4 marta ko'proq mehnat bilan)"
+        },
+        {
+          "id": "4995a600-a776-4e44-91e7-ac2998d614c7",
+          "type": "p",
+          "value": "Ko'pchilik shu 20% uchun kurashadi. Yutish siri ham shunda – ozgina yaxshiroq bo'lish (marginally better)."
+        },
+        {
+          "id": "56d4fa36-038a-4b68-828c-9f607247ab7e",
+          "type": "p",
+          "value": "Yaxshiroq dasturchi bo'lish uchun quyidagilar bilan qancha shug'ullansangiz shuncha kam:"
+        },
+        {
+          "id": "e0a92aa9-595b-4504-b194-9b1689fc3940",
+          "type": "p",
+          "value": "Qolgan 20% o'sish uchun 4 karra ko'proq mehnat qilishga arziydi. Sohada o'rtacha bo'lish foydasiz bo'lib qoldi."
+        },
+        {
+          "id": "93d7f7c5-09c2-43ea-925f-82444ddc27f7",
+          "type": "p",
+          "value": "Global iqtisodiyot eng yaxshilarni ko'taradi – 1% yaxshiroq yechimni 100 karra ko'proq mukofotlaydi."
+        },
+        {
+          "id": "93794583-c54a-4eab-a855-1a8a2ca1828c",
+          "type": "p",
+          "value": "Davr shunaqa – mahallani programmisti degan narsa yo'q endi (4 marta qattiqroq ishlang)."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "lists": [
+        {
+          "id": "cf6d2584-11d2-4576-8ccc-c2867f462c5b",
+          "type": "ul",
+          "style": "",
+          "start": "1",
+          "items": [
+            {
+              "value": "Mantiqiy fikrlash",
+              "style": ""
+            },
+            {
+              "value": "Effektiv muloqot qilish",
+              "style": ""
+            },
+            {
+              "value": "Yaratuvchanlik ko'nikmasi",
+              "style": ""
+            }
+          ]
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "id": "35843df1-73ce-496d-a1e1-0d1d0b6e145d",
+      "created_at": "13 January, 2024",
+      "base": "6f1fbbf2-fb51-4258-a965-bc9f02051209\n 8a37ada6-cd00-49ad-bb24-ff5f28369a34\n 75fd35dc-70c2-4562-8b14-2d319008a685\n 5a6380e9-5d06-4e8e-becb-940011f8f997\n 0095a4e4-2a3b-49eb-ad49-1d2a658e2751\n a7a410c6-7427-4c77-9864-015c9f24330e\n 93d7f7c5-09c2-43ea-925f-82444ddc27f7\n",
+      "current_titles": [
+        {
+          "value": "80/20 Qoidasi (Pareto Prinsipi)",
+          "style": ""
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "6f1fbbf2-fb51-4258-a965-bc9f02051209",
+          "type": "p",
+          "value": "Oddiy prinsip:"
+        },
+        {
+          "id": "8a37ada6-cd00-49ad-bb24-ff5f28369a34",
+          "type": "p",
+          "value": "Ishni boshlab olish qiyin. Ammo boshlashdan ham uni yakunlash qiyinroq."
+        },
+        {
+          "id": "75fd35dc-70c2-4562-8b14-2d319008a685",
+          "type": "p",
+          "value": "Yaponlarda qiziq maqol bor:"
+        },
+        {
+          "id": "5a6380e9-5d06-4e8e-becb-940011f8f997",
+          "type": "p",
+          "value": "Ishni 95% yakunlagan bo'lsang, demak uni endi yarmiga kelibsan:"
+        },
+        {
+          "id": "a7a410c6-7427-4c77-9864-015c9f24330e",
+          "type": "p",
+          "value": "Ular 100% tayyor bo'lishini kutganimda, 5x vaqt sarflagan yoki ulardan faqat bittasini qilgan bo'lardim."
+        },
+        {
+          "id": "93d7f7c5-09c2-43ea-925f-82444ddc27f7",
+          "type": "p",
+          "value": "Global iqtisodiyot eng yaxshilarni ko'taradi – 1% yaxshiroq yechimni 100 karra ko'proq mukofotlaydi."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "lists": [
+        {
+          "id": "0095a4e4-2a3b-49eb-ad49-1d2a658e2751",
+          "type": "ul",
+          "style": "",
+          "start": "1",
+          "items": [
+            {
+              "value": "Shaxsiy blogim 80% tayyor",
+              "style": ""
+            },
+            {
+              "value": "Dasturchi hikoyasi 80% tayyor",
+              "style": ""
+            },
+            {
+              "value": "42.uz express kursi 80% tayyor",
+              "style": ""
+            },
+            {
+              "value": "Faang tayyorgarligim 80% tayyor",
+              "style": ""
+            },
+            {
+              "value": "Universitetdagi tezisim 80% tayyor",
+              "style": ""
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "id": "d814e199-1a10-4916-93ef-2b47067d683d",
+          "value": "80% natija 20% harakat bilan erishiladi."
+        }
+      ]
+    },
+    {
+      "id": "d2ecef99-1408-4b3f-bfdf-1803278b1925",
+      "created_at": "31 December, 2023",
+      "base": "",
+      "current_titles": [
+        {
+          "value": "2023ga Nazar",
+          "style": ""
+        }
+      ],
+      "subtitles": [
+        {
+          "id": "46b0e13a-eefd-4e68-891f-876cb0bc6ed7",
+          "value": "Yanvar",
+          "style": ""
+        },
+        {
+          "id": "54033749-1f6d-45b1-9cfc-ad5b7666b253",
+          "value": "Fevral",
+          "style": ""
+        },
+        {
+          "id": "83f0d8fd-9c1d-4894-bf2c-c00ab0ab8bad",
+          "value": "Mart",
+          "style": ""
+        },
+        {
+          "id": "b92b0170-8b88-4cc5-a86c-7e69b879e3a7",
+          "value": "Aprel",
+          "style": ""
+        },
+        {
+          "id": "b31ce525-fb14-4621-9968-4ec747ec117d",
+          "value": "May",
+          "style": ""
+        },
+        {
+          "id": "6f4ca775-464c-4f5b-b9b9-9b7cbdd1c716",
+          "value": "Iyun",
+          "style": ""
+        },
+        {
+          "id": "10a88b90-f3e1-4c54-a0eb-1b6a4bf26a4f",
+          "value": "Iyul",
+          "style": ""
+        },
+        {
+          "id": "7ec3cbd9-a9f8-4a7c-b046-43bb4debc398",
+          "value": "Avgust",
+          "style": ""
+        },
+        {
+          "id": "bb101ba7-46fa-4fc5-887a-33238ccbe125",
+          "value": "Sentabr",
+          "style": ""
+        }
+      ],
+      "texts": [
+        {
+          "id": "30209b0f-5356-431a-af6e-710ba8f85de4",
+          "type": "p",
+          "value": "2023-yil samarali yil bo'ldi."
+        },
+        {
+          "id": "72425044-4065-42ad-9b1c-16dd14139198",
+          "type": "p",
+          "value": "Hammasi yanvarda Leetcode masalalar yechishdan boshlandi. Chunki aynan shu yili Googlega topshirishimni reja qilib qo'ygandim. Ammo leetcodedagi aktivlik uzuqqa bormadi (rasmda ko'rishingiz mumkin)."
+        },
+        {
+          "id": "2feaecf1-0dd5-4020-887e-a4745bc391aa",
+          "type": "p",
+          "value": "Fevral oyida ddfdd649-6a3a-430a-9cc2-3eed38bb897d ni qayta yozib, 2-versiyasini 44508ed8-da1a-4509-bf48-f7d1cf87e1c5. Jprq v2 uchun b3e7893e-e0a0-4445-b0f7-adab41af9599 bilan debugger ustida bosh qotirib, c5ea886f-893a-4bfc-b07b-e600edbc4a62 yaratdik. 1 oyda 1.2k dasturchilar ishlatishni boshladi, ba'zi kompaniyalar qiziqishini tortdi."
+        },
+        {
+          "id": "af6d4caf-ab89-4173-893d-a83ae9840a12",
+          "type": "p",
+          "value": "Mart oyidan yana YouTube videolar tayyorlashga qaytdim."
+        },
+        {
+          "id": "af6d4caf-ab89-4173-893d-a83ae9840a12",
+          "type": "p",
+          "value": "\"2fe58b5f-398b-4213-86c6-41ec063016bc\" mavzusida qisqa video tayyorlab, Javohir bilan \"4689c4ae-d1cd-4760-b810-bfd2bc4c31a1\" nomli intervyu suratga oldik."
+        },
+        {
+          "id": "40b0b2e4-af36-454f-ab17-d83636edcfff",
+          "type": "p",
+          "value": "Aprelda hayotimni o'zgartib yuborishi mumkin bo'lgan 26bb05cc-add3-4d50-bd7d-ab50c25b333e eshik qoqdi. Jprq tufayli io.net'da CTO bo'lishim mumkin edi, ammo bu imkiniyatni rad etishga qaror qildim. Agar \"ha\" deganimda, quyidagi voqealarning hech biri sodir bo'lmasdi."
+        },
+        {
+          "id": "ed457d61-43b7-4020-8b49-a3b35da08b28",
+          "type": "p",
+          "value": "Biroz vaqt topib, \"ce4987c0-fb72-4b19-98f3-e480017f0b86\" hamda \"3fdca650-7b23-4845-9ab9-be6ab40d9474\" mavzularida YouTube video tayyorladim."
+        },
+        {
+          "id": "839bb538-c807-4db8-89e7-c0b2be5b473f",
+          "type": "p",
+          "value": "Mayda ko'proq sayohat qildim.."
+        },
+        {
+          "id": "48fcdc43-59e2-46fb-b818-6e1c39f2d059",
+          "type": "p",
+          "value": "Berlinga bordim, 73778715-26b1-45db-8dad-3a244e60c08a akanikida mehmon bo'ldim, 3de5a62a-6168-454c-8a2b-9685e3d7db32 bilan ko'rishdim. Sayohat davomida Jahongir aka va Anvar bilan birgalikda \"ea83e1ed-605a-42b3-8f8c-21f3d014ad96\" nomli vlog sur'atga oldik 🥂."
+        },
+        {
+          "id": "ba4c2f43-46e0-434d-ae91-82d728b69107",
+          "type": "p",
+          "value": "Tug'ilgan kunimda Shveysariyaga yo'l oldim. U yerda Facebookda birga amaliyot o'tagan do'stim Henry bilan ko'rishib, birga sayohat qildik. Shveysariya nihoyatda go'zal ekanligi va internetdagi videolar haqiqiy ekanligiga amin bo'lib qaytdim."
+        },
+        {
+          "id": "97810101-b6c1-4932-a874-72a8dddadd5e",
+          "type": "p",
+          "value": "Iyunda \"6fd560c8-d741-4931-8b39-b84de7b23c09\"ga start berdik. Loyihada qatnashish uchun 3 kunda mingdan ortiq, saralash bosqichidan so'ng tekshirish uchun 180ga yaqin yechim 925be00c-9b3c-449c-b893-b613e052b2be qabul qildik 🫣"
+        },
+        {
+          "id": "27f84319-3d57-4ecd-8812-23bd57df3dfd",
+          "type": "p",
+          "value": "Yuborilgan yechimlarni hammasini o'zim tekshirishga dangasalik qildim. Ilgariroq qiziqib, 14e30e7d-aac0-4238-89a5-9b96eb8be8ed – aynan shu yechimim YBKY uchun vazifalarni avtomatik tekshirishda asqotdi.."
+        },
+        {
+          "id": "55b68759-9ba5-4315-bc64-eb5e431bb7a4",
+          "type": "p",
+          "value": "3 yildan buyon o'tkazib kelayotgan YBKY – faqat tajribali dasturchilar uchun ekanligi va o'rganishni endi boshlaganlarni e'tiborsiz qoldirayotganimiz biroz hafa qildi."
+        },
+        {
+          "id": "132d5c09-a01e-4048-899a-86e5f6f8e4d4",
+          "type": "p",
+          "value": "O'rganishni endi boshlaganlar uchun Garvardning 58c92564-8713-4dfc-bafe-2b631247c2d4 kursini Toshkentda o'tkazish uchun bel bog'ladik – bir paytni o'zida ko'plik qilsak ham. Qatnashish sharti \"Nega Dasturchi Bo'loqchiman\" mavzusida video tayyorlash edi – ajoyib & kreativ videolar qabul qildik. Ko'proq o'quvchi qabul qilsh uchun keyinchalik motivatsion xat shaklida ham qabul qilishni boshladik."
+        },
+        {
+          "id": "0825ccd6-07c5-4e40-a3d6-58f2a6ba4158",
+          "type": "p",
+          "value": "Oldindagi loyihalarni boshlash oldidan yana kichik sayohatga chiqdim. Amazondagi hamkasblarim bilan kichik orolda 3 kunga dam olishga bordik. Orolda xazina yashirilgan ekan. GPS orqali qidirib yo'l-yo'lakay jamoaviy mashqlar bajardik, jamoada birga ishlaydigan insonlar bilan yaqindan tanishish imkoni bo'ldi.."
+        },
+        {
+          "id": "b4da07cd-fbd5-4c5a-8a96-ce020b5eaa6d",
+          "type": "p",
+          "value": "Iyulda ish va o'qishdan ta'lilga chiqib, jonajon O'zbekistonga yo'l oldim. Ertasi kuniyoq Toshkentdagi Google IOda \"Dangasa Yechimlar\" mavzusida ma'ruza bergani bordim."
+        },
+        {
+          "id": "71bda495-6d49-480e-b2de-4887892ba4b9",
+          "type": "p",
+          "value": "Har gal a8071091-68e1-4417-8cba-3c7df85e606a tadbir tashkillashtirganida, onlayn ma'ruza berib borardim. Birinchi bor bunday katta auditoriyaga oldiga chiqishim edi. Hayajon bosdi. Hamma narsa birinchisidan boshlanadi deganlaridek, 1000 kishi oldida sahnaga chiqib nimadir deya oldim."
+        },
+        {
+          "id": "33460521-84c2-4d65-b312-b1c738eee641",
+          "type": "p",
+          "value": "Rasmdagi paytda:"
+        },
+        {
+          "id": "79c09761-ce33-46e5-a30b-4a8b4326b29c",
+          "type": "p",
+          "value": "degan edim."
+        },
+        {
+          "id": "e5350461-6434-4e09-97e9-ed52a4a4e997",
+          "type": "p",
+          "value": "Yozda Birga Kod Yozamiz ham va CS50xTashkentda dars o'tishni boshladik. CS50da (Inhada) 80ta, YBKY Backendda (PDPda) 40ta va Algortimlarda (Impacttda) 24ta talabalarni qabul qilgan edik. Darslarimiz umumiy 4 haftaga mo'ljallangandi."
+        },
+        {
+          "id": "4249837b-2da0-4cc7-9182-28e4ee211ace",
+          "type": "p",
+          "value": "Yakshanbadan tashqari haftada har kuni dars o'tardim. Dars o'tishni o'ziga yarasha qiyinchiligi bor, ammo 42 °C issiq va metrodagi gavjumliklar, yo'lda ko'p yurish holdan toydirdi – tappa tashladim, bir hafta betob bo'lib, darslarni ham 2-3 marta bekor qilib turishga to'g'ri keldi."
+        },
+        {
+          "id": "3b17bc0f-f707-439a-ad2f-7efb1aa9cfad",
+          "type": "p",
+          "value": "Shu payt kasal bo'lib yotganimda, nega hozir biror dengizga emas balki issiq kunlarda Toshkentga kelganligim haqida o'yladim – umuman afsuslanmadim. CS50 va YBKY uchun dars berishga Polshadan do'stlarim 07e3eda9-01db-4214-8c5a-f395dfac0879 va 6b9dfee2-9bbe-4cde-8c4c-0c7559f6aeb5 ham kelishgandi. 03597c76-0b61-4043-a93f-f238a00ea2fe bilan aynan shu loyiha ustida birga ishlab, yaxshiroq tanishib oldik. Keyichalik birga yana ta'limga oid loyiha qilishga kelishdik."
+        },
+        {
+          "id": "3b17bc0f-f707-439a-ad2f-7efb1aa9cfad",
+          "type": "p",
+          "value": "Ilm ulashish uchun issiq ham, kasallik ham to'sqinlik qilmadi. Biz buni uddaladik – ikki loyihani ham muvaffaqqiyatli yakunladik."
+        },
+        {
+          "id": "51fb88f4-16ac-4dd9-ac17-ae61bed46e0f",
+          "type": "p",
+          "value": "Orada ona yurt Andijonga borib, IT lagerda dam olib, ma'ruza berib kelishga ham ulgurdim. Nonushtaga achchiqqina mastava ichib, betoblikda yo'qotgan energiyamni qayta tiklab oldim."
+        },
+        {
+          "id": "95c092f7-d6e5-41d6-b23b-26c4e82c54b2",
+          "type": "p",
+          "value": "Avgust oyida Polshaga qaytdim. Amazonda menga kattroq loyiha topshirildi. Loyiha haqida biladigan hamkasblarim dam olishga chiqib ketganligi va menejerim qo'yayotgan bosim ishdan ketish haqida 3767418f-cfd4-454f-80ec-5702981d6842 sabab bo'ldi."
+        },
+        {
+          "id": "efabdeae-7edc-4f5a-b463-b63c0e0e26f1",
+          "type": "p",
+          "value": "Amazon ichida qo'shni jamoaga ishga topshirdim – bu haqida avtomatik tarzda menejerga xabar borar ekan – syurpriz qilib bo'lmas ekan. Menejerim bilan muammolar haqida gaplashib oldik. Yangi jamoa uchun yana qaytadan d0042b6f-3304-4098-b821-e1bc2ac0723c boshlandi."
+        },
+        {
+          "id": "ea255897-9503-4d30-8600-8bd6afe4d83a",
+          "type": "p",
+          "value": "Suhbatga tayyorlanishim kerak bo'lsa, bira to'la Google'ga ham topshirib qo'ya qolay deb uyoqqa ham ishga topshirdim."
+        },
+        {
+          "id": "53c31343-74b1-480e-be7e-062a5001691d",
+          "type": "p",
+          "value": "Ishdagi bo'lgan voqealardan biroz chalg'ish uchun ko'rmaganimga 5 yil bo'lgan do'stim bilan Italiyada ko'rishib, 9b27d662-186c-43d1-9091-646b1a6251cd birga aylandik. Reja qilinmagan sayohat bo'lganligi tufayli Varshavaga kechgi 10da qaytib, tuni bilan imtihonga tayyorlanib ertalab universitetga borgandim."
+        },
+        {
+          "id": "e90ee319-b067-4e01-9f57-0f39695f2e5e",
+          "type": "p",
+          "value": "Googledan rekruter aloqoqaga chiqdi. Suhbatga tayyorlanishni boshladim – vaqt kamligi tufayli hatto sport zalda ham 0a649dcc-8a5b-4a3b-ba1e-4bb8f761a4f1. Amazondagi qolgan ta'tillarimni hammasini olib, faqat algoritmlar bilan shug'ullandim. Yozda Birga Kod Yozamiz talabalari bilan mock intervyular qildik."
+        },
+        {
+          "id": "e90ee319-b067-4e01-9f57-0f39695f2e5e",
+          "type": "p",
+          "value": "Suhbatdan muvaffaqqiyatli o'tib, ishga taklif oldim. Googlega o'tmagan taqdirda ham, Amazondan ketishni mo'ljallab turgandim. Darrov Amazondagi ishimdan bo'shash uchun ariza topshirdim, jamoam bilan esa ketishimdan 1 oy oldin xayrlashdik."
+        }
+      ],
+      "images": [
+        {
+          "id": "8a5808de-90e4-4fe2-8d7b-8c9340b196d3",
+          "url": "https://azimjon.com/media/2023/12/31/Screenshot_2023-12-31_at_14.51.45.png",
+          "alt": "Leetcode",
+          "width": "1000px",
+          "height": "300px",
+          "style": "",
+          "title": "Leetcode"
+        },
+        {
+          "id": "ea0adf47-9a2e-4dd9-a971-818df4f642e6",
+          "url": "https://azimjon.com/media/2023/12/31/Untitled_2.jpg",
+          "alt": "Azimjon",
+          "width": "1000px",
+          "height": "300px",
+          "style": "",
+          "title": "Azimjon"
+        },
+        {
+          "id": "3c5f6ea4-68e8-48ee-81c8-305a03a21160",
+          "url": "https://azimjon.com/media/2023/12/31/photo_2023-12-31_15.49.57.jpeg",
+          "alt": "Coding atmosphere",
+          "width": "1000px",
+          "height": "300px",
+          "style": "",
+          "title": "Coding atmosphere"
+        },
+        {
+          "id": "af125576-c770-4d84-b0b3-db90054b564f",
+          "url": "https://azimjon.com/media/2023/12/31/photo_2023-12-31_16.11.39.jpeg",
+          "alt": "Garvard",
+          "width": "1000px",
+          "height": "300px",
+          "style": "",
+          "title": "Garvard"
+        },
+        {
+          "id": "6141af28-9f3f-4c52-87ec-764bcd12f4a4",
+          "url": "https://azimjon.com/media/2023/12/31/Screenshot_2023-12-31_at_16.18.07.jpg",
+          "alt": "Congress hall",
+          "width": "1000px",
+          "height": "300px",
+          "style": "",
+          "title": "Congress hall"
+        },
+        {
+          "id": "ab64bfe7-a61d-4587-953e-24db52690752",
+          "url": "https://azimjon.com/media/2023/12/31/Screenshot_2023-12-31_at_18.07.52.jpg",
+          "alt": "Presentation",
+          "width": "1000px",
+          "height": "300px",
+          "style": "",
+          "title": "Presentation"
+        },
+        {
+          "id": "e8317c2c-2b2a-43c2-a0d2-968c070ae497",
+          "url": "https://azimjon.com/media/2023/12/31/New_Project.jpg",
+          "alt": "Boys",
+          "width": "1000px",
+          "height": "300px",
+          "style": "",
+          "title": "Boys"
+        },
+        {
+          "id": "a2e25613-237c-4a3f-bcde-e59a94f1e137",
+          "url": "https://azimjon.com/media/2023/12/31/1691078744429.jpeg",
+          "alt": "After_training",
+          "width": "1000px",
+          "height": "300px",
+          "style": "",
+          "title": "After_training"
+        },
+        {
+          "id": "c67ce9dd-0a30-454e-b5c4-1051f697a4f9",
+          "url": "https://azimjon.com/media/2023/12/31/Screenshot_2023-12-31_at_16.45.47.jpg",
+          "alt": "Training",
+          "width": "1000px",
+          "height": "300px",
+          "style": "",
+          "title": "Training"
+        },
+        {
+          "id": "8f622d19-0352-4bb6-b068-04ef7542fc38",
+          "url": "https://azimjon.com/media/2023/12/31/photo_2023-12-31_18.22.58.jpeg",
+          "alt": "Turin",
+          "width": "1000px",
+          "height": "300px",
+          "style": "",
+          "title": "Turin"
+        }
+      ],
+      "links": [
+        {
+          "id": "ddfdd649-6a3a-430a-9cc2-3eed38bb897d",
+          "value": "jprq",
+          "link": "https://jprq.io/",
+          "style": ""
+        },
+        {
+          "id": "44508ed8-da1a-4509-bf48-f7d1cf87e1c5",
+          "value": "taqdim qildim",
+          "link": "https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2Fupdate%2Furn%3Ali%3Aactivity%3A7036091762313969664",
+          "style": ""
+        },
+        {
+          "id": "b3e7893e-e0a0-4445-b0f7-adab41af9599",
+          "value": "Jasurbek",
+          "link": "https://t.me/zokirovdev",
+          "style": ""
+        },
+        {
+          "id": "c5ea886f-893a-4bfc-b07b-e600edbc4a62",
+          "value": "ajoyib yechim",
+          "link": "https://www.linkedin.com/",
+          "style": ""
+        },
+        {
+          "id": "2fe58b5f-398b-4213-86c6-41ec063016bc",
+          "value": "Senior bo'ling",
+          "link": "https://www.youtube.com/watch?v=byoHUSVtgZo",
+          "style": ""
+        },
+        {
+          "id": "4689c4ae-d1cd-4760-b810-bfd2bc4c31a1",
+          "value": "Mingbuloqdan Shveysariyagacha",
+          "link": "https://www.youtube.com/watch?v=8aasHI0kegk",
+          "style": ""
+        },
+        {
+          "id": "26bb05cc-add3-4d50-bd7d-ab50c25b333e",
+          "value": "imkoniyat",
+          "link": "https://t.me/fikrlog/1702",
+          "style": ""
+        },
+        {
+          "id": "ce4987c0-fb72-4b19-98f3-e480017f0b86",
+          "value": "7 yilda 7 loyiha",
+          "link": "https://www.youtube.com/watch?v=E4p0fiZXhl0",
+          "style": ""
+        },
+        {
+          "id": "3fdca650-7b23-4845-9ab9-be6ab40d9474",
+          "value": "jprq qanday ishlaydi",
+          "link": "https://www.youtube.com/watch?v=cXYiec-DLfo",
+          "style": ""
+        },
+        {
+          "id": "73778715-26b1-45db-8dad-3a244e60c08a",
+          "value": "Jahongir ",
+          "link": "http://thttps//t.me/JR_TwitGram",
+          "style": ""
+        },
+        {
+          "id": "3de5a62a-6168-454c-8a2b-9685e3d7db32",
+          "value": "Kiki",
+          "link": "https://t.me/fikrlog/1709",
+          "style": ""
+        },
+        {
+          "id": "ea83e1ed-605a-42b3-8f8c-21f3d014ad96",
+          "value": "Germaniyada O'qish va Ishlash",
+          "link": "https://www.youtube.com/watch?v=PdSMXnT30Ig",
+          "style": ""
+        },
+        {
+          "id": "6fd560c8-d741-4931-8b39-b84de7b23c09",
+          "value": "Yozda Birga Kod Yozamiz",
+          "link": "https://t.me/lazyprogrammer/359",
+          "style": ""
+        },
+        {
+          "id": "925be00c-9b3c-449c-b893-b613e052b2be",
+          "value": "repozitoriylarini",
+          "link": "https://docs.google.com/spreadsheets/d/19r-Gx00b3_SkjFidVa31rG67kcaQ18t2vRslZggsVek/edit?gid=0#gid=0",
+          "style": ""
+        },
+        {
+          "id": "14e30e7d-aac0-4238-89a5-9b96eb8be8ed",
+          "value": "shell'ni brauzerga olib chiqqandim",
+          "link": "https://t.me/lazyprogrammer/354",
+          "style": ""
+        },
+        {
+          "id": "58c92564-8713-4dfc-bafe-2b631247c2d4",
+          "value": "CS50",
+          "link": "https://pll.harvard.edu/course/cs50-introduction-computer-science",
+          "style": ""
+        },
+        {
+          "id": "a8071091-68e1-4417-8cba-3c7df85e606a",
+          "value": "GDG Tashkent",
+          "link": "https://t.me/gdgtashkent",
+          "style": ""
+        },
+        {
+          "id": "07e3eda9-01db-4214-8c5a-f395dfac0879",
+          "value": "Diyorbek",
+          "link": "https://t.me/brogrammist",
+          "style": ""
+        },
+        {
+          "id": "6b9dfee2-9bbe-4cde-8c4c-0c7559f6aeb5",
+          "value": "Jasurbek",
+          "link": "https://t.me/zokirovdev",
+          "style": ""
+        },
+        {
+          "id": "03597c76-0b61-4043-a93f-f238a00ea2fe",
+          "value": " Androidchi Yusuf ",
+          "link": "https://t.me/androidyusuf",
+          "style": ""
+        },
+        {
+          "id": "3767418f-cfd4-454f-80ec-5702981d6842",
+          "value": "o'ylashimga ",
+          "link": "https://t.me/fikrlog/1956",
+          "style": ""
+        },
+        {
+          "id": "d0042b6f-3304-4098-b821-e1bc2ac0723c",
+          "value": "suhbat jarayoni",
+          "link": "https://azimjon.com/blog/amazondan-offer-oldim/",
+          "style": ""
+        },
+        {
+          "id": "9b27d662-186c-43d1-9091-646b1a6251cd",
+          "value": "Turin shahrini",
+          "link": "https://t.me/fikrlog/1960",
+          "style": ""
+        },
+        {
+          "id": "0a649dcc-8a5b-4a3b-ba1e-4bb8f761a4f1",
+          "value": "leetcode bilan shug'ullandim",
+          "link": "https://t.me/fikrlog/1983",
+          "style": ""
+        }
+      ],
+      "lists": [
+        {
+          "id": "44a593ad-6b5a-4a01-89e8-64f6b37d1faa",
+          "type": "ul",
+          "style": "",
+          "start": "1",
+          "items": [
+            {
+              "value": "Eng yaxshi vaqtni kutmang",
+              "style": "color: green;"
+            },
+            {
+              "value": "Ehson qilsangiz, mulkingiz 28b5b900-784b-4a41-a7d8-27f4bcffc7ac",
+              "style": "color: red;"
+            },
+            {
+              "value": "O’zgarish eng qiyini.",
+              "style": ""
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "id": "a4b4b8b4-4b4b-4b4b-4b4b-4b4b4b4b4b4b",
+          "value": "Sotsiofobiya - haqiqatdan ham bor bo’lgan potensialini namoyish etishdan cheklab qo’yuvchi ruhiy buzulish."
+        },
+        {
+          "id": "23e965df-6ff6-4225-bf6e-afb403761b25",
+          "value": "Har gal internetga kirganingizda \"Ta'lim\" (Education) yoki \"O'yin kulgi\" (Entertainment) tanlanadi. Ta'limni tanlang."
+        }
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+        "id": "d60c1fcc-b813-48d3-b4f2-b25f6a8cec21",
+        "created_at": "09 April, 2020",
+        "base": "036e32aa-cdf2-490c-8e9f-c1356793c2db \n d6aca48d-baec-44da-892a-4433c330f7db \n e45f3fab-42fe-4ab4-a92f-79b0e027d33b \n 4131c11c-3c8b-4fbe-ae74-a871b263ba54 \n 73f7950a-e1e7-4301-b8c8-e7fd6b071964 \n b25878bd-c257-4d6b-8135-463b6fbddcad \n 6d083a9e-fd16-418d-8b0e-ddc90c390171 \n ae75438b-6971-40aa-bdf1-17106d441a29 \n 76710724-ff14-467c-b393-76593e97b008 \n f8bc72fe-b392-4a20-b2cf-85bc3b6213b3 \n 048f0719-25ed-4033-9726-cbe4b140498e \n 9563d44a-5870-4a06-b06d-232755d82238 \n 954832b7-3f54-4bba-be5d-4f8984b888b2 \n 68beb467-dd61-4017-ba15-03f720eca80e \n 8b90443d-4a11-4f8f-9bf9-e7fdafab39b6 \n 2c134ce4-f544-4a54-a639-2f876e06409b \n 21f937f3-296b-4416-8af1-2a37ff97ca13 \n 81cee207-c2b9-4f24-bf83-d2a7be42e3a2 \n 183fa7ff-abb6-4dcc-9f3b-d9ad556f6ba8 \n a4f20cb0-367a-4161-b930-96fed1a569c2 \n 44befb9d-2f7e-45d4-90bd-ba331e4b1e01 \n 82a971e2-7ef8-4088-ac89-d93925697a70 \n 82a971e2-7ef8-4088-ac89-d93925697a70 \n 7e29ffac-9a48-4e8d-93d1-129f5d037ee5 \n a0ad0522-57c3-4b2a-b12d-3dce728054dd \n  bec52170-a0b2-4af2-b560-d26a5e19c259 \n a9e09574-6332-4a1f-9117-31c2baea4680 \n d8651c53-a7cc-42dd-90a4-c9c691e6d353 \n 5b63ec3c-8695-44a3-8488-f86d20c7655e \n dbf3888f-5ccc-4fae-a66d-1db28726fb58 \n 9d7fa0c1-bbf3-4787-8de4-45216b651613 \n 2e0e82a9-8794-4863-aa65-2b7fc8ec5078 \n d0b88a79-33b3-444a-afda-df442be94898",
+        "current_titles": [
+          {
+            "value": "My Journey of Becoming a Software Engineer",
+            "style": ""
+          }
+        ],
+        "subtitles": [],
+        "texts": [
+          {
+            "id": "036e32aa-cdf2-490c-8e9f-c1356793c2db",
+            "type": "p",
+            "value": "I am Shomurod Durdibayev, a 21-year-old Software Engineer from Tashkent, Uzbekistan, currently living in Warsaw, Poland. I want to briefly tell you about the little life journey I took to become a software engineer."
+          },
+          {
+              "id": "e45f3fab-42fe-4ab4-a92f-79b0e027d33b",
+              "type": "p",
+              "value": "Let's start at the very <b>beginning,</b> the old days when the cost of using the internet was really expensive. Not that long ago as you might be thinking, it was just in 2014"
+          },
+          {
+              "id": "4131c11c-3c8b-4fbe-ae74-a871b263ba54",
+              "type": "p",
+              "value": "I talked my family into getting a home internet for a month. I planned to get enough resources for learning something useful, basically English. We subscribed to a plan called \"Night Racer\" from Uzonline (local internet provider), with unlimited internet (with 2Mb/s speed 😅) between 12 am - 9 am."
+          },
+          {
+              "id": "73f7950a-e1e7-4301-b8c8-e7fd6b071964",
+              "type": "p",
+              "value": "After the third night of sitting in front of a computer downloading youtube playlists like a robot, I thought maybe it could be automated, it wasn't hard to find tools for that."
+          },
+          {
+              "id": "b25878bd-c257-4d6b-8135-463b6fbddcad",
+              "type": "p",
+              "value": "I was still not satisfied, I had to go to school at 7 am, so there was still 2 hours of internet time being wasted. What can we do? I can't miss school to turn off the computer at 9 am. So I learned how to turn off a computer automatically. Here it comes, my first script I wrote to make a computer do stuff for me:"
+          },
+          {
+              "id": "ae75438b-6971-40aa-bdf1-17106d441a29",
+              "type": "p",
+              "value": "This script turned off the computer after 9 hours. It thrilled me. I made a computer do that?! Fantastic!"
+          },
+          {
+              "id": "76710724-ff14-467c-b393-76593e97b008",
+              "type": "p",
+              "value": "This is how my <b>love for programming </b> ignited."
+          },
+          {
+              "id": "f8bc72fe-b392-4a20-b2cf-85bc3b6213b3",
+              "type": "p",
+  
+  
+              "value": "A month of hard work paid off. I had enough learning resources for almost a year. One of them was Harvard's CS50. It's the best online course for learning computer science and the art of programming. The professor of the course, David Malan is one of the people who made a huge impact in my life. Later, I took CS75 and CS76 as well."
+          },
+          {
+              "id": "048f0719-25ed-4033-9726-cbe4b140498e",
+              "type": "p",
+              "value": "Then I had a bigger question: <b> How do I become a software engineer? </b> "
+          },
+          {
+              "id": "68beb467-dd61-4017-ba15-03f720eca80e",
+              "type": "p",
+              "value": "That's what my parents and everyone else said. "
+          },
+          {
+              "id": "8b90443d-4a11-4f8f-9bf9-e7fdafab39b6",
+              "type": "p",
+              "value": "So I went to university. The end of the story, thanks for reading. "
+          },
+          {
+              "id": "2c134ce4-f544-4a54-a639-2f876e06409b",
+              "type": "p",
+              "value": " <b>WARNING: </b> If you are currently enrolled in CS/SWE at a university I don't recommend reading the rest of the story."
+          },
+          {
+              "id": "21f937f3-296b-4416-8af1-2a37ff97ca13",
+              "type": "p",
+              "value": "After graduating from high school, I applied to Inha University in Tashkent. Luckily I found myself on the top of the accepted students' list. But it didn't mean much, I had to pay the same amount of tuition fee, I spent all the money I earnt during high school for a semester of studying at the university."
+          },
+          {
+              "id": "81cee207-c2b9-4f24-bf83-d2a7be42e3a2",
+              "type": "p",
+              "value": "The freshman year curriculum at the university was exactly what I learned in CS50, but with a less motivated professor who said he can't get outside the curriculum university provided when I proposed that we could learn about bits & binaries with a lightbulbs game on that lesson.  "
+          },
+          {
+              "id": "183fa7ff-abb6-4dcc-9f3b-d9ad556f6ba8",
+              "type": "p",
+              "value": "After knowing there's not much to learn from the freshman curriculum, I started attending sophomore and junior courses I liked, mainly Linux, Databases and Application programming with Java. Of course, I wasn't getting any credits for that. I was only a guest student.  "
+          },
+          {
+              "id": "a4f20cb0-367a-4161-b930-96fed1a569c2",
+              "type": "p",
+              "value": " That's one of the reasons I decided to drop out. Before I did, I got a nice job offer at the data center located in the university, they offered a part-time job with a salary enough to pay the tuition fee. I rejected it. "
+          },
+          {
+              "id": "44befb9d-2f7e-45d4-90bd-ba331e4b1e01",
+              "type": "p",
+              "value": " Dropped out, no job nor experience. Now what?! "
+          },
+          {
+              "id": "82a971e2-7ef8-4088-ac89-d93925697a70",
+              "type": "p",
+              "value": " While I was attending Harvard's CS50 course, I felt like a Harvard student to some extend. And among Harvard students, there's a good saying: "
+          },
+          {
+              "id": "a0ad0522-57c3-4b2a-b12d-3dce728054dd",
+              "type": "p",
+              "value": "I and my fellow friends formed up a group and called it \"Spider\". Why spider? Because spiders make web, and we made websites, for big and small businesses. "
+          },
+          {
+              "id": "a9e09574-6332-4a1f-9117-31c2baea4680",
+              "type": "p",
+              "value": "It was going great. Until we got a project to build a fully functional, real-time 45a50d08-bf4f-4a5f-ad58-e831b9964a9b in two weeks. Sleepless nights, gumma (Uzbek hotdog alternative) and coding without planning made those days so special. We successfully finished and launched it in time, put it in the hands of the customer. "
+          },
+          {
+              "id": "d8651c53  -a7cc-42dd-90a4-c9c691e6d353",
+              "type": "p",
+  
+  
+              "value": "I realized I needed to start working on bigger projects and mentors to become a better programmer. I applied to New Max Technologies a company behind c3ab76a0-cfa2-4388-8d24-b92bd94c332f, 4554fa73-3f51-4c62-88cf-d75fece8bb15, and 117a9590-898b-4370-b4b1-a87aab04255f . I was matched to Workly and joined the team as a junior backend developer. "
+          },
+          {
+              "id": "5b63ec3c-8695-44a3-8488-f86d20c7655e",
+              "type": "p",
+              "value": "Working at Workly felt totally different than in Spider. Things I coded in rush was now not an option. I tasted the joy of code reviews, stand up meetings, backlog grooming which makes an engineer better at writing better quality code and at communication, planning. "
+          },
+          {
+              "id": "dbf3888f-5ccc-4fae-a66d-1db28726fb58",
+              "type": "p",
+              "value": "Unfortunately, my time at Workly was only 3 months, but with the right skills and referrals from Workly, I got an offer from Super Dispatch in a week. "
+          },
+          {
+              "id": "9d7fa0c1-bbf3-4787-8de4-45216b651613",
+              "type": "p",
+              "value": "With the right mentoring and challenging tasks, I grew the most in Super Dispatch. Realized that the most important part of being a developer is to enjoy what you are doing. "
+          },
+          {
+              "id": "2e0e82a9-8794-4863-aa65-2b7fc8ec5078",
+              "type": "p",
+              "value": ". . ."
+          },
+          {
+              "id": "d0b88a79-33b3-444a-afda-df442be94898",
+              "type": "p",
+              "value": "To conclude, above I brought examples of my turning points of becoming and growing as a developer. I hope you find it inspiring if you are just starting your journey of becoming a software engineer. Good Luck."
+          }
+  
+  
+  
+        ],
+        "images": [
+          {
+            "id": "d6aca48d-baec-44da-892a-4433c330f7db",
+            "url": "https://azimjon.com/media/2020/04/09/2020-04-09_20.48.48.jpg",
+            "alt": "2020, February in Old Town, Warsaw",
+            "width": "1000px",
+            "height": "500px",
+            "style": "",
+            "title": "2020, February in Old Town, Warsaw"
+          },
+          {
+              "id": "9563d44a-5870-4a06-b06d-232755d82238",
+              "url": "https://azimjon.com/media/2020/04/09/scarer.jpg",
+              "alt": "Scene from \"Monsters University\"",
+              "width": "1000px",
+              "height": "500px",
+              "style": "",
+              "title": "Scene from \"Monsters University\""
+            },
+            {
+              "id": "bec52170-a0b2-4af2-b560-d26a5e19c259",
+              "url": "https://azimjon.com/media/2020/04/09/Screen_Shot_2020-01-25_at_23.45.13.png",
+              "alt": "Spider Team, Inital Members",
+              "width": "1000px",
+              "height": "500px",
+              "style": "",
+              "title": "Spider Team, Inital Members"
+            }
+        ],
+        "links": [
+          {
+            "id": "45a50d08-bf4f-4a5f-ad58-e831b9964a9b",
+            "value": "auction",
+            "link": "https://1auksion.uz/",
+            "style": ""
+          },
+          {
+              "id": "c3ab76a0-cfa2-4388-8d24-b92bd94c332f",
+              "value": "Express24",
+              "link": "https://express24.uz/",
+              "style": ""
+          },
+          {
+              "id": "4554fa73-3f51-4c62-88cf-d75fece8bb15",
+              "value": " MyTaxi",
+              "link": "https://mytaxi.uz/",
+              "style": ""
+          },
+          {
+              "id": "117a9590-898b-4370-b4b1-a87aab04255f",
+              "value": "Workly",
+              "link": "https://workly.io/",
+              "style": ""
+          }
+         
+        ],
+        "lists": [],
+        "quotes": [
+          {
+            "id": "6d083a9e-fd16-418d-8b0e-ddc90c390171",
+            "value": "shutdown -s -t 32400"
+          },
+          {
+              "id": "954832b7-3f54-4bba-be5d-4f8984b888b2",
+              "value": "Go to university."
+          },
+          {
+              "id": "7e29ffac-9a48-4e8d-93d1-129f5d037ee5",
+  
+  
+              "value": "We don't look for an opportunity, we create opportunities."
+          }
+      ]
+      },
+      {
+          
+              "id": "b99ff220-427d-4c81-be3e-4bfe0f140877",
+              "created_at": "20 April, 2020",
+              "base": "43f22b7a-1bd5-40bc-8400-88a4b64535c3 \n 926db135-ff42-4fb9-af24-edf417e7f4c1 \n 3e41b11a-845a-42e7-8030-d29dd14d3a93 \n c7d7fb08-db29-4af3-b8b3-f42732124dcd \n 442db264-b7c1-4893-b65c-cc8ce6fb61ec \n df5f78ba-e4b0-4232-8a02-11cd172fc273 \n 9b9c19ea-c953-455f-8406-f6d7d63bee63 \n e3b672bd-352d-4fa0-9fc2-7c5209a32c76 \n 11763c6a-50f5-4951-a33b-72a90018dbf8 \n f1c208cb-dec0-4d9e-891c-ff51aa941a9a \n 25d4090b-2fbf-4d46-95dc-3027e36b6090 \n  1de76e0c-66d1-453c-b61e-a86b6b0a3c62 \n 5e493003-2525-45ae-b4e7-1237edd69cee \n ac1e24bd-e414-4a1e-b5db-10198d69acc0 ",
+              "current_titles": [
+                {
+                  "value": "It's All About The Priorities",
+                  "style": ""
+                }
+              ],
+              "subtitles": [],
+              "texts": [
+                {
+                  "id": "43f22b7a-1bd5-40bc-8400-88a4b64535c3",
+                  "type": "p",
+                  "value": "Life is full of wonderful surprises and so is work. As a developer, it's easy to burn out when you have more tasks than you can handle. In this article, I will share a simple tip that can make the process smooth while achieving the goals."
+                },
+                {
+                  "id": "3e41b11a-845a-42e7-8030-d29dd14d3a93",
+                  "type": "p",
+                  "value": "Picture this, it's July 16, 1969. Apollo 11 is landing on the Moon with a 0.043 MHz processor. At the time of landing, the instructions for the CPU far exceeded than what it could manage. Luckily, it didn't crash, made it to the moon safely."
+                },
+                {
+                  "id": "c7d7fb08-db29-4af3-b8b3-f42732124dcd",
+                  "type": "p",
+                  "value": "Interestingly, it was expected that it would happen. Engineers designed the software inside Appolo 11 the way that it would run instructions according to its priority. There was a priority queue for the instructions for the CPU. For example, during the landing, the instruction for adjusting the balance would have more priority over something like adjusting the room temperature."
+                },
+                {
+                  "id": "442db264-b7c1-4893-b65c-cc8ce6fb61ec",
+                  "type": "p",
+                  "value": "<i>Fun fact, the phone you are holding has over 100,000 times the processing power of the computer inside Appolo 11.</i>"
+                },
+                {
+                  "id": "df5f78ba-e4b0-4232-8a02-11cd172fc273",
+                  "type": "p",
+                  "value": "This is clever and the same idea can be applied to our daily lives. For instance, I work full time as a software engineer, write a bi-weekly blog, always have a side project at hand and participating in a ac19be9f-27ee-4a2f-9bd8-acde1625817a. No matter what, I always spare my resources according to the priority."
+                },
+                {
+                  "id": "9b9c19ea-c953-455f-8406-f6d7d63bee63",
+                  "type": "p",
+                  "value": "You might be saying - \"Oh, come on. It's easy during the 56f80140-cfaa-4336-bacd-2acb1bcb5873!\", and you are right I can't deny that. However, prioritization is critical when you have less time/resources."
+                },
+                {
+                  "id": "e3b672bd-352d-4fa0-9fc2-7c5209a32c76",
+                  "type": "p",
+                  "value": "Let me quickly go through how I prioritize my tasks. I am not going to bother telling you how my tasks are prioritized at work as it's mostly done by product managers."
+                },
+                {
+                  "id": "11763c6a-50f5-4951-a33b-72a90018dbf8",
+                  "type": "p",
+                  "value": "As Warren Buffet once said"
+                },
+                {
+                  "id": "25d4090b-2fbf-4d46-95dc-3027e36b6090",
+                  "type": "p",
+  
+  
+                  "value": "Keeping it always in mind, I try to prioritize things that have something to do with future me: self-development, learning a new skill, constantly improving knowledge."
+                },
+                {
+                  "id": "1de76e0c-66d1-453c-b61e-a86b6b0a3c62",
+                  "type": "p",
+                  "value": "One cool thing about the priory queues that you can visualize it. And it's also advised that you should keep track of the queue. I use 79408727-4237-4aa5-ba93-d71f268f8229 for documenting my weekly/monthly goals and their output"
+                },
+                {
+                  "id": "5e493003-2525-45ae-b4e7-1237edd69cee",
+                  "type": "p",
+                  "value": "And by the way, don't forget to leave enough room for a good night's sleep, meals and workouts, give them the highest priority you can give. They should always be on top of your queue."
+                },
+                {
+                  "id": "ac1e24bd-e414-4a1e-b5db-10198d69acc0",
+                  "type": "p",
+                  "value": "I hope this technique can help you achieve your goals with a clear vision.Good luck landing on the Moon!"
+                }
+              ],
+              "images": [
+                {
+                  "id": "926db135-ff42-4fb9-af24-edf417e7f4c1",
+                  "url": "https://azimjon.com/media/2020/04/19/Apollo_11_landed_on_moon.jpg",
+                  "alt": "Actual Footage of Apollo 11’s Eagle Landing on the Moon",
+                  "width": "1000px",
+                  "height": "500px",
+                  "style": "",
+                  "title": "Actual Footage of Apollo 11’s Eagle Landing on the Moon"
+                }
+              ],
+              "links": [
+                {
+                  "id": "ac19be9f-27ee-4a2f-9bd8-acde1625817a",
+                  "value": " 30-Day LeetCoding Challenge",
+                  "link": "https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/",
+                  "style": ""
+                },
+                {
+                  "id": "56f80140-cfaa-4336-bacd-2acb1bcb5873",
+                  "value": " quarantine",
+                  "link": "https://en.wikipedia.org/wiki/COVID-19_pandemic",
+                  "style": ""
+                },
+                {
+                  "id": "79408727-4237-4aa5-ba93-d71f268f8229",
+                  "value": " Notion ",
+                  "link": "https://www.notion.so/",
+                  "style": ""
+                }
+              ],
+              "lists": [],
+              "quotes": [
+                {
+                  "id": "f1c208cb-dec0-4d9e-891c-ff51aa941a9a",
+                  "value": "The best investment you can make is an investment in yourself."
+                }
+              ]
+      },
+     
+      {
+              "id": "3272baff-72c2-463a-9f3c-c7f5e173443f",
+              "created_at": "13 May, 2020",
+              "base": "52b9c3b7-d10e-44aa-9bf2-1530c4a14078 \n 434876e8-a532-4092-b06a-0e8eb3e1c4a7 \n cb42c32b-3059-4f51-b373-aee0a136a8e0 \n 5bc3acf7-62f0-4572-bec2-c89a1f2e31f8 \n 4a7ca159-976b-4183-87f3-13196dcd892c \n e04d4d49-9b78-44f8-8c20-2bf799345943 \n dd213288-f916-4263-8e1b-710c2abcf17a \n 8df9d4b6-6ffc-4313-a801-9a311ef546ad \n 66053206-4691-4cdd-8f1f-627c9916fdec \n 62b007ef-68d9-49b4-ae7d-bd8cefd756cf \n a78912e7-0a57-4fa6-af56-b476953e049a \n 337ebc62-f9c6-4168-9478-4b4033163231 \n 0043b9f6-34ad-4420-9cc7-1578730334e2 \n a78912e7-0a57-4fa6-af56-b476953e049a \n 33c467aa-0b93-44f2-bd03-1ce6b6577ccf \n 29341b62-1c86-4306-a618-f017012f9690 \n 5ff4d2de-d7f1-4b20-b1e5-6c47e24cbf16 \n 02e80df9-41d1-485c-9fbe-8ed5b0d1a251 \n 68f8ad8f-6934-467a-aa9e-e7a0fe43d625 \n fa0167a4-a469-463b-b7a1-c864ffeeeedf \n f238411f-6dda-4fac-be40-e2cc81292da0 \n bd35e91a-4604-4086-8073-f21c00b60a9a \n e769b67f-e248-4662-add8-802b337ebe50",
+              "current_titles": [
+                {
+                  "value": "Side Projects for Professional Growth",
+                  "style": ""
+                }
+              ],
+              "subtitles": [
+                {
+                  "id": "cb42c32b-3059-4f51-b373-aee0a136a8e0",
+                  "value": "1. JPRQ - Ngrok Alternative",
+  
+  
+                  "style": ""
+                },
+                {
+                  "id": "8df9d4b6-6ffc-4313-a801-9a311ef546ad",
+                  "value": "2. MusicSpider - Chrome Extension",
+                  "style": ""
+                },
+                {
+                  "id": "337ebc62-f9c6-4168-9478-4b4033163231",
+                  "value": "3. TBBM - Computer-Based Test Application",
+                  "style": ""
+                },
+                {
+                  "id": "29341b62-1c86-4306-a618-f017012f9690",
+                  "value": "4. IELTSZone - Online Preparation Zone for IELTS",
+                  "style": ""
+                },
+                {
+                  "id": "f238411f-6dda-4fac-be40-e2cc81292da0",
+                  "value": "Conclusion",
+                  "style": ""
+                }
+               
+  
+              ],
+              "texts": [
+                {
+                  "id": "52b9c3b7-d10e-44aa-9bf2-1530c4a14078",
+                  "type": "p",
+                  "value": "Side hustles are great, so great that they can speak for you at job interviews, give you hands-on experience on new tools and programming languages, bring you extra income and define you professionally in every possible way. For this article, I have selected my top four side projects and their impact on my professional growth."
+                },
+                {
+                  "id": "434876e8-a532-4092-b06a-0e8eb3e1c4a7",
+                  "type": "p",
+                  "value": "Before I begin, I'd like to remind you that side projects are meant to be fun and full of experiments. Make use of the nights and weekends wisely for your side projects."
+                },
+                {
+                  "id": "4a7ca159-976b-4183-87f3-13196dcd892c",
+                  "type": "p",
+                  "value": "If you're out of ideas, it's perfectly fine to build something existing - something you use every day. In my case, it was 70d392c3-4e5e-417a-bbe2-04c41d2621b1, a tool to turn localhost online for a while. It has a 30 req/min limit and it's annoying. Instead of subscribing to a paid plan, I decided to build Ngrok with unlimited requests. In about 4 weekends with my friend Jasur, we have built a working (almost always) prototype of JPRQ."
+                },
+                {
+                  "id": "e04d4d49-9b78-44f8-8c20-2bf799345943",
+                  "type": "p",
+                  "value": "I gave Golang a try. It's a fantastic language. We used channels and learned about leaking goroutines the hard way. I now have a good understanding of memory leaks because of this project."
+                },
+                {
+                  "id": "dd213288-f916-4263-8e1b-710c2abcf17a",
+                  "type": "p",
+                  "value": "If you are curious why it's called JPRQ, ask me next time we meet, I'll tell you the story behind it."
+                },
+                {
+                  "id": "62b007ef-68d9-49b4-ae7d-bd8cefd756cf",
+                  "type": "p",
+                  "value": "7ea34c4f-fa2e-4850-bdbf-2be0e4e13642  is a chrome extension for listening to music while browsing. As the name suggests, spiders crawl songs from different music websites. I, Diyorbek, and Jasur built it during the 3-day (and night) first-time-ever hackathon in Tashkent. It was an amazing experience to build something from the ground up and release it in 48 hours. It was a runner up among 34 projects presented that day."
+                },
+                {
+                  "id": "a78912e7-0a57-4fa6-af56-b476953e049a",
+                  "type": "p",
+  
+  
+                  "value": "In the summer of 2019, I was planning to travel somewhere nice on my 2-week vacation. Instead, I helped my friend launch his business, launched a computer-based test center. We built an online platform for signing up for a test and a local network of 40 computers that took the tests from candidates. I got a chance to build a centralized network system that served all the questions and received submissions. Once the test was completed, the central server calculated the score, issued a certificate, and printed automatically. Just as how I wanted, no manual work."
+                },
+                {
+                  "id": "33c467aa-0b93-44f2-bd03-1ce6b6577ccf",
+                  "type": "p",
+                  "value": "One thing I couldn't possibly forget after completing the project was the network cable colors: white-orange, orange, white-green, blue, white-blue, green, white-brown, brown."
+                },
+                {
+                  "id": "02e80df9-41d1-485c-9fbe-8ed5b0d1a251",
+                  "type": "p",
+                  "value": "IELTSZone was meant to be a learning place for the IELTS. Forum, dictionary, and the resources made it a unique place for the learners. I built IELTSZone according to my sister's request to teach and learn with a global community."
+                },
+                {
+                  "id": "68f8ad8f-6934-467a-aa9e-e7a0fe43d625",
+                  "type": "p",
+                  "value": "This project helped me improve my frontend web development skills. Because I work as a backend developer, I don't usually get the chance to work on the frontend side."
+                },
+                {
+                  "id": "fa0167a4-a469-463b-b7a1-c864ffeeeedf",
+                  "type": "p",
+                  "value": "I never finished it. Ever. Guess why, I did it alone."
+                },
+                {
+                  "id": "bd35e91a-4604-4086-8073-f21c00b60a9a",
+                  "type": "p",
+                  "value": "Side projects help you grow and stay motivated. I can't express the feeling of saying someone \"I built it\". You have got to taste it for yourself."
+                },
+                {
+                  "id": "e769b67f-e248-4662-add8-802b337ebe50",
+                  "type": "p",
+                  "value": "Good luck building the next unicorn!"
+                }
+              ],
+              "images": [
+                {
+                  "id": "5bc3acf7-62f0-4572-bec2-c89a1f2e31f8",
+                  "url": "https://youtu.be/BXuB3cK8R0g",
+                  "alt": "JPRQ Demo - Get Your Localhost Online Easily",
+                  "width": "1000px",
+                  "height": "500px",
+                  "style": "",
+                  "title": "JPRQ Demo - Get Your Localhost Online Easily"
+                },
+                {
+                  "id": "66053206-4691-4cdd-8f1f-627c9916fdec",
+                  "url": "https://youtu.be/5gIfNFdWAUQ",
+                  "alt": "Building MusicSpider at Garage48 Hackathon",
+                  "width": "1000px",
+                  "height": "500px",
+                  "style": "",
+                  "title": "Building MusicSpider at Garage48 Hackathon"
+                },
+                {
+                  "id": "0043b9f6-34ad-4420-9cc7-1578730334e2",
+                  "url": "https://azimjon.com/media/2020/05/11/tbbm-cropped.jpg",
+                  "alt": "TBBM - Computer Based Test Center for Korean Langauge for Immigration",
+                  "width": "1000px",
+                  "height": "500px",
+                  "style": "",
+                  "title": "TBBM - Computer Based Test Center for Korean Langauge for Immigration"
+                },
+                {
+                  "id": "5ff4d2de-d7f1-4b20-b1e5-6c47e24cbf16",
+                  "url": "https://azimjon.com/media/2020/05/11/ieltszone.jpg",
+                  "alt": "IELTSZone - Online Preperation Zone for IELTS",
+                  "width": "1000px",
+                  "height": "500px",
+                  "style": "",
+                  "title": "IELTSZone - Online Preperation Zone for IELTS"
+                }
+              ],
+              "links": [
+                  {
+  
+  
+                      "id": "70d392c3-4e5e-417a-bbe2-04c41d2621b1",
+                      "value": "Ngrok",
+                      "link": "https://ngrok.com/",
+                      "style": ""
+                  },
+                  {
+                  "id": "7ea34c4f-fa2e-4850-bdbf-2be0e4e13642",
+                  "value": "MusicSpider",
+                  "link": "https://chromewebstore.google.com/detail/error",
+                  "style": ""
+                }
+  
+               
+              ],
+              "lists": [],
+              "quotes": []
+      },
+      {
+          "blogs": [
+            {
+              "id": "343be951-3d39-4821-9e7b-fefc0ff2865b",
+              "created_at": "29 May, 2020",
+              "base": "0b49f52f-ed3e-4962-b805-739175f879bd \n f6e99dce-3115-4e68-b82f-cc1aa4608c20 \n f3817fef-8d1d-47de-934f-66fb5cf9198b \n 5b9d55c2-2d6b-4050-9ea6-c2fdf5d77457 \n 97ec1e47-e090-4171-b225-7faf1d79c651 \n aa7fc3c7-503b-4d7f-84e2-799a647ac0d7 \n 4f49b146-0299-43ca-9fe3-1863ada9037e \n 141b8b3b-89b4-4da9-8ab9-f377e7b5392d \n a0a6d1ff-dc3b-4700-8c09-3e7907d1e2fd",
+              "current_titles": [
+                {
+                  "value": "Book Review: Living by The Code",
+                  "style": ""
+                }
+              ],
+              "subtitles": [
+                {
+                  "id": "f3817fef-8d1d-47de-934f-66fb5cf9198b",
+                  "value": "How I Got the Book",
+                  "style": ""
+                },
+                {
+                  "id": "4f49b146-0299-43ca-9fe3-1863ada9037e",
+                  "value": "About the Book",
+                  "style": ""
+                }
+              ],
+              "texts": [
+                {
+                  "id": "5b9d55c2-2d6b-4050-9ea6-c2fdf5d77457",
+                  "type": "p",
+                  "value": "In November 2019, I was invited to DevFest Nur-Sultan to give a talk about \"Asynchronous Django\". It was my first talk at a community event and I was really excited. I met quite a few awesome people at the event. Askar, the organizer of the event, gave us a great tour of the Nur-Sultan startup ecosystem."
+                },
+                {
+                  "id": "97ec1e47-e090-4171-b225-7faf1d79c651",
+                  "type": "p",
+                  "value": "I also met Enrique, a Google Developer Expert. He gave an informative talk on \"Kotlin for Multiplatform Development\". At the end of his talk, he took a book out of his backpack and said he would give it to a lucky random participant. Opened random.org and picked a random participant. Of course, it wasn't me. Turned out the lucky one wasn't in the audience and in the second time he got my name. And that's how I got the book."
+                },
+                {
+                  "id": "141b8b3b-89b4-4da9-8ab9-f377e7b5392d",
+                  "type": "p",
+                  "value": "The book is a collection of interviews with people in tech with many years of experience and achievements. It has answers to the questions you might have in many years to come working in tech, work-life balance is a prime example. At the end of the interviews, every developer shares a recommended reading, books that changed their lives."
+                },
+                {
+                  "id": "a0a6d1ff-dc3b-4700-8c09-3e7907d1e2fd",
+                  "type": "p",
+                  "value": "PS. The book inspired me to start this blog and share non-technical stuff about the technical world."
+                }
+              ],
+              "images": [
+                {
+                  "id": "f6e99dce-3115-4e68-b82f-cc1aa4608c20",
+                  "url": "https://azimjon.com/media/2020/05/20/book_review.jpg",
+                  "alt": "Living by The Code by Enrique López",
+                  "width": "1000px",
+                  "height": "500px",
+                  "style": "",
+                  "title": "Living by The Code by Enrique López"
+                },
+                {
+                  "id": "aa7fc3c7-503b-4d7f-84e2-799a647ac0d7",
+                  "url": "https://azimjon.com/media/2020/05/31/devfest.jpg",
+                  "alt": "DevFest Nursultan 2019, Pre-Event Meeting",
+                  "width": "1000px",
+  
+  
+                  "height": "500px",
+                  "style": "",
+                  "title": "DevFest Nursultan 2019, Pre-Event Meeting"
+                }
+              ],
+              "links": [],
+              "lists": [],
+              "quotes": [
+                {
+                  "id": "0b49f52f-ed3e-4962-b805-739175f879bd",
+                  "value": "💡 I'm going to give away the autographed book to a random subscriber. Be sure to subscribe to @azimjondev telegram channel or via email below."
+                }
+              ]
+            }
+          ]
+      },
+        
+      {
+              "id": "8640c256-31f2-4e8a-87d6-f598ef0e2065",
+              "created_at": "10 June, 2020",
+              "base": "7ed75379-bd60-4fa0-b916-99c4ea3e7b11 \n 30c08ccf-dd01-44b2-841c-3d5f93315724 \n e99f0c75-0238-4c80-be8b-cb6a659411d9 \n 1b118a54-c749-4ae8-951b-ed36de252d31\n 2c167b90-2ce0-4c4f-bf5f-b81f201b0ac0 \n ce8a7916-731b-4050-b641-879dae0e0b9a \n 4a16649e-a0e7-4457-bd9a-29d65bbb802c \n 8e4094e5-b2b6-41b3-96cf-79dd82cb23af\n a82124a9-f512-4529-a76c-e5b3f77a86b7 \n 3a192400-ee6b-4f1e-a217-cfaf967d25d7",
+              "current_titles": [
+                {
+                  "value": "Focus is About Saying No",
+                  "style": ""
+                }
+              ],
+              "subtitles": [],
+              "texts": [
+                {
+                  "id": "30c08ccf-dd01-44b2-841c-3d5f93315724",
+                  "type": "p",
+                  "value": "I am a \"yes man\" by nature. I see a good opportunity - I say yes."
+                },
+                {
+                  "id": "e99f0c75-0238-4c80-be8b-cb6a659411d9",
+                  "type": "p",
+                  "value": "Until recently, I didn't realize that all the \"yes\" I have said is actually \"no\" to a hundred better things I could do instead. In this article, I'd like to share my thoughts and experience about knowing when to say \"No\"."
+                },
+                {
+                  "id": "1b118a54-c749-4ae8-951b-ed36de252d31",
+                  "type": "p",
+                  "value": "In the book<i>“It Doesn’t Have to Be Crazy at Work“</i> by Jason Fried, there's a really good comparison between yes and no:"
+                },
+                {
+                  "id": "2c167b90-2ce0-4c4f-bf5f-b81f201b0ac0",
+                  "type": "p",
+                  "value": "Saying \"no\" is hard, but trust me saying \"yes\" then \"no\" is a lot harder. So before you say \"yes\" to anything, think ahead and make decisions wisely."
+                },
+                {
+                  "id": "ce8a7916-731b-4050-b641-879dae0e0b9a",
+                  "type": "p",
+                  "value": "We all have limited time and resources. Doing the right thing at the right time is the key to success. Focus means you have to say no to all other things. No matter how better or easier they are."
+                },
+                {
+                  "id": "4a16649e-a0e7-4457-bd9a-29d65bbb802c",
+                  "type": "p",
+                  "value": "When Steve Jobs returned to Apple in 1997, Apple had 18 different directions. He called Apple a farm that's been created, with all these different animals going in different directions. His decisions to put a bullet in the head of most projects at that time now makes Apple so successful."
+                },
+                {
+                  "id": "3a192400-ee6b-4f1e-a217-cfaf967d25d7",
+                  "type": "p",
+                  "value": "No is a powerful tool to keep your priority queue manageable and attainable. When you know what you should be doing now, it's best to stay out of everything else and focusing on your goals."
+                }
+              ],
+              "images": [
+                {
+                  "id": "7ed75379-bd60-4fa0-b916-99c4ea3e7b11",
+                  "url": "https://azimjon.com/media/2020/06/10/2009211_1280x800.jpg",
+                  "alt": "Jim Carrey, Yes Man",
+                  "width": "1000px",
+                  "height": "500px",
+                  "style": "",
+                  "title": "Jim Carrey, Yes Man"
+                },
+                {
+                  "id": "8e4094e5-b2b6-41b3-96cf-79dd82cb23af",
+  
+  
+                  "url": "https://azimjon.com/media/2020/06/10/steve-jobs-focus-quote.jpg",
+                  "alt": "",
+                  "width": "1000px",
+                  "height": "500px",
+                  "style": "",
+                  "title": ""
+                },
+                {
+                  "id": "a82124a9-f512-4529-a76c-e5b3f77a86b7",
+                  "url": "https://youtu.be/H8eP99neOVs",
+                  "alt": "",
+                  "width": "1000px",
+                  "height": "500px",
+                  "style": "",
+                  "title": ""
+                }
+              ],
+              "links": [],
+              "lists": [],
+              "quotes": []
+            
+      },
+
+
+{
+  "blogs": [
+    {
+      "id": "888bb8f1-1521-4182-be62-e96c4190cecf",
+      "created_at": "22 December, 2020",
+      "base": "",
+      "current_titles": [
+        {
+          "value": "Why I Don't Like Subscriptions",
+          "style": ""
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "0d1c8f5a-8e42-403d-88b9-5f836887320a",
+          "type": "p",
+          "value": "> (Me): Hey Google, play Taylor Swift songs. \n> (Google Home): Choosing songs is only available to Spotify Premium subscribers."
+        },
+        {
+          "id": "8423299a-f5b8-4c33-b5a0-82f21a8bf54c",
+          "type": "p",
+          "value": "Today almost all consumer services are based on a subscription model. On average, Amazon Prime members shop about 25 times annually while non-Prime members 14 times a year. It's a proven model to trick consumers to consume more and regularly. Now think about why Netflix doesn't offer a plan for a day or one movie. When you pay a flat fee, you don't control the consumption and naturally consume more."
+        },
+        {
+          "id": "cf8b7e43-f3e8-41bf-b535-a526c5c7a37a",
+          "type": "p",
+          "value": "To gain financial independence, one should do quite the opposite - producing a passive income (more on that in 2021). Monthly subscriptions make it harder to leave 9-to-5 jobs to start your own business."
+        },
+        {
+          "id": "65801b06-63ee-41d1-bd4d-406974678902",
+          "type": "p",
+          "value": "I have been doing what Pavel Durov recently wrote about: 48c6e527-78cd-425a-aabb-86a8c115ac12. I highly recommend reading it if you already haven't."
+        },
+        {
+          "id": "d8d63cd8-a278-42a0-8be6-8d7d7124a6e4",
+          "type": "p",
+          "value": "When I needed a localhost tunneling service, instead of subscribing to Ngrok's monthly plan, d688e658-9db5-4a8b-be4c-18cc027ef546, now many other people are using it too. And instead of subscribing to Spotify premium to listen to songs on my Google Home, I am building an app for Google Assistant using MusicSpider's API and cd499b81-b917-458b-8167-3fcbfb6f82be on that topic."
+        },
+        {
+          "id": "736f6d80-7f44-43a3-8251-6aa2e041fef1",
+          "type": "p",
+          "value": "For the exact same reason, I built my own blog website instead of writing on Medium, sick and tired of Medium's banner to sign up for a subscription."
+        },
+        {
+          "id": "f9ff59bb-8c8f-4253-bac6-92d5e5ebc675",
+          "type": "p",
+          "value": "For a developer, any premium feature is an opportunity for a side project. Although it may not be as popular or as successful, it's a great experience and an excuse not to pay for the subscription."
+        }
+      ],
+      "images": [
+        {
+          "id": "8f3e0417-55e2-4b07-9a8f-cbdd33ce5bc3",
+          "url": "https://azimjon.com/media/2020/12/21/subscriptions_hd.jpg",
+          "alt": "image",
+          "width": "1000px",
+          "height": "500px",
+          "style": "",
+          "title": "image"
+        }
+      ],
+      "links": [
+        {
+          "id": "48c6e527-78cd-425a-aabb-86a8c115ac12",
+          "value": " consuming less and producing more",
+          "link": "https://telegra.ph/Consume-Less-Create-More-Its-More-Fun-12-04",
+          "style": ""
+        },
+        {
+          "id": "d688e658-9db5-4a8b-be4c-18cc027ef546",
+          "value": " I built one myself",
+          "link": "https://dev.to/azimjohn/how-i-built-ngrok-alternative-3n0g",
+          "style": ""
+        },
+        {
+          "id": "cd499b81-b917-458b-8167-3fcbfb6f82be",
+          "value": "giving a talk at a conference",
+          "link": "https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2Fupdate%2Furn%3Ali%3Aactivity%3A6746468038150799360",
+          "style": ""
+        }
+      ],
+      "lists": [],
+      "quotes": []
+    },
+    {
+      "id": "2e01e796-9571-4d6a-8b52-5cba1b7ee3de",
+      "created_at": "04 December, 2020",
+      "base": "",
+      "current_titles": [
+        {
+
+
+          "value": "Taking Advantage of Remote Work",
+          "style": ""
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "90211687-1c05-4a21-905d-bf0e95cf28e4",
+          "type": "p",
+          "value": "In my b285bfcd-a917-4c5a-a07f-8e27b5f1d5a7 about building a home office, I wrote:"
+        },
+        {
+          "id": "9e7fe182-2915-4c3c-acbe-4ec808b2cbf0",
+          "type": "p",
+          "value": "I wanted to make further improvements to my home office. I was renting a single room in a shared apartment in Warsaw. Living in a shared apartment has its downs and only downs. I ruined my sleep routine because of the other tenants living together. I really needed to move out."
+        },
+        {
+          "id": "9db37034-fb45-4306-8151-bf93772886ae",
+          "type": "p",
+          "value": "I couldn't afford to rent a full apartment as I was working part-time while studying. But at the same time, I didn't want to risk again moving to another shared apartment. Then I remembered about a tweet I saw earlier this year."
+        },
+        {
+          "id": "28fcc087-b046-49e1-85d4-654566f29097",
+          "type": "p",
+          "value": "Below are houses, both priced at $1M. The one on the left is located in Silicon Valley and the one on the right is in Texas."
+        },
+        {
+          "id": "da991a19-f78d-406d-8e40-4813d47a6714",
+          "type": "p",
+          "value": "This is a mind-blowingly huge difference. The best of remote work is that you can work from anywhere. Timezone matters though."
+        },
+        {
+          "id": "5bbfe5b2-f600-4f8f-a6b7-83ae6645db92",
+          "type": "p",
+          "value": "So I started searching for an apartment outside of Warsaw. I went to a small town called 'Babice Nowe', only 16km away from Warsaw, a 40-min commute from my university."
+        },
+        {
+          "id": "4ffd6095-793b-40e8-b1f0-88057ef9d652",
+          "type": "p",
+          "value": "The apartment is located in a brand new neighborhood in the town center where many shops and grocery stores are located. That was my number one requirement. Then I saw the apartment, loved it. It was a perfect fit."
+        },
+        {
+            "id": "94f950d3-0112-43ac-95c6-0e550df76f7f",
+            "type": "p",
+            "value": "Astonishingly, the whole apartment costs the same as a small room in the city center. I really wanted to move out, but I had 6 more months on the rental agreement with the room I rented. I managed to terminate it legally with some headache and moved out to a new place."
+          },
+          {
+            "id": "5604339d-38c8-4182-834d-cefdf5dfc885",
+            "type": "p",
+            "value": "So here I am, sipping from a cup of coffee, writing this article looking at a view from the balcony of the apartment. It's been a week now, the experience is great so far. I am back on track, focusing on my goals and achieving great results."
+          }
+      ],
+      "images": [
+        {
+          "id": "27454d8d-9179-494d-8b2d-f546c4960c69",
+          "url": "https://azimjon.com/media/2020/12/04/sv_vs_texas.jpg",
+          "alt": "image",
+          "width": "1000px",
+          "height": "500px",
+          "style": "",
+          "title": "image"
+        },
+        {
+            "id": "27454d8d-9179-494d-8b2d-f546c4960c69",
+            "url": "https://azimjon.com/media/2020/12/04/town.png",
+            "alt": "image",
+            "width": "1000px",
+            "height": "500px",
+            "style": "",
+            "title": "image"
+          },
+          {
+            "id": "845bd3ea-fb42-4745-a2ad-801ee0c50aab",
+            "url": "https://azimjon.com/media/2020/12/04/New_Project.jpg",
+            "alt": "image",
+            "width": "1000px",
+            "height": "500px",
+            "style": "",
+            "title": "image"
+          },
+          {
+            "id": "18267603-cea1-47f0-b02c-81ebe50db6e8",
+            "url": "https://azimjon.com/media/2020/12/04/IMG_5656_1.jpg",
+            "alt": "image",
+            "width": "1000px",
+
+
+            "height": "500px",
+            "style": "",
+            "title": "image"
+          }
+      ],
+      "links": [
+        {
+          "id": "b285bfcd-a917-4c5a-a07f-8e27b5f1d5a7",
+          "value": "previous article",
+          "link": "https://azimjon.com/blog/home-office-setup-for-productivity/",
+          "style": ""
+        }
+
+      ],
+      "lists": [],
+      "quotes": [
+        {
+          "id": "db40abf8-87a0-4d9d-b15a-bd33b55cd0f5",
+          "value": "WFH is here to stay for a while now, investing in your workspace definitely pays off"
+        }
+      ]
+    },
+    {
+        "id": "37ef8caf-901e-4c3a-a77f-bf064f53fc9b",
+        "created_at": "27 October, 2020",
+        "base": "",
+        "current_titles": [
+          {
+            "value": "Hawthorne Effect",
+            "style": ""
+          }
+        ],
+        "subtitles": [],
+        "texts": [
+          {
+            "id": "beef8522-b23d-4f7b-b468-33636aff3ead",
+            "type": "p",
+            "value": "In the 1920s, Hawthorne was a telephone equipment manufacturing factory in the USA, one of the respected factories of its time. Hawthorne employees, about 40 thousand, would receive sickness pay, seasonal vacations, and more to make it a privilege to work there.:"
+          },
+          {
+            "id": "d8388f99-8804-473d-be70-dbbb3ef72719",
+            "type": "p",
+            "value": "In 1924, the National Academy of Science decided to conduct an experiment at Hawthorne and 3 other places to find out how illumination would affect the productivity of employees. They installed brighter lights with the premise that it would increase the effectiveness of the workers. Indeed, it did. In the next stage of the experiment, they dimmed the light. Productivity was still higher than before. Another experiment with small breaks was undertaken with the same result."
+          },
+          {
+            "id": "7c755b59-bfe9-4e85-a64c-bdef2a2d5bff",
+            "type": "p",
+            "value": "Although the experiments miserably failed with inconsistent results, it revealed unexpected new findings. Employees would perform better when they knew they were being observed. This effect was later called the Hawthorne effect."
+          },
+          {
+            "id": "4390c576-2ee4-4d42-92f7-6a9d9ff2d78f",
+            "type": "p",
+            "value": "What's the takeaway here? The first thing that came to my mind was that maybe, just maybe - it's the reason why at most companies/schools performance was dropped when they switched to remote mode. We are social beings, we always think about what others think about us, thereby we do better when we're being watched."
+          },
+          {
+            "id": "8a68b0b8-fd54-4e5d-b230-8d9cadf6c896",
+            "type": "p",
+            "value": "The second thing that made me ponder is about religion. I want to leave it as an open-ended question to only yourself, I am just thinking out loud here - overall, religious people tend to be more motivated in life than those with less/no belief, don't they?"
+          },
+          {
+            "id": "5d3f8800-0d25-4e6b-baab-f0b642aa96fc",
+            "type": "p",
+            "value": "Lastly, there is a lesson to learn here. There's always room to improve productivity with management, even just observing seems to help. Effective management has always been credited for success, and vice-versa."
+          }
+
+        ],
+        "images": [
+          {
+            "id": "27454d8d-9179-494d-8b2d-f546c4960c69",
+            "url": "https://azimjon.com/media/2020/10/27/hawthorne.png",
+            "alt": "image",
+            "width": "1000px",
+            "height": "500px",
+            "style": "",
+            "title": "image"
+          }
+
+        ],
+        "links": [
+            
+
+        ],
+        "lists": [],
+        "quotes": [
+
+        ]
+      }
+  ]
+}
+
+
+  ]
+}
+
