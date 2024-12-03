@@ -1958,769 +1958,485 @@
         }
       ]
     },
-
-
-
-
-
-
-
-
-
-
     {
-        "id": "d60c1fcc-b813-48d3-b4f2-b25f6a8cec21",
-        "created_at": "09 April, 2020",
-        "base": "036e32aa-cdf2-490c-8e9f-c1356793c2db \n d6aca48d-baec-44da-892a-4433c330f7db \n e45f3fab-42fe-4ab4-a92f-79b0e027d33b \n 4131c11c-3c8b-4fbe-ae74-a871b263ba54 \n 73f7950a-e1e7-4301-b8c8-e7fd6b071964 \n b25878bd-c257-4d6b-8135-463b6fbddcad \n 6d083a9e-fd16-418d-8b0e-ddc90c390171 \n ae75438b-6971-40aa-bdf1-17106d441a29 \n 76710724-ff14-467c-b393-76593e97b008 \n f8bc72fe-b392-4a20-b2cf-85bc3b6213b3 \n 048f0719-25ed-4033-9726-cbe4b140498e \n 9563d44a-5870-4a06-b06d-232755d82238 \n 954832b7-3f54-4bba-be5d-4f8984b888b2 \n 68beb467-dd61-4017-ba15-03f720eca80e \n 8b90443d-4a11-4f8f-9bf9-e7fdafab39b6 \n 2c134ce4-f544-4a54-a639-2f876e06409b \n 21f937f3-296b-4416-8af1-2a37ff97ca13 \n 81cee207-c2b9-4f24-bf83-d2a7be42e3a2 \n 183fa7ff-abb6-4dcc-9f3b-d9ad556f6ba8 \n a4f20cb0-367a-4161-b930-96fed1a569c2 \n 44befb9d-2f7e-45d4-90bd-ba331e4b1e01 \n 82a971e2-7ef8-4088-ac89-d93925697a70 \n 82a971e2-7ef8-4088-ac89-d93925697a70 \n 7e29ffac-9a48-4e8d-93d1-129f5d037ee5 \n a0ad0522-57c3-4b2a-b12d-3dce728054dd \n  bec52170-a0b2-4af2-b560-d26a5e19c259 \n a9e09574-6332-4a1f-9117-31c2baea4680 \n d8651c53-a7cc-42dd-90a4-c9c691e6d353 \n 5b63ec3c-8695-44a3-8488-f86d20c7655e \n dbf3888f-5ccc-4fae-a66d-1db28726fb58 \n 9d7fa0c1-bbf3-4787-8de4-45216b651613 \n 2e0e82a9-8794-4863-aa65-2b7fc8ec5078 \n d0b88a79-33b3-444a-afda-df442be94898",
-        "current_titles": [
-          {
-            "value": "My Journey of Becoming a Software Engineer",
-            "style": ""
-          }
-        ],
-        "subtitles": [],
-        "texts": [
-          {
-            "id": "036e32aa-cdf2-490c-8e9f-c1356793c2db",
-            "type": "p",
-            "value": "I am Shomurod Durdibayev, a 21-year-old Software Engineer from Tashkent, Uzbekistan, currently living in Warsaw, Poland. I want to briefly tell you about the little life journey I took to become a software engineer."
-          },
-          {
-              "id": "e45f3fab-42fe-4ab4-a92f-79b0e027d33b",
-              "type": "p",
-              "value": "Let's start at the very <b>beginning,</b> the old days when the cost of using the internet was really expensive. Not that long ago as you might be thinking, it was just in 2014"
-          },
-          {
-              "id": "4131c11c-3c8b-4fbe-ae74-a871b263ba54",
-              "type": "p",
-              "value": "I talked my family into getting a home internet for a month. I planned to get enough resources for learning something useful, basically English. We subscribed to a plan called \"Night Racer\" from Uzonline (local internet provider), with unlimited internet (with 2Mb/s speed 😅) between 12 am - 9 am."
-          },
-          {
-              "id": "73f7950a-e1e7-4301-b8c8-e7fd6b071964",
-              "type": "p",
-              "value": "After the third night of sitting in front of a computer downloading youtube playlists like a robot, I thought maybe it could be automated, it wasn't hard to find tools for that."
-          },
-          {
-              "id": "b25878bd-c257-4d6b-8135-463b6fbddcad",
-              "type": "p",
-              "value": "I was still not satisfied, I had to go to school at 7 am, so there was still 2 hours of internet time being wasted. What can we do? I can't miss school to turn off the computer at 9 am. So I learned how to turn off a computer automatically. Here it comes, my first script I wrote to make a computer do stuff for me:"
-          },
-          {
-              "id": "ae75438b-6971-40aa-bdf1-17106d441a29",
-              "type": "p",
-              "value": "This script turned off the computer after 9 hours. It thrilled me. I made a computer do that?! Fantastic!"
-          },
-          {
-              "id": "76710724-ff14-467c-b393-76593e97b008",
-              "type": "p",
-              "value": "This is how my <b>love for programming </b> ignited."
-          },
-          {
-              "id": "f8bc72fe-b392-4a20-b2cf-85bc3b6213b3",
-              "type": "p",
-  
-  
-              "value": "A month of hard work paid off. I had enough learning resources for almost a year. One of them was Harvard's CS50. It's the best online course for learning computer science and the art of programming. The professor of the course, David Malan is one of the people who made a huge impact in my life. Later, I took CS75 and CS76 as well."
-          },
-          {
-              "id": "048f0719-25ed-4033-9726-cbe4b140498e",
-              "type": "p",
-              "value": "Then I had a bigger question: <b> How do I become a software engineer? </b> "
-          },
-          {
-              "id": "68beb467-dd61-4017-ba15-03f720eca80e",
-              "type": "p",
-              "value": "That's what my parents and everyone else said. "
-          },
-          {
-              "id": "8b90443d-4a11-4f8f-9bf9-e7fdafab39b6",
-              "type": "p",
-              "value": "So I went to university. The end of the story, thanks for reading. "
-          },
-          {
-              "id": "2c134ce4-f544-4a54-a639-2f876e06409b",
-              "type": "p",
-              "value": " <b>WARNING: </b> If you are currently enrolled in CS/SWE at a university I don't recommend reading the rest of the story."
-          },
-          {
-              "id": "21f937f3-296b-4416-8af1-2a37ff97ca13",
-              "type": "p",
-              "value": "After graduating from high school, I applied to Inha University in Tashkent. Luckily I found myself on the top of the accepted students' list. But it didn't mean much, I had to pay the same amount of tuition fee, I spent all the money I earnt during high school for a semester of studying at the university."
-          },
-          {
-              "id": "81cee207-c2b9-4f24-bf83-d2a7be42e3a2",
-              "type": "p",
-              "value": "The freshman year curriculum at the university was exactly what I learned in CS50, but with a less motivated professor who said he can't get outside the curriculum university provided when I proposed that we could learn about bits & binaries with a lightbulbs game on that lesson.  "
-          },
-          {
-              "id": "183fa7ff-abb6-4dcc-9f3b-d9ad556f6ba8",
-              "type": "p",
-              "value": "After knowing there's not much to learn from the freshman curriculum, I started attending sophomore and junior courses I liked, mainly Linux, Databases and Application programming with Java. Of course, I wasn't getting any credits for that. I was only a guest student.  "
-          },
-          {
-              "id": "a4f20cb0-367a-4161-b930-96fed1a569c2",
-              "type": "p",
-              "value": " That's one of the reasons I decided to drop out. Before I did, I got a nice job offer at the data center located in the university, they offered a part-time job with a salary enough to pay the tuition fee. I rejected it. "
-          },
-          {
-              "id": "44befb9d-2f7e-45d4-90bd-ba331e4b1e01",
-              "type": "p",
-              "value": " Dropped out, no job nor experience. Now what?! "
-          },
-          {
-              "id": "82a971e2-7ef8-4088-ac89-d93925697a70",
-              "type": "p",
-              "value": " While I was attending Harvard's CS50 course, I felt like a Harvard student to some extend. And among Harvard students, there's a good saying: "
-          },
-          {
-              "id": "a0ad0522-57c3-4b2a-b12d-3dce728054dd",
-              "type": "p",
-              "value": "I and my fellow friends formed up a group and called it \"Spider\". Why spider? Because spiders make web, and we made websites, for big and small businesses. "
-          },
-          {
-              "id": "a9e09574-6332-4a1f-9117-31c2baea4680",
-              "type": "p",
-              "value": "It was going great. Until we got a project to build a fully functional, real-time 45a50d08-bf4f-4a5f-ad58-e831b9964a9b in two weeks. Sleepless nights, gumma (Uzbek hotdog alternative) and coding without planning made those days so special. We successfully finished and launched it in time, put it in the hands of the customer. "
-          },
-          {
-              "id": "d8651c53  -a7cc-42dd-90a4-c9c691e6d353",
-              "type": "p",
-  
-  
-              "value": "I realized I needed to start working on bigger projects and mentors to become a better programmer. I applied to New Max Technologies a company behind c3ab76a0-cfa2-4388-8d24-b92bd94c332f, 4554fa73-3f51-4c62-88cf-d75fece8bb15, and 117a9590-898b-4370-b4b1-a87aab04255f . I was matched to Workly and joined the team as a junior backend developer. "
-          },
-          {
-              "id": "5b63ec3c-8695-44a3-8488-f86d20c7655e",
-              "type": "p",
-              "value": "Working at Workly felt totally different than in Spider. Things I coded in rush was now not an option. I tasted the joy of code reviews, stand up meetings, backlog grooming which makes an engineer better at writing better quality code and at communication, planning. "
-          },
-          {
-              "id": "dbf3888f-5ccc-4fae-a66d-1db28726fb58",
-              "type": "p",
-              "value": "Unfortunately, my time at Workly was only 3 months, but with the right skills and referrals from Workly, I got an offer from Super Dispatch in a week. "
-          },
-          {
-              "id": "9d7fa0c1-bbf3-4787-8de4-45216b651613",
-              "type": "p",
-              "value": "With the right mentoring and challenging tasks, I grew the most in Super Dispatch. Realized that the most important part of being a developer is to enjoy what you are doing. "
-          },
-          {
-              "id": "2e0e82a9-8794-4863-aa65-2b7fc8ec5078",
-              "type": "p",
-              "value": ". . ."
-          },
-          {
-              "id": "d0b88a79-33b3-444a-afda-df442be94898",
-              "type": "p",
-              "value": "To conclude, above I brought examples of my turning points of becoming and growing as a developer. I hope you find it inspiring if you are just starting your journey of becoming a software engineer. Good Luck."
-          }
-  
-  
-  
-        ],
-        "images": [
-          {
-            "id": "d6aca48d-baec-44da-892a-4433c330f7db",
-            "url": "https://azimjon.com/media/2020/04/09/2020-04-09_20.48.48.jpg",
-            "alt": "2020, February in Old Town, Warsaw",
-            "width": "1000px",
-            "height": "500px",
-            "style": "",
-            "title": "2020, February in Old Town, Warsaw"
-          },
-          {
-              "id": "9563d44a-5870-4a06-b06d-232755d82238",
-              "url": "https://azimjon.com/media/2020/04/09/scarer.jpg",
-              "alt": "Scene from \"Monsters University\"",
-              "width": "1000px",
-              "height": "500px",
-              "style": "",
-              "title": "Scene from \"Monsters University\""
-            },
-            {
-              "id": "bec52170-a0b2-4af2-b560-d26a5e19c259",
-              "url": "https://azimjon.com/media/2020/04/09/Screen_Shot_2020-01-25_at_23.45.13.png",
-              "alt": "Spider Team, Inital Members",
-              "width": "1000px",
-              "height": "500px",
-              "style": "",
-              "title": "Spider Team, Inital Members"
-            }
-        ],
-        "links": [
-          {
-            "id": "45a50d08-bf4f-4a5f-ad58-e831b9964a9b",
-            "value": "auction",
-            "link": "https://1auksion.uz/",
-            "style": ""
-          },
-          {
-              "id": "c3ab76a0-cfa2-4388-8d24-b92bd94c332f",
-              "value": "Express24",
-              "link": "https://express24.uz/",
-              "style": ""
-          },
-          {
-              "id": "4554fa73-3f51-4c62-88cf-d75fece8bb15",
-              "value": " MyTaxi",
-              "link": "https://mytaxi.uz/",
-              "style": ""
-          },
-          {
-              "id": "117a9590-898b-4370-b4b1-a87aab04255f",
-              "value": "Workly",
-              "link": "https://workly.io/",
-              "style": ""
-          }
-         
-        ],
-        "lists": [],
-        "quotes": [
-          {
-            "id": "6d083a9e-fd16-418d-8b0e-ddc90c390171",
-            "value": "shutdown -s -t 32400"
-          },
-          {
-              "id": "954832b7-3f54-4bba-be5d-4f8984b888b2",
-              "value": "Go to university."
-          },
-          {
-              "id": "7e29ffac-9a48-4e8d-93d1-129f5d037ee5",
-  
-  
-              "value": "We don't look for an opportunity, we create opportunities."
-          }
-      ]
-      },
-      {
-          
-              "id": "b99ff220-427d-4c81-be3e-4bfe0f140877",
-              "created_at": "20 April, 2020",
-              "base": "43f22b7a-1bd5-40bc-8400-88a4b64535c3 \n 926db135-ff42-4fb9-af24-edf417e7f4c1 \n 3e41b11a-845a-42e7-8030-d29dd14d3a93 \n c7d7fb08-db29-4af3-b8b3-f42732124dcd \n 442db264-b7c1-4893-b65c-cc8ce6fb61ec \n df5f78ba-e4b0-4232-8a02-11cd172fc273 \n 9b9c19ea-c953-455f-8406-f6d7d63bee63 \n e3b672bd-352d-4fa0-9fc2-7c5209a32c76 \n 11763c6a-50f5-4951-a33b-72a90018dbf8 \n f1c208cb-dec0-4d9e-891c-ff51aa941a9a \n 25d4090b-2fbf-4d46-95dc-3027e36b6090 \n  1de76e0c-66d1-453c-b61e-a86b6b0a3c62 \n 5e493003-2525-45ae-b4e7-1237edd69cee \n ac1e24bd-e414-4a1e-b5db-10198d69acc0 ",
-              "current_titles": [
-                {
-                  "value": "It's All About The Priorities",
-                  "style": ""
-                }
-              ],
-              "subtitles": [],
-              "texts": [
-                {
-                  "id": "43f22b7a-1bd5-40bc-8400-88a4b64535c3",
-                  "type": "p",
-                  "value": "Life is full of wonderful surprises and so is work. As a developer, it's easy to burn out when you have more tasks than you can handle. In this article, I will share a simple tip that can make the process smooth while achieving the goals."
-                },
-                {
-                  "id": "3e41b11a-845a-42e7-8030-d29dd14d3a93",
-                  "type": "p",
-                  "value": "Picture this, it's July 16, 1969. Apollo 11 is landing on the Moon with a 0.043 MHz processor. At the time of landing, the instructions for the CPU far exceeded than what it could manage. Luckily, it didn't crash, made it to the moon safely."
-                },
-                {
-                  "id": "c7d7fb08-db29-4af3-b8b3-f42732124dcd",
-                  "type": "p",
-                  "value": "Interestingly, it was expected that it would happen. Engineers designed the software inside Appolo 11 the way that it would run instructions according to its priority. There was a priority queue for the instructions for the CPU. For example, during the landing, the instruction for adjusting the balance would have more priority over something like adjusting the room temperature."
-                },
-                {
-                  "id": "442db264-b7c1-4893-b65c-cc8ce6fb61ec",
-                  "type": "p",
-                  "value": "<i>Fun fact, the phone you are holding has over 100,000 times the processing power of the computer inside Appolo 11.</i>"
-                },
-                {
-                  "id": "df5f78ba-e4b0-4232-8a02-11cd172fc273",
-                  "type": "p",
-                  "value": "This is clever and the same idea can be applied to our daily lives. For instance, I work full time as a software engineer, write a bi-weekly blog, always have a side project at hand and participating in a ac19be9f-27ee-4a2f-9bd8-acde1625817a. No matter what, I always spare my resources according to the priority."
-                },
-                {
-                  "id": "9b9c19ea-c953-455f-8406-f6d7d63bee63",
-                  "type": "p",
-                  "value": "You might be saying - \"Oh, come on. It's easy during the 56f80140-cfaa-4336-bacd-2acb1bcb5873!\", and you are right I can't deny that. However, prioritization is critical when you have less time/resources."
-                },
-                {
-                  "id": "e3b672bd-352d-4fa0-9fc2-7c5209a32c76",
-                  "type": "p",
-                  "value": "Let me quickly go through how I prioritize my tasks. I am not going to bother telling you how my tasks are prioritized at work as it's mostly done by product managers."
-                },
-                {
-                  "id": "11763c6a-50f5-4951-a33b-72a90018dbf8",
-                  "type": "p",
-                  "value": "As Warren Buffet once said"
-                },
-                {
-                  "id": "25d4090b-2fbf-4d46-95dc-3027e36b6090",
-                  "type": "p",
-  
-  
-                  "value": "Keeping it always in mind, I try to prioritize things that have something to do with future me: self-development, learning a new skill, constantly improving knowledge."
-                },
-                {
-                  "id": "1de76e0c-66d1-453c-b61e-a86b6b0a3c62",
-                  "type": "p",
-                  "value": "One cool thing about the priory queues that you can visualize it. And it's also advised that you should keep track of the queue. I use 79408727-4237-4aa5-ba93-d71f268f8229 for documenting my weekly/monthly goals and their output"
-                },
-                {
-                  "id": "5e493003-2525-45ae-b4e7-1237edd69cee",
-                  "type": "p",
-                  "value": "And by the way, don't forget to leave enough room for a good night's sleep, meals and workouts, give them the highest priority you can give. They should always be on top of your queue."
-                },
-                {
-                  "id": "ac1e24bd-e414-4a1e-b5db-10198d69acc0",
-                  "type": "p",
-                  "value": "I hope this technique can help you achieve your goals with a clear vision.Good luck landing on the Moon!"
-                }
-              ],
-              "images": [
-                {
-                  "id": "926db135-ff42-4fb9-af24-edf417e7f4c1",
-                  "url": "https://azimjon.com/media/2020/04/19/Apollo_11_landed_on_moon.jpg",
-                  "alt": "Actual Footage of Apollo 11’s Eagle Landing on the Moon",
-                  "width": "1000px",
-                  "height": "500px",
-                  "style": "",
-                  "title": "Actual Footage of Apollo 11’s Eagle Landing on the Moon"
-                }
-              ],
-              "links": [
-                {
-                  "id": "ac19be9f-27ee-4a2f-9bd8-acde1625817a",
-                  "value": " 30-Day LeetCoding Challenge",
-                  "link": "https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/",
-                  "style": ""
-                },
-                {
-                  "id": "56f80140-cfaa-4336-bacd-2acb1bcb5873",
-                  "value": " quarantine",
-                  "link": "https://en.wikipedia.org/wiki/COVID-19_pandemic",
-                  "style": ""
-                },
-                {
-                  "id": "79408727-4237-4aa5-ba93-d71f268f8229",
-                  "value": " Notion ",
-                  "link": "https://www.notion.so/",
-                  "style": ""
-                }
-              ],
-              "lists": [],
-              "quotes": [
-                {
-                  "id": "f1c208cb-dec0-4d9e-891c-ff51aa941a9a",
-                  "value": "The best investment you can make is an investment in yourself."
-                }
-              ]
-      },
-     
-      {
-              "id": "3272baff-72c2-463a-9f3c-c7f5e173443f",
-              "created_at": "13 May, 2020",
-              "base": "52b9c3b7-d10e-44aa-9bf2-1530c4a14078 \n 434876e8-a532-4092-b06a-0e8eb3e1c4a7 \n cb42c32b-3059-4f51-b373-aee0a136a8e0 \n 5bc3acf7-62f0-4572-bec2-c89a1f2e31f8 \n 4a7ca159-976b-4183-87f3-13196dcd892c \n e04d4d49-9b78-44f8-8c20-2bf799345943 \n dd213288-f916-4263-8e1b-710c2abcf17a \n 8df9d4b6-6ffc-4313-a801-9a311ef546ad \n 66053206-4691-4cdd-8f1f-627c9916fdec \n 62b007ef-68d9-49b4-ae7d-bd8cefd756cf \n a78912e7-0a57-4fa6-af56-b476953e049a \n 337ebc62-f9c6-4168-9478-4b4033163231 \n 0043b9f6-34ad-4420-9cc7-1578730334e2 \n a78912e7-0a57-4fa6-af56-b476953e049a \n 33c467aa-0b93-44f2-bd03-1ce6b6577ccf \n 29341b62-1c86-4306-a618-f017012f9690 \n 5ff4d2de-d7f1-4b20-b1e5-6c47e24cbf16 \n 02e80df9-41d1-485c-9fbe-8ed5b0d1a251 \n 68f8ad8f-6934-467a-aa9e-e7a0fe43d625 \n fa0167a4-a469-463b-b7a1-c864ffeeeedf \n f238411f-6dda-4fac-be40-e2cc81292da0 \n bd35e91a-4604-4086-8073-f21c00b60a9a \n e769b67f-e248-4662-add8-802b337ebe50",
-              "current_titles": [
-                {
-                  "value": "Side Projects for Professional Growth",
-                  "style": ""
-                }
-              ],
-              "subtitles": [
-                {
-                  "id": "cb42c32b-3059-4f51-b373-aee0a136a8e0",
-                  "value": "1. JPRQ - Ngrok Alternative",
-  
-  
-                  "style": ""
-                },
-                {
-                  "id": "8df9d4b6-6ffc-4313-a801-9a311ef546ad",
-                  "value": "2. MusicSpider - Chrome Extension",
-                  "style": ""
-                },
-                {
-                  "id": "337ebc62-f9c6-4168-9478-4b4033163231",
-                  "value": "3. TBBM - Computer-Based Test Application",
-                  "style": ""
-                },
-                {
-                  "id": "29341b62-1c86-4306-a618-f017012f9690",
-                  "value": "4. IELTSZone - Online Preparation Zone for IELTS",
-                  "style": ""
-                },
-                {
-                  "id": "f238411f-6dda-4fac-be40-e2cc81292da0",
-                  "value": "Conclusion",
-                  "style": ""
-                }
-               
-  
-              ],
-              "texts": [
-                {
-                  "id": "52b9c3b7-d10e-44aa-9bf2-1530c4a14078",
-                  "type": "p",
-                  "value": "Side hustles are great, so great that they can speak for you at job interviews, give you hands-on experience on new tools and programming languages, bring you extra income and define you professionally in every possible way. For this article, I have selected my top four side projects and their impact on my professional growth."
-                },
-                {
-                  "id": "434876e8-a532-4092-b06a-0e8eb3e1c4a7",
-                  "type": "p",
-                  "value": "Before I begin, I'd like to remind you that side projects are meant to be fun and full of experiments. Make use of the nights and weekends wisely for your side projects."
-                },
-                {
-                  "id": "4a7ca159-976b-4183-87f3-13196dcd892c",
-                  "type": "p",
-                  "value": "If you're out of ideas, it's perfectly fine to build something existing - something you use every day. In my case, it was 70d392c3-4e5e-417a-bbe2-04c41d2621b1, a tool to turn localhost online for a while. It has a 30 req/min limit and it's annoying. Instead of subscribing to a paid plan, I decided to build Ngrok with unlimited requests. In about 4 weekends with my friend Jasur, we have built a working (almost always) prototype of JPRQ."
-                },
-                {
-                  "id": "e04d4d49-9b78-44f8-8c20-2bf799345943",
-                  "type": "p",
-                  "value": "I gave Golang a try. It's a fantastic language. We used channels and learned about leaking goroutines the hard way. I now have a good understanding of memory leaks because of this project."
-                },
-                {
-                  "id": "dd213288-f916-4263-8e1b-710c2abcf17a",
-                  "type": "p",
-                  "value": "If you are curious why it's called JPRQ, ask me next time we meet, I'll tell you the story behind it."
-                },
-                {
-                  "id": "62b007ef-68d9-49b4-ae7d-bd8cefd756cf",
-                  "type": "p",
-                  "value": "7ea34c4f-fa2e-4850-bdbf-2be0e4e13642  is a chrome extension for listening to music while browsing. As the name suggests, spiders crawl songs from different music websites. I, Diyorbek, and Jasur built it during the 3-day (and night) first-time-ever hackathon in Tashkent. It was an amazing experience to build something from the ground up and release it in 48 hours. It was a runner up among 34 projects presented that day."
-                },
-                {
-                  "id": "a78912e7-0a57-4fa6-af56-b476953e049a",
-                  "type": "p",
-  
-  
-                  "value": "In the summer of 2019, I was planning to travel somewhere nice on my 2-week vacation. Instead, I helped my friend launch his business, launched a computer-based test center. We built an online platform for signing up for a test and a local network of 40 computers that took the tests from candidates. I got a chance to build a centralized network system that served all the questions and received submissions. Once the test was completed, the central server calculated the score, issued a certificate, and printed automatically. Just as how I wanted, no manual work."
-                },
-                {
-                  "id": "33c467aa-0b93-44f2-bd03-1ce6b6577ccf",
-                  "type": "p",
-                  "value": "One thing I couldn't possibly forget after completing the project was the network cable colors: white-orange, orange, white-green, blue, white-blue, green, white-brown, brown."
-                },
-                {
-                  "id": "02e80df9-41d1-485c-9fbe-8ed5b0d1a251",
-                  "type": "p",
-                  "value": "IELTSZone was meant to be a learning place for the IELTS. Forum, dictionary, and the resources made it a unique place for the learners. I built IELTSZone according to my sister's request to teach and learn with a global community."
-                },
-                {
-                  "id": "68f8ad8f-6934-467a-aa9e-e7a0fe43d625",
-                  "type": "p",
-                  "value": "This project helped me improve my frontend web development skills. Because I work as a backend developer, I don't usually get the chance to work on the frontend side."
-                },
-                {
-                  "id": "fa0167a4-a469-463b-b7a1-c864ffeeeedf",
-                  "type": "p",
-                  "value": "I never finished it. Ever. Guess why, I did it alone."
-                },
-                {
-                  "id": "bd35e91a-4604-4086-8073-f21c00b60a9a",
-                  "type": "p",
-                  "value": "Side projects help you grow and stay motivated. I can't express the feeling of saying someone \"I built it\". You have got to taste it for yourself."
-                },
-                {
-                  "id": "e769b67f-e248-4662-add8-802b337ebe50",
-                  "type": "p",
-                  "value": "Good luck building the next unicorn!"
-                }
-              ],
-              "images": [
-                {
-                  "id": "5bc3acf7-62f0-4572-bec2-c89a1f2e31f8",
-                  "url": "https://youtu.be/BXuB3cK8R0g",
-                  "alt": "JPRQ Demo - Get Your Localhost Online Easily",
-                  "width": "1000px",
-                  "height": "500px",
-                  "style": "",
-                  "title": "JPRQ Demo - Get Your Localhost Online Easily"
-                },
-                {
-                  "id": "66053206-4691-4cdd-8f1f-627c9916fdec",
-                  "url": "https://youtu.be/5gIfNFdWAUQ",
-                  "alt": "Building MusicSpider at Garage48 Hackathon",
-                  "width": "1000px",
-                  "height": "500px",
-                  "style": "",
-                  "title": "Building MusicSpider at Garage48 Hackathon"
-                },
-                {
-                  "id": "0043b9f6-34ad-4420-9cc7-1578730334e2",
-                  "url": "https://azimjon.com/media/2020/05/11/tbbm-cropped.jpg",
-                  "alt": "TBBM - Computer Based Test Center for Korean Langauge for Immigration",
-                  "width": "1000px",
-                  "height": "500px",
-                  "style": "",
-                  "title": "TBBM - Computer Based Test Center for Korean Langauge for Immigration"
-                },
-                {
-                  "id": "5ff4d2de-d7f1-4b20-b1e5-6c47e24cbf16",
-                  "url": "https://azimjon.com/media/2020/05/11/ieltszone.jpg",
-                  "alt": "IELTSZone - Online Preperation Zone for IELTS",
-                  "width": "1000px",
-                  "height": "500px",
-                  "style": "",
-                  "title": "IELTSZone - Online Preperation Zone for IELTS"
-                }
-              ],
-              "links": [
-                  {
-  
-  
-                      "id": "70d392c3-4e5e-417a-bbe2-04c41d2621b1",
-                      "value": "Ngrok",
-                      "link": "https://ngrok.com/",
-                      "style": ""
-                  },
-                  {
-                  "id": "7ea34c4f-fa2e-4850-bdbf-2be0e4e13642",
-                  "value": "MusicSpider",
-                  "link": "https://chromewebstore.google.com/detail/error",
-                  "style": ""
-                }
-  
-               
-              ],
-              "lists": [],
-              "quotes": []
-      },
-      {
-          "blogs": [
-            {
-              "id": "343be951-3d39-4821-9e7b-fefc0ff2865b",
-              "created_at": "29 May, 2020",
-              "base": "0b49f52f-ed3e-4962-b805-739175f879bd \n f6e99dce-3115-4e68-b82f-cc1aa4608c20 \n f3817fef-8d1d-47de-934f-66fb5cf9198b \n 5b9d55c2-2d6b-4050-9ea6-c2fdf5d77457 \n 97ec1e47-e090-4171-b225-7faf1d79c651 \n aa7fc3c7-503b-4d7f-84e2-799a647ac0d7 \n 4f49b146-0299-43ca-9fe3-1863ada9037e \n 141b8b3b-89b4-4da9-8ab9-f377e7b5392d \n a0a6d1ff-dc3b-4700-8c09-3e7907d1e2fd",
-              "current_titles": [
-                {
-                  "value": "Book Review: Living by The Code",
-                  "style": ""
-                }
-              ],
-              "subtitles": [
-                {
-                  "id": "f3817fef-8d1d-47de-934f-66fb5cf9198b",
-                  "value": "How I Got the Book",
-                  "style": ""
-                },
-                {
-                  "id": "4f49b146-0299-43ca-9fe3-1863ada9037e",
-                  "value": "About the Book",
-                  "style": ""
-                }
-              ],
-              "texts": [
-                {
-                  "id": "5b9d55c2-2d6b-4050-9ea6-c2fdf5d77457",
-                  "type": "p",
-                  "value": "In November 2019, I was invited to DevFest Nur-Sultan to give a talk about \"Asynchronous Django\". It was my first talk at a community event and I was really excited. I met quite a few awesome people at the event. Askar, the organizer of the event, gave us a great tour of the Nur-Sultan startup ecosystem."
-                },
-                {
-                  "id": "97ec1e47-e090-4171-b225-7faf1d79c651",
-                  "type": "p",
-                  "value": "I also met Enrique, a Google Developer Expert. He gave an informative talk on \"Kotlin for Multiplatform Development\". At the end of his talk, he took a book out of his backpack and said he would give it to a lucky random participant. Opened random.org and picked a random participant. Of course, it wasn't me. Turned out the lucky one wasn't in the audience and in the second time he got my name. And that's how I got the book."
-                },
-                {
-                  "id": "141b8b3b-89b4-4da9-8ab9-f377e7b5392d",
-                  "type": "p",
-                  "value": "The book is a collection of interviews with people in tech with many years of experience and achievements. It has answers to the questions you might have in many years to come working in tech, work-life balance is a prime example. At the end of the interviews, every developer shares a recommended reading, books that changed their lives."
-                },
-                {
-                  "id": "a0a6d1ff-dc3b-4700-8c09-3e7907d1e2fd",
-                  "type": "p",
-                  "value": "PS. The book inspired me to start this blog and share non-technical stuff about the technical world."
-                }
-              ],
-              "images": [
-                {
-                  "id": "f6e99dce-3115-4e68-b82f-cc1aa4608c20",
-                  "url": "https://azimjon.com/media/2020/05/20/book_review.jpg",
-                  "alt": "Living by The Code by Enrique López",
-                  "width": "1000px",
-                  "height": "500px",
-                  "style": "",
-                  "title": "Living by The Code by Enrique López"
-                },
-                {
-                  "id": "aa7fc3c7-503b-4d7f-84e2-799a647ac0d7",
-                  "url": "https://azimjon.com/media/2020/05/31/devfest.jpg",
-                  "alt": "DevFest Nursultan 2019, Pre-Event Meeting",
-                  "width": "1000px",
-  
-  
-                  "height": "500px",
-                  "style": "",
-                  "title": "DevFest Nursultan 2019, Pre-Event Meeting"
-                }
-              ],
-              "links": [],
-              "lists": [],
-              "quotes": [
-                {
-                  "id": "0b49f52f-ed3e-4962-b805-739175f879bd",
-                  "value": "💡 I'm going to give away the autographed book to a random subscriber. Be sure to subscribe to @azimjondev telegram channel or via email below."
-                }
-              ]
-            }
-          ]
-      },
-        
-      {
-              "id": "8640c256-31f2-4e8a-87d6-f598ef0e2065",
-              "created_at": "10 June, 2020",
-              "base": "7ed75379-bd60-4fa0-b916-99c4ea3e7b11 \n 30c08ccf-dd01-44b2-841c-3d5f93315724 \n e99f0c75-0238-4c80-be8b-cb6a659411d9 \n 1b118a54-c749-4ae8-951b-ed36de252d31\n 2c167b90-2ce0-4c4f-bf5f-b81f201b0ac0 \n ce8a7916-731b-4050-b641-879dae0e0b9a \n 4a16649e-a0e7-4457-bd9a-29d65bbb802c \n 8e4094e5-b2b6-41b3-96cf-79dd82cb23af\n a82124a9-f512-4529-a76c-e5b3f77a86b7 \n 3a192400-ee6b-4f1e-a217-cfaf967d25d7",
-              "current_titles": [
-                {
-                  "value": "Focus is About Saying No",
-                  "style": ""
-                }
-              ],
-              "subtitles": [],
-              "texts": [
-                {
-                  "id": "30c08ccf-dd01-44b2-841c-3d5f93315724",
-                  "type": "p",
-                  "value": "I am a \"yes man\" by nature. I see a good opportunity - I say yes."
-                },
-                {
-                  "id": "e99f0c75-0238-4c80-be8b-cb6a659411d9",
-                  "type": "p",
-                  "value": "Until recently, I didn't realize that all the \"yes\" I have said is actually \"no\" to a hundred better things I could do instead. In this article, I'd like to share my thoughts and experience about knowing when to say \"No\"."
-                },
-                {
-                  "id": "1b118a54-c749-4ae8-951b-ed36de252d31",
-                  "type": "p",
-                  "value": "In the book<i>“It Doesn’t Have to Be Crazy at Work“</i> by Jason Fried, there's a really good comparison between yes and no:"
-                },
-                {
-                  "id": "2c167b90-2ce0-4c4f-bf5f-b81f201b0ac0",
-                  "type": "p",
-                  "value": "Saying \"no\" is hard, but trust me saying \"yes\" then \"no\" is a lot harder. So before you say \"yes\" to anything, think ahead and make decisions wisely."
-                },
-                {
-                  "id": "ce8a7916-731b-4050-b641-879dae0e0b9a",
-                  "type": "p",
-                  "value": "We all have limited time and resources. Doing the right thing at the right time is the key to success. Focus means you have to say no to all other things. No matter how better or easier they are."
-                },
-                {
-                  "id": "4a16649e-a0e7-4457-bd9a-29d65bbb802c",
-                  "type": "p",
-                  "value": "When Steve Jobs returned to Apple in 1997, Apple had 18 different directions. He called Apple a farm that's been created, with all these different animals going in different directions. His decisions to put a bullet in the head of most projects at that time now makes Apple so successful."
-                },
-                {
-                  "id": "3a192400-ee6b-4f1e-a217-cfaf967d25d7",
-                  "type": "p",
-                  "value": "No is a powerful tool to keep your priority queue manageable and attainable. When you know what you should be doing now, it's best to stay out of everything else and focusing on your goals."
-                }
-              ],
-              "images": [
-                {
-                  "id": "7ed75379-bd60-4fa0-b916-99c4ea3e7b11",
-                  "url": "https://azimjon.com/media/2020/06/10/2009211_1280x800.jpg",
-                  "alt": "Jim Carrey, Yes Man",
-                  "width": "1000px",
-                  "height": "500px",
-                  "style": "",
-                  "title": "Jim Carrey, Yes Man"
-                },
-                {
-                  "id": "8e4094e5-b2b6-41b3-96cf-79dd82cb23af",
-  
-  
-                  "url": "https://azimjon.com/media/2020/06/10/steve-jobs-focus-quote.jpg",
-                  "alt": "",
-                  "width": "1000px",
-                  "height": "500px",
-                  "style": "",
-                  "title": ""
-                },
-                {
-                  "id": "a82124a9-f512-4529-a76c-e5b3f77a86b7",
-                  "url": "https://youtu.be/H8eP99neOVs",
-                  "alt": "",
-                  "width": "1000px",
-                  "height": "500px",
-                  "style": "",
-                  "title": ""
-                }
-              ],
-              "links": [],
-              "lists": [],
-              "quotes": []
-            
-      },
-
-
-{
-  "blogs": [
-    {
-      "id": "888bb8f1-1521-4182-be62-e96c4190cecf",
-      "created_at": "22 December, 2020",
-      "base": "",
+      "id": "d60c1fcc-b813-48d3-b4f2-b25f6a8cec21",
+      "created_at": "09 April, 2020",
+      "base": "036e32aa-cdf2-490c-8e9f-c1356793c2db \n d6aca48d-baec-44da-892a-4433c330f7db \n e45f3fab-42fe-4ab4-a92f-79b0e027d33b \n 4131c11c-3c8b-4fbe-ae74-a871b263ba54 \n 73f7950a-e1e7-4301-b8c8-e7fd6b071964 \n b25878bd-c257-4d6b-8135-463b6fbddcad \n 6d083a9e-fd16-418d-8b0e-ddc90c390171 \n ae75438b-6971-40aa-bdf1-17106d441a29 \n 76710724-ff14-467c-b393-76593e97b008 \n f8bc72fe-b392-4a20-b2cf-85bc3b6213b3 \n 048f0719-25ed-4033-9726-cbe4b140498e \n 9563d44a-5870-4a06-b06d-232755d82238 \n 954832b7-3f54-4bba-be5d-4f8984b888b2 \n 68beb467-dd61-4017-ba15-03f720eca80e \n 8b90443d-4a11-4f8f-9bf9-e7fdafab39b6 \n 2c134ce4-f544-4a54-a639-2f876e06409b \n 21f937f3-296b-4416-8af1-2a37ff97ca13 \n 81cee207-c2b9-4f24-bf83-d2a7be42e3a2 \n 183fa7ff-abb6-4dcc-9f3b-d9ad556f6ba8 \n a4f20cb0-367a-4161-b930-96fed1a569c2 \n 44befb9d-2f7e-45d4-90bd-ba331e4b1e01 \n 82a971e2-7ef8-4088-ac89-d93925697a70 \n 82a971e2-7ef8-4088-ac89-d93925697a70 \n 7e29ffac-9a48-4e8d-93d1-129f5d037ee5 \n a0ad0522-57c3-4b2a-b12d-3dce728054dd \n  bec52170-a0b2-4af2-b560-d26a5e19c259 \n a9e09574-6332-4a1f-9117-31c2baea4680 \n d8651c53-a7cc-42dd-90a4-c9c691e6d353 \n 5b63ec3c-8695-44a3-8488-f86d20c7655e \n dbf3888f-5ccc-4fae-a66d-1db28726fb58 \n 9d7fa0c1-bbf3-4787-8de4-45216b651613 \n 2e0e82a9-8794-4863-aa65-2b7fc8ec5078 \n d0b88a79-33b3-444a-afda-df442be94898",
       "current_titles": [
         {
-          "value": "Why I Don't Like Subscriptions",
+          "value": "My Journey of Becoming a Software Engineer",
           "style": ""
         }
       ],
       "subtitles": [],
       "texts": [
         {
-          "id": "0d1c8f5a-8e42-403d-88b9-5f836887320a",
+          "id": "036e32aa-cdf2-490c-8e9f-c1356793c2db",
           "type": "p",
-          "value": "> (Me): Hey Google, play Taylor Swift songs. \n> (Google Home): Choosing songs is only available to Spotify Premium subscribers."
+          "value": "I am Shomurod Durdibayev, a 21-year-old Software Engineer from Tashkent, Uzbekistan, currently living in Warsaw, Poland. I want to briefly tell you about the little life journey I took to become a software engineer."
         },
         {
-          "id": "8423299a-f5b8-4c33-b5a0-82f21a8bf54c",
+          "id": "e45f3fab-42fe-4ab4-a92f-79b0e027d33b",
           "type": "p",
-          "value": "Today almost all consumer services are based on a subscription model. On average, Amazon Prime members shop about 25 times annually while non-Prime members 14 times a year. It's a proven model to trick consumers to consume more and regularly. Now think about why Netflix doesn't offer a plan for a day or one movie. When you pay a flat fee, you don't control the consumption and naturally consume more."
+          "value": "Let's start at the very <b>beginning,</b> the old days when the cost of using the internet was really expensive. Not that long ago as you might be thinking, it was just in 2014"
         },
         {
-          "id": "cf8b7e43-f3e8-41bf-b535-a526c5c7a37a",
+          "id": "4131c11c-3c8b-4fbe-ae74-a871b263ba54",
           "type": "p",
-          "value": "To gain financial independence, one should do quite the opposite - producing a passive income (more on that in 2021). Monthly subscriptions make it harder to leave 9-to-5 jobs to start your own business."
+          "value": "I talked my family into getting a home internet for a month. I planned to get enough resources for learning something useful, basically English. We subscribed to a plan called \"Night Racer\" from Uzonline (local internet provider), with unlimited internet (with 2Mb/s speed 😅) between 12 am - 9 am."
         },
         {
-          "id": "65801b06-63ee-41d1-bd4d-406974678902",
+          "id": "73f7950a-e1e7-4301-b8c8-e7fd6b071964",
           "type": "p",
-          "value": "I have been doing what Pavel Durov recently wrote about: 48c6e527-78cd-425a-aabb-86a8c115ac12. I highly recommend reading it if you already haven't."
+          "value": "After the third night of sitting in front of a computer downloading youtube playlists like a robot, I thought maybe it could be automated, it wasn't hard to find tools for that."
         },
         {
-          "id": "d8d63cd8-a278-42a0-8be6-8d7d7124a6e4",
+          "id": "b25878bd-c257-4d6b-8135-463b6fbddcad",
           "type": "p",
-          "value": "When I needed a localhost tunneling service, instead of subscribing to Ngrok's monthly plan, d688e658-9db5-4a8b-be4c-18cc027ef546, now many other people are using it too. And instead of subscribing to Spotify premium to listen to songs on my Google Home, I am building an app for Google Assistant using MusicSpider's API and cd499b81-b917-458b-8167-3fcbfb6f82be on that topic."
+          "value": "I was still not satisfied, I had to go to school at 7 am, so there was still 2 hours of internet time being wasted. What can we do? I can't miss school to turn off the computer at 9 am. So I learned how to turn off a computer automatically. Here it comes, my first script I wrote to make a computer do stuff for me:"
         },
         {
-          "id": "736f6d80-7f44-43a3-8251-6aa2e041fef1",
+          "id": "ae75438b-6971-40aa-bdf1-17106d441a29",
           "type": "p",
-          "value": "For the exact same reason, I built my own blog website instead of writing on Medium, sick and tired of Medium's banner to sign up for a subscription."
+          "value": "This script turned off the computer after 9 hours. It thrilled me. I made a computer do that?! Fantastic!"
         },
         {
-          "id": "f9ff59bb-8c8f-4253-bac6-92d5e5ebc675",
+          "id": "76710724-ff14-467c-b393-76593e97b008",
           "type": "p",
-          "value": "For a developer, any premium feature is an opportunity for a side project. Although it may not be as popular or as successful, it's a great experience and an excuse not to pay for the subscription."
+          "value": "This is how my <b>love for programming </b> ignited."
+        },
+        {
+          "id": "f8bc72fe-b392-4a20-b2cf-85bc3b6213b3",
+          "type": "p",
+          "value": "A month of hard work paid off. I had enough learning resources for almost a year. One of them was Harvard's CS50. It's the best online course for learning computer science and the art of programming. The professor of the course, David Malan is one of the people who made a huge impact in my life. Later, I took CS75 and CS76 as well."
+        },
+        {
+          "id": "048f0719-25ed-4033-9726-cbe4b140498e",
+          "type": "p",
+          "value": "Then I had a bigger question: <b> How do I become a software engineer? </b> "
+        },
+        {
+          "id": "68beb467-dd61-4017-ba15-03f720eca80e",
+          "type": "p",
+          "value": "That's what my parents and everyone else said. "
+        },
+        {
+          "id": "8b90443d-4a11-4f8f-9bf9-e7fdafab39b6",
+          "type": "p",
+          "value": "So I went to university. The end of the story, thanks for reading. "
+        },
+        {
+          "id": "2c134ce4-f544-4a54-a639-2f876e06409b",
+          "type": "p",
+          "value": " <b>WARNING: </b> If you are currently enrolled in CS/SWE at a university I don't recommend reading the rest of the story."
+        },
+        {
+          "id": "21f937f3-296b-4416-8af1-2a37ff97ca13",
+          "type": "p",
+          "value": "After graduating from high school, I applied to Inha University in Tashkent. Luckily I found myself on the top of the accepted students' list. But it didn't mean much, I had to pay the same amount of tuition fee, I spent all the money I earnt during high school for a semester of studying at the university."
+        },
+        {
+          "id": "81cee207-c2b9-4f24-bf83-d2a7be42e3a2",
+          "type": "p",
+          "value": "The freshman year curriculum at the university was exactly what I learned in CS50, but with a less motivated professor who said he can't get outside the curriculum university provided when I proposed that we could learn about bits & binaries with a lightbulbs game on that lesson.  "
+        },
+        {
+          "id": "183fa7ff-abb6-4dcc-9f3b-d9ad556f6ba8",
+          "type": "p",
+          "value": "After knowing there's not much to learn from the freshman curriculum, I started attending sophomore and junior courses I liked, mainly Linux, Databases and Application programming with Java. Of course, I wasn't getting any credits for that. I was only a guest student.  "
+        },
+        {
+          "id": "a4f20cb0-367a-4161-b930-96fed1a569c2",
+          "type": "p",
+          "value": " That's one of the reasons I decided to drop out. Before I did, I got a nice job offer at the data center located in the university, they offered a part-time job with a salary enough to pay the tuition fee. I rejected it. "
+        },
+        {
+          "id": "44befb9d-2f7e-45d4-90bd-ba331e4b1e01",
+          "type": "p",
+          "value": " Dropped out, no job nor experience. Now what?! "
+        },
+        {
+          "id": "82a971e2-7ef8-4088-ac89-d93925697a70",
+          "type": "p",
+          "value": " While I was attending Harvard's CS50 course, I felt like a Harvard student to some extend. And among Harvard students, there's a good saying: "
+        },
+        {
+          "id": "a0ad0522-57c3-4b2a-b12d-3dce728054dd",
+          "type": "p",
+          "value": "I and my fellow friends formed up a group and called it \"Spider\". Why spider? Because spiders make web, and we made websites, for big and small businesses. "
+        },
+        {
+          "id": "a9e09574-6332-4a1f-9117-31c2baea4680",
+          "type": "p",
+          "value": "It was going great. Until we got a project to build a fully functional, real-time 45a50d08-bf4f-4a5f-ad58-e831b9964a9b in two weeks. Sleepless nights, gumma (Uzbek hotdog alternative) and coding without planning made those days so special. We successfully finished and launched it in time, put it in the hands of the customer. "
+        },
+        {
+          "id": "d8651c53  -a7cc-42dd-90a4-c9c691e6d353",
+          "type": "p",
+          "value": "I realized I needed to start working on bigger projects and mentors to become a better programmer. I applied to New Max Technologies a company behind c3ab76a0-cfa2-4388-8d24-b92bd94c332f, 4554fa73-3f51-4c62-88cf-d75fece8bb15, and 117a9590-898b-4370-b4b1-a87aab04255f . I was matched to Workly and joined the team as a junior backend developer. "
+        },
+        {
+          "id": "5b63ec3c-8695-44a3-8488-f86d20c7655e",
+          "type": "p",
+          "value": "Working at Workly felt totally different than in Spider. Things I coded in rush was now not an option. I tasted the joy of code reviews, stand up meetings, backlog grooming which makes an engineer better at writing better quality code and at communication, planning. "
+        },
+        {
+          "id": "dbf3888f-5ccc-4fae-a66d-1db28726fb58",
+          "type": "p",
+          "value": "Unfortunately, my time at Workly was only 3 months, but with the right skills and referrals from Workly, I got an offer from Super Dispatch in a week. "
+        },
+        {
+          "id": "9d7fa0c1-bbf3-4787-8de4-45216b651613",
+          "type": "p",
+          "value": "With the right mentoring and challenging tasks, I grew the most in Super Dispatch. Realized that the most important part of being a developer is to enjoy what you are doing. "
+        },
+        {
+          "id": "2e0e82a9-8794-4863-aa65-2b7fc8ec5078",
+          "type": "p",
+          "value": ". . ."
+        },
+        {
+          "id": "d0b88a79-33b3-444a-afda-df442be94898",
+          "type": "p",
+          "value": "To conclude, above I brought examples of my turning points of becoming and growing as a developer. I hope you find it inspiring if you are just starting your journey of becoming a software engineer. Good Luck."
         }
       ],
       "images": [
         {
-          "id": "8f3e0417-55e2-4b07-9a8f-cbdd33ce5bc3",
-          "url": "https://azimjon.com/media/2020/12/21/subscriptions_hd.jpg",
-          "alt": "image",
+          "id": "d6aca48d-baec-44da-892a-4433c330f7db",
+          "url": "https://azimjon.com/media/2020/04/09/2020-04-09_20.48.48.jpg",
+          "alt": "2020, February in Old Town, Warsaw",
           "width": "1000px",
           "height": "500px",
           "style": "",
-          "title": "image"
+          "title": "2020, February in Old Town, Warsaw"
+        },
+        {
+          "id": "9563d44a-5870-4a06-b06d-232755d82238",
+          "url": "https://azimjon.com/media/2020/04/09/scarer.jpg",
+          "alt": "Scene from \"Monsters University\"",
+          "width": "1000px",
+          "height": "500px",
+          "style": "",
+          "title": "Scene from \"Monsters University\""
+        },
+        {
+          "id": "bec52170-a0b2-4af2-b560-d26a5e19c259",
+          "url": "https://azimjon.com/media/2020/04/09/Screen_Shot_2020-01-25_at_23.45.13.png",
+          "alt": "Spider Team, Inital Members",
+          "width": "1000px",
+          "height": "500px",
+          "style": "",
+          "title": "Spider Team, Inital Members"
         }
       ],
       "links": [
         {
-          "id": "48c6e527-78cd-425a-aabb-86a8c115ac12",
-          "value": " consuming less and producing more",
-          "link": "https://telegra.ph/Consume-Less-Create-More-Its-More-Fun-12-04",
+          "id": "45a50d08-bf4f-4a5f-ad58-e831b9964a9b",
+          "value": "auction",
+          "link": "https://1auksion.uz/",
           "style": ""
         },
         {
-          "id": "d688e658-9db5-4a8b-be4c-18cc027ef546",
-          "value": " I built one myself",
-          "link": "https://dev.to/azimjohn/how-i-built-ngrok-alternative-3n0g",
+          "id": "c3ab76a0-cfa2-4388-8d24-b92bd94c332f",
+          "value": "Express24",
+          "link": "https://express24.uz/",
           "style": ""
         },
         {
-          "id": "cd499b81-b917-458b-8167-3fcbfb6f82be",
-          "value": "giving a talk at a conference",
-          "link": "https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2Fupdate%2Furn%3Ali%3Aactivity%3A6746468038150799360",
+          "id": "4554fa73-3f51-4c62-88cf-d75fece8bb15",
+          "value": " MyTaxi",
+          "link": "https://mytaxi.uz/",
+          "style": ""
+        },
+        {
+          "id": "117a9590-898b-4370-b4b1-a87aab04255f",
+          "value": "Workly",
+          "link": "https://workly.io/",
+          "style": ""
+        }
+      ],
+      "lists": [],
+      "quotes": [
+        {
+          "id": "6d083a9e-fd16-418d-8b0e-ddc90c390171",
+          "value": "shutdown -s -t 32400"
+        },
+        {
+          "id": "954832b7-3f54-4bba-be5d-4f8984b888b2",
+          "value": "Go to university."
+        },
+        {
+          "id": "7e29ffac-9a48-4e8d-93d1-129f5d037ee5",
+          "value": "We don't look for an opportunity, we create opportunities."
+        }
+      ]
+    },
+    {
+      "id": "b99ff220-427d-4c81-be3e-4bfe0f140877",
+      "created_at": "20 April, 2020",
+      "base": "43f22b7a-1bd5-40bc-8400-88a4b64535c3 \n 926db135-ff42-4fb9-af24-edf417e7f4c1 \n 3e41b11a-845a-42e7-8030-d29dd14d3a93 \n c7d7fb08-db29-4af3-b8b3-f42732124dcd \n 442db264-b7c1-4893-b65c-cc8ce6fb61ec \n df5f78ba-e4b0-4232-8a02-11cd172fc273 \n 9b9c19ea-c953-455f-8406-f6d7d63bee63 \n e3b672bd-352d-4fa0-9fc2-7c5209a32c76 \n 11763c6a-50f5-4951-a33b-72a90018dbf8 \n f1c208cb-dec0-4d9e-891c-ff51aa941a9a \n 25d4090b-2fbf-4d46-95dc-3027e36b6090 \n  1de76e0c-66d1-453c-b61e-a86b6b0a3c62 \n 5e493003-2525-45ae-b4e7-1237edd69cee \n ac1e24bd-e414-4a1e-b5db-10198d69acc0 ",
+      "current_titles": [
+        {
+          "value": "It's All About The Priorities",
+          "style": ""
+        }
+      ],
+      "subtitles": [],
+      "texts": [
+        {
+          "id": "43f22b7a-1bd5-40bc-8400-88a4b64535c3",
+          "type": "p",
+          "value": "Life is full of wonderful surprises and so is work. As a developer, it's easy to burn out when you have more tasks than you can handle. In this article, I will share a simple tip that can make the process smooth while achieving the goals."
+        },
+        {
+          "id": "3e41b11a-845a-42e7-8030-d29dd14d3a93",
+          "type": "p",
+          "value": "Picture this, it's July 16, 1969. Apollo 11 is landing on the Moon with a 0.043 MHz processor. At the time of landing, the instructions for the CPU far exceeded than what it could manage. Luckily, it didn't crash, made it to the moon safely."
+        },
+        {
+          "id": "c7d7fb08-db29-4af3-b8b3-f42732124dcd",
+          "type": "p",
+          "value": "Interestingly, it was expected that it would happen. Engineers designed the software inside Appolo 11 the way that it would run instructions according to its priority. There was a priority queue for the instructions for the CPU. For example, during the landing, the instruction for adjusting the balance would have more priority over something like adjusting the room temperature."
+        },
+        {
+          "id": "442db264-b7c1-4893-b65c-cc8ce6fb61ec",
+          "type": "p",
+          "value": "<i>Fun fact, the phone you are holding has over 100,000 times the processing power of the computer inside Appolo 11.</i>"
+        },
+        {
+          "id": "df5f78ba-e4b0-4232-8a02-11cd172fc273",
+          "type": "p",
+          "value": "This is clever and the same idea can be applied to our daily lives. For instance, I work full time as a software engineer, write a bi-weekly blog, always have a side project at hand and participating in a ac19be9f-27ee-4a2f-9bd8-acde1625817a. No matter what, I always spare my resources according to the priority."
+        },
+        {
+          "id": "9b9c19ea-c953-455f-8406-f6d7d63bee63",
+          "type": "p",
+          "value": "You might be saying - \"Oh, come on. It's easy during the 56f80140-cfaa-4336-bacd-2acb1bcb5873!\", and you are right I can't deny that. However, prioritization is critical when you have less time/resources."
+        },
+        {
+          "id": "e3b672bd-352d-4fa0-9fc2-7c5209a32c76",
+          "type": "p",
+          "value": "Let me quickly go through how I prioritize my tasks. I am not going to bother telling you how my tasks are prioritized at work as it's mostly done by product managers."
+        },
+        {
+          "id": "11763c6a-50f5-4951-a33b-72a90018dbf8",
+          "type": "p",
+          "value": "As Warren Buffet once said"
+        },
+        {
+          "id": "25d4090b-2fbf-4d46-95dc-3027e36b6090",
+          "type": "p",
+          "value": "Keeping it always in mind, I try to prioritize things that have something to do with future me: self-development, learning a new skill, constantly improving knowledge."
+        },
+        {
+          "id": "1de76e0c-66d1-453c-b61e-a86b6b0a3c62",
+          "type": "p",
+          "value": "One cool thing about the priory queues that you can visualize it. And it's also advised that you should keep track of the queue. I use 79408727-4237-4aa5-ba93-d71f268f8229 for documenting my weekly/monthly goals and their output"
+        },
+        {
+          "id": "5e493003-2525-45ae-b4e7-1237edd69cee",
+          "type": "p",
+          "value": "And by the way, don't forget to leave enough room for a good night's sleep, meals and workouts, give them the highest priority you can give. They should always be on top of your queue."
+        },
+        {
+          "id": "ac1e24bd-e414-4a1e-b5db-10198d69acc0",
+          "type": "p",
+          "value": "I hope this technique can help you achieve your goals with a clear vision.Good luck landing on the Moon!"
+        }
+      ],
+      "images": [
+        {
+          "id": "926db135-ff42-4fb9-af24-edf417e7f4c1",
+          "url": "https://azimjon.com/media/2020/04/19/Apollo_11_landed_on_moon.jpg",
+          "alt": "Actual Footage of Apollo 11’s Eagle Landing on the Moon",
+          "width": "1000px",
+          "height": "500px",
+          "style": "",
+          "title": "Actual Footage of Apollo 11’s Eagle Landing on the Moon"
+        }
+      ],
+      "links": [
+        {
+          "id": "ac19be9f-27ee-4a2f-9bd8-acde1625817a",
+          "value": " 30-Day LeetCoding Challenge",
+          "link": "https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/",
+          "style": ""
+        },
+        {
+          "id": "56f80140-cfaa-4336-bacd-2acb1bcb5873",
+          "value": " quarantine",
+          "link": "https://en.wikipedia.org/wiki/COVID-19_pandemic",
+          "style": ""
+        },
+        {
+          "id": "79408727-4237-4aa5-ba93-d71f268f8229",
+          "value": " Notion ",
+          "link": "https://www.notion.so/",
+          "style": ""
+        }
+      ],
+      "lists": [],
+      "quotes": [
+        {
+          "id": "f1c208cb-dec0-4d9e-891c-ff51aa941a9a",
+          "value": "The best investment you can make is an investment in yourself."
+        }
+      ]
+    },
+    {
+      "id": "3272baff-72c2-463a-9f3c-c7f5e173443f",
+      "created_at": "13 May, 2020",
+      "base": "52b9c3b7-d10e-44aa-9bf2-1530c4a14078 \n 434876e8-a532-4092-b06a-0e8eb3e1c4a7 \n cb42c32b-3059-4f51-b373-aee0a136a8e0 \n 5bc3acf7-62f0-4572-bec2-c89a1f2e31f8 \n 4a7ca159-976b-4183-87f3-13196dcd892c \n e04d4d49-9b78-44f8-8c20-2bf799345943 \n dd213288-f916-4263-8e1b-710c2abcf17a \n 8df9d4b6-6ffc-4313-a801-9a311ef546ad \n 66053206-4691-4cdd-8f1f-627c9916fdec \n 62b007ef-68d9-49b4-ae7d-bd8cefd756cf \n a78912e7-0a57-4fa6-af56-b476953e049a \n 337ebc62-f9c6-4168-9478-4b4033163231 \n 0043b9f6-34ad-4420-9cc7-1578730334e2 \n a78912e7-0a57-4fa6-af56-b476953e049a \n 33c467aa-0b93-44f2-bd03-1ce6b6577ccf \n 29341b62-1c86-4306-a618-f017012f9690 \n 5ff4d2de-d7f1-4b20-b1e5-6c47e24cbf16 \n 02e80df9-41d1-485c-9fbe-8ed5b0d1a251 \n 68f8ad8f-6934-467a-aa9e-e7a0fe43d625 \n fa0167a4-a469-463b-b7a1-c864ffeeeedf \n f238411f-6dda-4fac-be40-e2cc81292da0 \n bd35e91a-4604-4086-8073-f21c00b60a9a \n e769b67f-e248-4662-add8-802b337ebe50",
+      "current_titles": [
+        {
+          "value": "Side Projects for Professional Growth",
+          "style": ""
+        }
+      ],
+      "subtitles": [
+        {
+          "id": "cb42c32b-3059-4f51-b373-aee0a136a8e0",
+          "value": "1. JPRQ - Ngrok Alternative",
+          "style": ""
+        },
+        {
+          "id": "8df9d4b6-6ffc-4313-a801-9a311ef546ad",
+          "value": "2. MusicSpider - Chrome Extension",
+          "style": ""
+        },
+        {
+          "id": "337ebc62-f9c6-4168-9478-4b4033163231",
+          "value": "3. TBBM - Computer-Based Test Application",
+          "style": ""
+        },
+        {
+          "id": "29341b62-1c86-4306-a618-f017012f9690",
+          "value": "4. IELTSZone - Online Preparation Zone for IELTS",
+          "style": ""
+        },
+        {
+          "id": "f238411f-6dda-4fac-be40-e2cc81292da0",
+          "value": "Conclusion",
+          "style": ""
+        }
+      ],
+      "texts": [
+        {
+          "id": "52b9c3b7-d10e-44aa-9bf2-1530c4a14078",
+          "type": "p",
+          "value": "Side hustles are great, so great that they can speak for you at job interviews, give you hands-on experience on new tools and programming languages, bring you extra income and define you professionally in every possible way. For this article, I have selected my top four side projects and their impact on my professional growth."
+        },
+        {
+          "id": "434876e8-a532-4092-b06a-0e8eb3e1c4a7",
+          "type": "p",
+          "value": "Before I begin, I'd like to remind you that side projects are meant to be fun and full of experiments. Make use of the nights and weekends wisely for your side projects."
+        },
+        {
+          "id": "4a7ca159-976b-4183-87f3-13196dcd892c",
+          "type": "p",
+          "value": "If you're out of ideas, it's perfectly fine to build something existing - something you use every day. In my case, it was 70d392c3-4e5e-417a-bbe2-04c41d2621b1, a tool to turn localhost online for a while. It has a 30 req/min limit and it's annoying. Instead of subscribing to a paid plan, I decided to build Ngrok with unlimited requests. In about 4 weekends with my friend Jasur, we have built a working (almost always) prototype of JPRQ."
+        },
+        {
+          "id": "e04d4d49-9b78-44f8-8c20-2bf799345943",
+          "type": "p",
+          "value": "I gave Golang a try. It's a fantastic language. We used channels and learned about leaking goroutines the hard way. I now have a good understanding of memory leaks because of this project."
+        },
+        {
+          "id": "dd213288-f916-4263-8e1b-710c2abcf17a",
+          "type": "p",
+          "value": "If you are curious why it's called JPRQ, ask me next time we meet, I'll tell you the story behind it."
+        },
+        {
+          "id": "62b007ef-68d9-49b4-ae7d-bd8cefd756cf",
+          "type": "p",
+          "value": "7ea34c4f-fa2e-4850-bdbf-2be0e4e13642  is a chrome extension for listening to music while browsing. As the name suggests, spiders crawl songs from different music websites. I, Diyorbek, and Jasur built it during the 3-day (and night) first-time-ever hackathon in Tashkent. It was an amazing experience to build something from the ground up and release it in 48 hours. It was a runner up among 34 projects presented that day."
+        },
+        {
+          "id": "a78912e7-0a57-4fa6-af56-b476953e049a",
+          "type": "p",
+          "value": "In the summer of 2019, I was planning to travel somewhere nice on my 2-week vacation. Instead, I helped my friend launch his business, launched a computer-based test center. We built an online platform for signing up for a test and a local network of 40 computers that took the tests from candidates. I got a chance to build a centralized network system that served all the questions and received submissions. Once the test was completed, the central server calculated the score, issued a certificate, and printed automatically. Just as how I wanted, no manual work."
+        },
+        {
+          "id": "33c467aa-0b93-44f2-bd03-1ce6b6577ccf",
+          "type": "p",
+          "value": "One thing I couldn't possibly forget after completing the project was the network cable colors: white-orange, orange, white-green, blue, white-blue, green, white-brown, brown."
+        },
+        {
+          "id": "02e80df9-41d1-485c-9fbe-8ed5b0d1a251",
+          "type": "p",
+          "value": "IELTSZone was meant to be a learning place for the IELTS. Forum, dictionary, and the resources made it a unique place for the learners. I built IELTSZone according to my sister's request to teach and learn with a global community."
+        },
+        {
+          "id": "68f8ad8f-6934-467a-aa9e-e7a0fe43d625",
+          "type": "p",
+          "value": "This project helped me improve my frontend web development skills. Because I work as a backend developer, I don't usually get the chance to work on the frontend side."
+        },
+        {
+          "id": "fa0167a4-a469-463b-b7a1-c864ffeeeedf",
+          "type": "p",
+          "value": "I never finished it. Ever. Guess why, I did it alone."
+        },
+        {
+          "id": "bd35e91a-4604-4086-8073-f21c00b60a9a",
+          "type": "p",
+          "value": "Side projects help you grow and stay motivated. I can't express the feeling of saying someone \"I built it\". You have got to taste it for yourself."
+        },
+        {
+          "id": "e769b67f-e248-4662-add8-802b337ebe50",
+          "type": "p",
+          "value": "Good luck building the next unicorn!"
+        }
+      ],
+      "images": [
+        {
+          "id": "5bc3acf7-62f0-4572-bec2-c89a1f2e31f8",
+          "url": "https://youtu.be/BXuB3cK8R0g",
+          "alt": "JPRQ Demo - Get Your Localhost Online Easily",
+          "width": "1000px",
+          "height": "500px",
+          "style": "",
+          "title": "JPRQ Demo - Get Your Localhost Online Easily"
+        },
+        {
+          "id": "66053206-4691-4cdd-8f1f-627c9916fdec",
+          "url": "https://youtu.be/5gIfNFdWAUQ",
+          "alt": "Building MusicSpider at Garage48 Hackathon",
+          "width": "1000px",
+          "height": "500px",
+          "style": "",
+          "title": "Building MusicSpider at Garage48 Hackathon"
+        },
+        {
+          "id": "0043b9f6-34ad-4420-9cc7-1578730334e2",
+          "url": "https://azimjon.com/media/2020/05/11/tbbm-cropped.jpg",
+          "alt": "TBBM - Computer Based Test Center for Korean Langauge for Immigration",
+          "width": "1000px",
+          "height": "500px",
+          "style": "",
+          "title": "TBBM - Computer Based Test Center for Korean Langauge for Immigration"
+        },
+        {
+          "id": "5ff4d2de-d7f1-4b20-b1e5-6c47e24cbf16",
+          "url": "https://azimjon.com/media/2020/05/11/ieltszone.jpg",
+          "alt": "IELTSZone - Online Preperation Zone for IELTS",
+          "width": "1000px",
+          "height": "500px",
+          "style": "",
+          "title": "IELTSZone - Online Preperation Zone for IELTS"
+        }
+      ],
+      "links": [
+        {
+          "id": "70d392c3-4e5e-417a-bbe2-04c41d2621b1",
+          "value": "Ngrok",
+          "link": "https://ngrok.com/",
+          "style": ""
+        },
+        {
+          "id": "7ea34c4f-fa2e-4850-bdbf-2be0e4e13642",
+          "value": "MusicSpider",
+          "link": "https://chromewebstore.google.com/detail/error",
           "style": ""
         }
       ],
@@ -2728,191 +2444,418 @@
       "quotes": []
     },
     {
-      "id": "2e01e796-9571-4d6a-8b52-5cba1b7ee3de",
-      "created_at": "04 December, 2020",
-      "base": "",
+      "blogs": [
+        {
+          "id": "343be951-3d39-4821-9e7b-fefc0ff2865b",
+          "created_at": "29 May, 2020",
+          "base": "0b49f52f-ed3e-4962-b805-739175f879bd \n f6e99dce-3115-4e68-b82f-cc1aa4608c20 \n f3817fef-8d1d-47de-934f-66fb5cf9198b \n 5b9d55c2-2d6b-4050-9ea6-c2fdf5d77457 \n 97ec1e47-e090-4171-b225-7faf1d79c651 \n aa7fc3c7-503b-4d7f-84e2-799a647ac0d7 \n 4f49b146-0299-43ca-9fe3-1863ada9037e \n 141b8b3b-89b4-4da9-8ab9-f377e7b5392d \n a0a6d1ff-dc3b-4700-8c09-3e7907d1e2fd",
+          "current_titles": [
+            {
+              "value": "Book Review: Living by The Code",
+              "style": ""
+            }
+          ],
+          "subtitles": [
+            {
+              "id": "f3817fef-8d1d-47de-934f-66fb5cf9198b",
+              "value": "How I Got the Book",
+              "style": ""
+            },
+            {
+              "id": "4f49b146-0299-43ca-9fe3-1863ada9037e",
+              "value": "About the Book",
+              "style": ""
+            }
+          ],
+          "texts": [
+            {
+              "id": "5b9d55c2-2d6b-4050-9ea6-c2fdf5d77457",
+              "type": "p",
+              "value": "In November 2019, I was invited to DevFest Nur-Sultan to give a talk about \"Asynchronous Django\". It was my first talk at a community event and I was really excited. I met quite a few awesome people at the event. Askar, the organizer of the event, gave us a great tour of the Nur-Sultan startup ecosystem."
+            },
+            {
+              "id": "97ec1e47-e090-4171-b225-7faf1d79c651",
+              "type": "p",
+              "value": "I also met Enrique, a Google Developer Expert. He gave an informative talk on \"Kotlin for Multiplatform Development\". At the end of his talk, he took a book out of his backpack and said he would give it to a lucky random participant. Opened random.org and picked a random participant. Of course, it wasn't me. Turned out the lucky one wasn't in the audience and in the second time he got my name. And that's how I got the book."
+            },
+            {
+              "id": "141b8b3b-89b4-4da9-8ab9-f377e7b5392d",
+              "type": "p",
+              "value": "The book is a collection of interviews with people in tech with many years of experience and achievements. It has answers to the questions you might have in many years to come working in tech, work-life balance is a prime example. At the end of the interviews, every developer shares a recommended reading, books that changed their lives."
+            },
+            {
+              "id": "a0a6d1ff-dc3b-4700-8c09-3e7907d1e2fd",
+              "type": "p",
+              "value": "PS. The book inspired me to start this blog and share non-technical stuff about the technical world."
+            }
+          ],
+          "images": [
+            {
+              "id": "f6e99dce-3115-4e68-b82f-cc1aa4608c20",
+              "url": "https://azimjon.com/media/2020/05/20/book_review.jpg",
+              "alt": "Living by The Code by Enrique López",
+              "width": "1000px",
+              "height": "500px",
+              "style": "",
+              "title": "Living by The Code by Enrique López"
+            },
+            {
+              "id": "aa7fc3c7-503b-4d7f-84e2-799a647ac0d7",
+              "url": "https://azimjon.com/media/2020/05/31/devfest.jpg",
+              "alt": "DevFest Nursultan 2019, Pre-Event Meeting",
+              "width": "1000px",
+              "height": "500px",
+              "style": "",
+              "title": "DevFest Nursultan 2019, Pre-Event Meeting"
+            }
+          ],
+          "links": [],
+          "lists": [],
+          "quotes": [
+            {
+              "id": "0b49f52f-ed3e-4962-b805-739175f879bd",
+              "value": "💡 I'm going to give away the autographed book to a random subscriber. Be sure to subscribe to @azimjondev telegram channel or via email below."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8640c256-31f2-4e8a-87d6-f598ef0e2065",
+      "created_at": "10 June, 2020",
+      "base": "7ed75379-bd60-4fa0-b916-99c4ea3e7b11 \n 30c08ccf-dd01-44b2-841c-3d5f93315724 \n e99f0c75-0238-4c80-be8b-cb6a659411d9 \n 1b118a54-c749-4ae8-951b-ed36de252d31\n 2c167b90-2ce0-4c4f-bf5f-b81f201b0ac0 \n ce8a7916-731b-4050-b641-879dae0e0b9a \n 4a16649e-a0e7-4457-bd9a-29d65bbb802c \n 8e4094e5-b2b6-41b3-96cf-79dd82cb23af\n a82124a9-f512-4529-a76c-e5b3f77a86b7 \n 3a192400-ee6b-4f1e-a217-cfaf967d25d7",
       "current_titles": [
         {
-
-
-          "value": "Taking Advantage of Remote Work",
+          "value": "Focus is About Saying No",
           "style": ""
         }
       ],
       "subtitles": [],
       "texts": [
         {
-          "id": "90211687-1c05-4a21-905d-bf0e95cf28e4",
+          "id": "30c08ccf-dd01-44b2-841c-3d5f93315724",
           "type": "p",
-          "value": "In my b285bfcd-a917-4c5a-a07f-8e27b5f1d5a7 about building a home office, I wrote:"
+          "value": "I am a \"yes man\" by nature. I see a good opportunity - I say yes."
         },
         {
-          "id": "9e7fe182-2915-4c3c-acbe-4ec808b2cbf0",
+          "id": "e99f0c75-0238-4c80-be8b-cb6a659411d9",
           "type": "p",
-          "value": "I wanted to make further improvements to my home office. I was renting a single room in a shared apartment in Warsaw. Living in a shared apartment has its downs and only downs. I ruined my sleep routine because of the other tenants living together. I really needed to move out."
+          "value": "Until recently, I didn't realize that all the \"yes\" I have said is actually \"no\" to a hundred better things I could do instead. In this article, I'd like to share my thoughts and experience about knowing when to say \"No\"."
         },
         {
-          "id": "9db37034-fb45-4306-8151-bf93772886ae",
+          "id": "1b118a54-c749-4ae8-951b-ed36de252d31",
           "type": "p",
-          "value": "I couldn't afford to rent a full apartment as I was working part-time while studying. But at the same time, I didn't want to risk again moving to another shared apartment. Then I remembered about a tweet I saw earlier this year."
+          "value": "In the book<i>“It Doesn’t Have to Be Crazy at Work“</i> by Jason Fried, there's a really good comparison between yes and no:"
         },
         {
-          "id": "28fcc087-b046-49e1-85d4-654566f29097",
+          "id": "2c167b90-2ce0-4c4f-bf5f-b81f201b0ac0",
           "type": "p",
-          "value": "Below are houses, both priced at $1M. The one on the left is located in Silicon Valley and the one on the right is in Texas."
+          "value": "Saying \"no\" is hard, but trust me saying \"yes\" then \"no\" is a lot harder. So before you say \"yes\" to anything, think ahead and make decisions wisely."
         },
         {
-          "id": "da991a19-f78d-406d-8e40-4813d47a6714",
+          "id": "ce8a7916-731b-4050-b641-879dae0e0b9a",
           "type": "p",
-          "value": "This is a mind-blowingly huge difference. The best of remote work is that you can work from anywhere. Timezone matters though."
+          "value": "We all have limited time and resources. Doing the right thing at the right time is the key to success. Focus means you have to say no to all other things. No matter how better or easier they are."
         },
         {
-          "id": "5bbfe5b2-f600-4f8f-a6b7-83ae6645db92",
+          "id": "4a16649e-a0e7-4457-bd9a-29d65bbb802c",
           "type": "p",
-          "value": "So I started searching for an apartment outside of Warsaw. I went to a small town called 'Babice Nowe', only 16km away from Warsaw, a 40-min commute from my university."
+          "value": "When Steve Jobs returned to Apple in 1997, Apple had 18 different directions. He called Apple a farm that's been created, with all these different animals going in different directions. His decisions to put a bullet in the head of most projects at that time now makes Apple so successful."
         },
         {
-          "id": "4ffd6095-793b-40e8-b1f0-88057ef9d652",
+          "id": "3a192400-ee6b-4f1e-a217-cfaf967d25d7",
           "type": "p",
-          "value": "The apartment is located in a brand new neighborhood in the town center where many shops and grocery stores are located. That was my number one requirement. Then I saw the apartment, loved it. It was a perfect fit."
-        },
-        {
-            "id": "94f950d3-0112-43ac-95c6-0e550df76f7f",
-            "type": "p",
-            "value": "Astonishingly, the whole apartment costs the same as a small room in the city center. I really wanted to move out, but I had 6 more months on the rental agreement with the room I rented. I managed to terminate it legally with some headache and moved out to a new place."
-          },
-          {
-            "id": "5604339d-38c8-4182-834d-cefdf5dfc885",
-            "type": "p",
-            "value": "So here I am, sipping from a cup of coffee, writing this article looking at a view from the balcony of the apartment. It's been a week now, the experience is great so far. I am back on track, focusing on my goals and achieving great results."
-          }
+          "value": "No is a powerful tool to keep your priority queue manageable and attainable. When you know what you should be doing now, it's best to stay out of everything else and focusing on your goals."
+        }
       ],
       "images": [
         {
-          "id": "27454d8d-9179-494d-8b2d-f546c4960c69",
-          "url": "https://azimjon.com/media/2020/12/04/sv_vs_texas.jpg",
-          "alt": "image",
+          "id": "7ed75379-bd60-4fa0-b916-99c4ea3e7b11",
+          "url": "https://azimjon.com/media/2020/06/10/2009211_1280x800.jpg",
+          "alt": "Jim Carrey, Yes Man",
           "width": "1000px",
           "height": "500px",
           "style": "",
-          "title": "image"
+          "title": "Jim Carrey, Yes Man"
         },
         {
-            "id": "27454d8d-9179-494d-8b2d-f546c4960c69",
-            "url": "https://azimjon.com/media/2020/12/04/town.png",
-            "alt": "image",
-            "width": "1000px",
-            "height": "500px",
-            "style": "",
-            "title": "image"
-          },
-          {
-            "id": "845bd3ea-fb42-4745-a2ad-801ee0c50aab",
-            "url": "https://azimjon.com/media/2020/12/04/New_Project.jpg",
-            "alt": "image",
-            "width": "1000px",
-            "height": "500px",
-            "style": "",
-            "title": "image"
-          },
-          {
-            "id": "18267603-cea1-47f0-b02c-81ebe50db6e8",
-            "url": "https://azimjon.com/media/2020/12/04/IMG_5656_1.jpg",
-            "alt": "image",
-            "width": "1000px",
-
-
-            "height": "500px",
-            "style": "",
-            "title": "image"
-          }
-      ],
-      "links": [
+          "id": "8e4094e5-b2b6-41b3-96cf-79dd82cb23af",
+          "url": "https://azimjon.com/media/2020/06/10/steve-jobs-focus-quote.jpg",
+          "alt": "",
+          "width": "1000px",
+          "height": "500px",
+          "style": "",
+          "title": ""
+        },
         {
-          "id": "b285bfcd-a917-4c5a-a07f-8e27b5f1d5a7",
-          "value": "previous article",
-          "link": "https://azimjon.com/blog/home-office-setup-for-productivity/",
-          "style": ""
+          "id": "a82124a9-f512-4529-a76c-e5b3f77a86b7",
+          "url": "https://youtu.be/H8eP99neOVs",
+          "alt": "",
+          "width": "1000px",
+          "height": "500px",
+          "style": "",
+          "title": ""
         }
-
       ],
+      "links": [],
       "lists": [],
-      "quotes": [
-        {
-          "id": "db40abf8-87a0-4d9d-b15a-bd33b55cd0f5",
-          "value": "WFH is here to stay for a while now, investing in your workspace definitely pays off"
-        }
-      ]
+      "quotes": []
     },
     {
-        "id": "37ef8caf-901e-4c3a-a77f-bf064f53fc9b",
-        "created_at": "27 October, 2020",
-        "base": "",
-        "current_titles": [
-          {
-            "value": "Hawthorne Effect",
-            "style": ""
-          }
-        ],
-        "subtitles": [],
-        "texts": [
-          {
-            "id": "beef8522-b23d-4f7b-b468-33636aff3ead",
-            "type": "p",
-            "value": "In the 1920s, Hawthorne was a telephone equipment manufacturing factory in the USA, one of the respected factories of its time. Hawthorne employees, about 40 thousand, would receive sickness pay, seasonal vacations, and more to make it a privilege to work there.:"
-          },
-          {
-            "id": "d8388f99-8804-473d-be70-dbbb3ef72719",
-            "type": "p",
-            "value": "In 1924, the National Academy of Science decided to conduct an experiment at Hawthorne and 3 other places to find out how illumination would affect the productivity of employees. They installed brighter lights with the premise that it would increase the effectiveness of the workers. Indeed, it did. In the next stage of the experiment, they dimmed the light. Productivity was still higher than before. Another experiment with small breaks was undertaken with the same result."
-          },
-          {
-            "id": "7c755b59-bfe9-4e85-a64c-bdef2a2d5bff",
-            "type": "p",
-            "value": "Although the experiments miserably failed with inconsistent results, it revealed unexpected new findings. Employees would perform better when they knew they were being observed. This effect was later called the Hawthorne effect."
-          },
-          {
-            "id": "4390c576-2ee4-4d42-92f7-6a9d9ff2d78f",
-            "type": "p",
-            "value": "What's the takeaway here? The first thing that came to my mind was that maybe, just maybe - it's the reason why at most companies/schools performance was dropped when they switched to remote mode. We are social beings, we always think about what others think about us, thereby we do better when we're being watched."
-          },
-          {
-            "id": "8a68b0b8-fd54-4e5d-b230-8d9cadf6c896",
-            "type": "p",
-            "value": "The second thing that made me ponder is about religion. I want to leave it as an open-ended question to only yourself, I am just thinking out loud here - overall, religious people tend to be more motivated in life than those with less/no belief, don't they?"
-          },
-          {
-            "id": "5d3f8800-0d25-4e6b-baab-f0b642aa96fc",
-            "type": "p",
-            "value": "Lastly, there is a lesson to learn here. There's always room to improve productivity with management, even just observing seems to help. Effective management has always been credited for success, and vice-versa."
-          }
-
-        ],
-        "images": [
-          {
-            "id": "27454d8d-9179-494d-8b2d-f546c4960c69",
-            "url": "https://azimjon.com/media/2020/10/27/hawthorne.png",
-            "alt": "image",
-            "width": "1000px",
-            "height": "500px",
-            "style": "",
-            "title": "image"
-          }
-
-        ],
-        "links": [
-            
-
-        ],
-        "lists": [],
-        "quotes": [
-
-        ]
-      }
+      "blogs": [
+        {
+          "id": "888bb8f1-1521-4182-be62-e96c4190cecf",
+          "created_at": "22 December, 2020",
+          "base": "",
+          "current_titles": [
+            {
+              "value": "Why I Don't Like Subscriptions",
+              "style": ""
+            }
+          ],
+          "subtitles": [],
+          "texts": [
+            {
+              "id": "0d1c8f5a-8e42-403d-88b9-5f836887320a",
+              "type": "p",
+              "value": "> (Me): Hey Google, play Taylor Swift songs. \n> (Google Home): Choosing songs is only available to Spotify Premium subscribers."
+            },
+            {
+              "id": "8423299a-f5b8-4c33-b5a0-82f21a8bf54c",
+              "type": "p",
+              "value": "Today almost all consumer services are based on a subscription model. On average, Amazon Prime members shop about 25 times annually while non-Prime members 14 times a year. It's a proven model to trick consumers to consume more and regularly. Now think about why Netflix doesn't offer a plan for a day or one movie. When you pay a flat fee, you don't control the consumption and naturally consume more."
+            },
+            {
+              "id": "cf8b7e43-f3e8-41bf-b535-a526c5c7a37a",
+              "type": "p",
+              "value": "To gain financial independence, one should do quite the opposite - producing a passive income (more on that in 2021). Monthly subscriptions make it harder to leave 9-to-5 jobs to start your own business."
+            },
+            {
+              "id": "65801b06-63ee-41d1-bd4d-406974678902",
+              "type": "p",
+              "value": "I have been doing what Pavel Durov recently wrote about: 48c6e527-78cd-425a-aabb-86a8c115ac12. I highly recommend reading it if you already haven't."
+            },
+            {
+              "id": "d8d63cd8-a278-42a0-8be6-8d7d7124a6e4",
+              "type": "p",
+              "value": "When I needed a localhost tunneling service, instead of subscribing to Ngrok's monthly plan, d688e658-9db5-4a8b-be4c-18cc027ef546, now many other people are using it too. And instead of subscribing to Spotify premium to listen to songs on my Google Home, I am building an app for Google Assistant using MusicSpider's API and cd499b81-b917-458b-8167-3fcbfb6f82be on that topic."
+            },
+            {
+              "id": "736f6d80-7f44-43a3-8251-6aa2e041fef1",
+              "type": "p",
+              "value": "For the exact same reason, I built my own blog website instead of writing on Medium, sick and tired of Medium's banner to sign up for a subscription."
+            },
+            {
+              "id": "f9ff59bb-8c8f-4253-bac6-92d5e5ebc675",
+              "type": "p",
+              "value": "For a developer, any premium feature is an opportunity for a side project. Although it may not be as popular or as successful, it's a great experience and an excuse not to pay for the subscription."
+            }
+          ],
+          "images": [
+            {
+              "id": "8f3e0417-55e2-4b07-9a8f-cbdd33ce5bc3",
+              "url": "https://azimjon.com/media/2020/12/21/subscriptions_hd.jpg",
+              "alt": "image",
+              "width": "1000px",
+              "height": "500px",
+              "style": "",
+              "title": "image"
+            }
+          ],
+          "links": [
+            {
+              "id": "48c6e527-78cd-425a-aabb-86a8c115ac12",
+              "value": " consuming less and producing more",
+              "link": "https://telegra.ph/Consume-Less-Create-More-Its-More-Fun-12-04",
+              "style": ""
+            },
+            {
+              "id": "d688e658-9db5-4a8b-be4c-18cc027ef546",
+              "value": " I built one myself",
+              "link": "https://dev.to/azimjohn/how-i-built-ngrok-alternative-3n0g",
+              "style": ""
+            },
+            {
+              "id": "cd499b81-b917-458b-8167-3fcbfb6f82be",
+              "value": "giving a talk at a conference",
+              "link": "https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2Fupdate%2Furn%3Ali%3Aactivity%3A6746468038150799360",
+              "style": ""
+            }
+          ],
+          "lists": [],
+          "quotes": []
+        },
+        {
+          "id": "2e01e796-9571-4d6a-8b52-5cba1b7ee3de",
+          "created_at": "04 December, 2020",
+          "base": "",
+          "current_titles": [
+            {
+              "value": "Taking Advantage of Remote Work",
+              "style": ""
+            }
+          ],
+          "subtitles": [],
+          "texts": [
+            {
+              "id": "90211687-1c05-4a21-905d-bf0e95cf28e4",
+              "type": "p",
+              "value": "In my b285bfcd-a917-4c5a-a07f-8e27b5f1d5a7 about building a home office, I wrote:"
+            },
+            {
+              "id": "9e7fe182-2915-4c3c-acbe-4ec808b2cbf0",
+              "type": "p",
+              "value": "I wanted to make further improvements to my home office. I was renting a single room in a shared apartment in Warsaw. Living in a shared apartment has its downs and only downs. I ruined my sleep routine because of the other tenants living together. I really needed to move out."
+            },
+            {
+              "id": "9db37034-fb45-4306-8151-bf93772886ae",
+              "type": "p",
+              "value": "I couldn't afford to rent a full apartment as I was working part-time while studying. But at the same time, I didn't want to risk again moving to another shared apartment. Then I remembered about a tweet I saw earlier this year."
+            },
+            {
+              "id": "28fcc087-b046-49e1-85d4-654566f29097",
+              "type": "p",
+              "value": "Below are houses, both priced at $1M. The one on the left is located in Silicon Valley and the one on the right is in Texas."
+            },
+            {
+              "id": "da991a19-f78d-406d-8e40-4813d47a6714",
+              "type": "p",
+              "value": "This is a mind-blowingly huge difference. The best of remote work is that you can work from anywhere. Timezone matters though."
+            },
+            {
+              "id": "5bbfe5b2-f600-4f8f-a6b7-83ae6645db92",
+              "type": "p",
+              "value": "So I started searching for an apartment outside of Warsaw. I went to a small town called 'Babice Nowe', only 16km away from Warsaw, a 40-min commute from my university."
+            },
+            {
+              "id": "4ffd6095-793b-40e8-b1f0-88057ef9d652",
+              "type": "p",
+              "value": "The apartment is located in a brand new neighborhood in the town center where many shops and grocery stores are located. That was my number one requirement. Then I saw the apartment, loved it. It was a perfect fit."
+            },
+            {
+              "id": "94f950d3-0112-43ac-95c6-0e550df76f7f",
+              "type": "p",
+              "value": "Astonishingly, the whole apartment costs the same as a small room in the city center. I really wanted to move out, but I had 6 more months on the rental agreement with the room I rented. I managed to terminate it legally with some headache and moved out to a new place."
+            },
+            {
+              "id": "5604339d-38c8-4182-834d-cefdf5dfc885",
+              "type": "p",
+              "value": "So here I am, sipping from a cup of coffee, writing this article looking at a view from the balcony of the apartment. It's been a week now, the experience is great so far. I am back on track, focusing on my goals and achieving great results."
+            }
+          ],
+          "images": [
+            {
+              "id": "27454d8d-9179-494d-8b2d-f546c4960c69",
+              "url": "https://azimjon.com/media/2020/12/04/sv_vs_texas.jpg",
+              "alt": "image",
+              "width": "1000px",
+              "height": "500px",
+              "style": "",
+              "title": "image"
+            },
+            {
+              "id": "27454d8d-9179-494d-8b2d-f546c4960c69",
+              "url": "https://azimjon.com/media/2020/12/04/town.png",
+              "alt": "image",
+              "width": "1000px",
+              "height": "500px",
+              "style": "",
+              "title": "image"
+            },
+            {
+              "id": "845bd3ea-fb42-4745-a2ad-801ee0c50aab",
+              "url": "https://azimjon.com/media/2020/12/04/New_Project.jpg",
+              "alt": "image",
+              "width": "1000px",
+              "height": "500px",
+              "style": "",
+              "title": "image"
+            },
+            {
+              "id": "18267603-cea1-47f0-b02c-81ebe50db6e8",
+              "url": "https://azimjon.com/media/2020/12/04/IMG_5656_1.jpg",
+              "alt": "image",
+              "width": "1000px",
+              "height": "500px",
+              "style": "",
+              "title": "image"
+            }
+          ],
+          "links": [
+            {
+              "id": "b285bfcd-a917-4c5a-a07f-8e27b5f1d5a7",
+              "value": "previous article",
+              "link": "https://azimjon.com/blog/home-office-setup-for-productivity/",
+              "style": ""
+            }
+          ],
+          "lists": [],
+          "quotes": [
+            {
+              "id": "db40abf8-87a0-4d9d-b15a-bd33b55cd0f5",
+              "value": "WFH is here to stay for a while now, investing in your workspace definitely pays off"
+            }
+          ]
+        },
+        {
+          "id": "37ef8caf-901e-4c3a-a77f-bf064f53fc9b",
+          "created_at": "27 October, 2020",
+          "base": "",
+          "current_titles": [
+            {
+              "value": "Hawthorne Effect",
+              "style": ""
+            }
+          ],
+          "subtitles": [],
+          "texts": [
+            {
+              "id": "beef8522-b23d-4f7b-b468-33636aff3ead",
+              "type": "p",
+              "value": "In the 1920s, Hawthorne was a telephone equipment manufacturing factory in the USA, one of the respected factories of its time. Hawthorne employees, about 40 thousand, would receive sickness pay, seasonal vacations, and more to make it a privilege to work there.:"
+            },
+            {
+              "id": "d8388f99-8804-473d-be70-dbbb3ef72719",
+              "type": "p",
+              "value": "In 1924, the National Academy of Science decided to conduct an experiment at Hawthorne and 3 other places to find out how illumination would affect the productivity of employees. They installed brighter lights with the premise that it would increase the effectiveness of the workers. Indeed, it did. In the next stage of the experiment, they dimmed the light. Productivity was still higher than before. Another experiment with small breaks was undertaken with the same result."
+            },
+            {
+              "id": "7c755b59-bfe9-4e85-a64c-bdef2a2d5bff",
+              "type": "p",
+              "value": "Although the experiments miserably failed with inconsistent results, it revealed unexpected new findings. Employees would perform better when they knew they were being observed. This effect was later called the Hawthorne effect."
+            },
+            {
+              "id": "4390c576-2ee4-4d42-92f7-6a9d9ff2d78f",
+              "type": "p",
+              "value": "What's the takeaway here? The first thing that came to my mind was that maybe, just maybe - it's the reason why at most companies/schools performance was dropped when they switched to remote mode. We are social beings, we always think about what others think about us, thereby we do better when we're being watched."
+            },
+            {
+              "id": "8a68b0b8-fd54-4e5d-b230-8d9cadf6c896",
+              "type": "p",
+              "value": "The second thing that made me ponder is about religion. I want to leave it as an open-ended question to only yourself, I am just thinking out loud here - overall, religious people tend to be more motivated in life than those with less/no belief, don't they?"
+            },
+            {
+              "id": "5d3f8800-0d25-4e6b-baab-f0b642aa96fc",
+              "type": "p",
+              "value": "Lastly, there is a lesson to learn here. There's always room to improve productivity with management, even just observing seems to help. Effective management has always been credited for success, and vice-versa."
+            }
+          ],
+          "images": [
+            {
+              "id": "27454d8d-9179-494d-8b2d-f546c4960c69",
+              "url": "https://azimjon.com/media/2020/10/27/hawthorne.png",
+              "alt": "image",
+              "width": "1000px",
+              "height": "500px",
+              "style": "",
+              "title": "image"
+            }
+          ],
+          "links": [],
+          "lists": [],
+          "quotes": []
+        }
+      ]
+    }
   ]
 }
-
-
-  ]
-}
-
